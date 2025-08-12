@@ -60,7 +60,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": "pantry"
       },
       "content": {
@@ -110,7 +110,7 @@
         "building": "COM3",
         "room_or_lt": "#01-21",
         "floor": "level 1",
-        "landmark": null
+        "landmark": "seminar room"
       },
       "content": {
         "main_dishes": [
@@ -135,7 +135,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "unknown",
+        "status": "yes",
         "quantity": "unknown"
       },
       "policies": {
