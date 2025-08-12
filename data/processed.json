@@ -1,0 +1,159 @@
+[
+  {
+    "entity": {
+      "location": {
+        "raw": "BLK S3 Level 5",
+        "campus_zone": "Kent Ridge",
+        "building": "S3",
+        "room_or_lt": null,
+        "floor": "level 5",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "buffet"
+        ]
+      },
+      "organizer": {
+        "name": null,
+        "approved": "unknown"
+      },
+      "time": {
+        "clearing_time_exact": null,
+        "clearing_time_relative": null,
+        "consume_by_time": null
+      },
+      "availability": {
+        "status": "yes",
+        "quantity": "unknown"
+      },
+      "policies": {
+        "bring_own_container": true,
+        "bring_own_utensils": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250811/20250811125748_NUS Buffet Response Team_40140.jpg",
+      "20250811/20250811125438_NUS Buffet Response Team_40138.jpg",
+      "20250811/20250811125438_NUS Buffet Response Team_40137.jpg",
+      "20250811/20250811125438_NUS Buffet Response Team_40136.jpg",
+      "20250811/20250811125748_NUS Buffet Response Team_40140.jpg",
+      "20250811/20250811125748_NUS Buffet Response Team_40139.jpg"
+    ],
+    "createdAt": "2025-08-11T04:54:37.000Z",
+    "lastUpdated": "2025-08-11T04:58:20.000Z",
+    "prompts": "Hi, got food at BLK S3 Level 5. Please bring your own containers\nNew Message: S3 Level 5, buffet"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "AS7 Level 3 pantry",
+        "campus_zone": "Kent Ridge",
+        "building": "AS7",
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": "pantry"
+      },
+      "content": {
+        "main_dishes": [
+          "noodles"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer": {
+        "name": "Organizer",
+        "approved": "unknown"
+      },
+      "time": {
+        "clearing_time_exact": null,
+        "clearing_time_relative": null,
+        "consume_by_time": null
+      },
+      "availability": {
+        "status": "yes",
+        "quantity": "few"
+      },
+      "policies": {
+        "bring_own_container": null,
+        "bring_own_utensils": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250811/20250811135148_NUS Buffet Response Team_40142.jpg"
+    ],
+    "createdAt": "2025-08-11T05:51:48.000Z",
+    "lastUpdated": "2025-08-11T06:55:25.000Z",
+    "prompts": "Leftover tea-break @ AS7 Level 3 pantry. - Organizer\nNew Message: Still have?\nNew Message: Only left a lil’ bit of the noodles 🍜"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "COM3 Seminar Room (#01-21)",
+        "campus_zone": "Kent Ridge",
+        "building": "COM3",
+        "room_or_lt": "#01-21",
+        "floor": "level 1",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [
+          "bee hoon",
+          "sandwiches"
+        ],
+        "desserts_snacks": [
+          "kueh",
+          "soon kueh",
+          "red bean pau"
+        ],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer": {
+        "name": null,
+        "approved": "unknown"
+      },
+      "time": {
+        "clearing_time_exact": null,
+        "clearing_time_relative": null,
+        "consume_by_time": null
+      },
+      "availability": {
+        "status": "yes",
+        "quantity": "unknown"
+      },
+      "policies": {
+        "bring_own_container": null,
+        "bring_own_utensils": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "low",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250812/20250812141606_NUS Buffet Response Team_40145.jpg"
+    ],
+    "createdAt": "2025-08-12T06:16:06.000Z",
+    "lastUpdated": "2025-08-12T06:16:06.000Z",
+    "prompts": "Tea buffet at COM3 Seminar Room (#01-21). Have bee hoon, kueh, red bean pau, sandwiches, soon kueh"
+  }
+]
