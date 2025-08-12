@@ -2,20 +2,20 @@
   {
     "entity": {
       "location": {
-        "raw": "S3 Level 5",
+        "raw": "BLK S3 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "Level 5",
+        "floor": "level 5",
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "buffet"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "buffet"
+        ]
       },
       "organizer": {
         "name": null,
@@ -72,7 +72,7 @@
         "other_items": []
       },
       "organizer": {
-        "name": null,
+        "name": "Organizer",
         "approved": "unknown"
       },
       "time": {
