@@ -135,7 +135,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "yes",
+        "status": "unknown",
         "quantity": "unknown"
       },
       "policies": {
@@ -144,7 +144,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
