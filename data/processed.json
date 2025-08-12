@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "level 5",
+        "floor": "Level 5",
         "landmark": null
       },
       "content": {
@@ -27,7 +27,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "unknown",
+        "status": "yes",
         "quantity": "unknown"
       },
       "policies": {
@@ -135,7 +135,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "yes",
+        "status": "unknown",
         "quantity": "unknown"
       },
       "policies": {
