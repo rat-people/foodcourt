@@ -27,7 +27,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "yes",
+        "status": "unknown",
         "quantity": "unknown"
       },
       "policies": {
@@ -135,7 +135,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "unknown",
+        "status": "yes",
         "quantity": "unknown"
       },
       "policies": {
