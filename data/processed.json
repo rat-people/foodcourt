@@ -17,22 +17,14 @@
           "buffet"
         ]
       },
-      "organizer": {
-        "name": null,
-        "approved": "unknown"
-      },
+      "organizer_approved": null,
       "time": {
-        "clearing_time_exact": null,
         "clearing_time_relative": null,
-        "consume_by_time": null
+        "clearing_time_exact": null
       },
-      "availability": {
-        "status": "yes",
-        "quantity": "unknown"
-      },
+      "availability": "unknown",
       "policies": {
         "bring_own_container": true,
-        "bring_own_utensils": null,
         "dietary_flags": []
       },
       "misc": {
@@ -71,26 +63,18 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer": {
-        "name": "Organizer",
-        "approved": "unknown"
-      },
+      "organizer_approved": true,
       "time": {
-        "clearing_time_exact": null,
         "clearing_time_relative": null,
-        "consume_by_time": null
+        "clearing_time_exact": null
       },
-      "availability": {
-        "status": "yes",
-        "quantity": "few"
-      },
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
-        "bring_own_utensils": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -108,8 +92,8 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "#01-21",
-        "floor": "level 1",
+        "room_or_lt": null,
+        "floor": "01",
         "landmark": null
       },
       "content": {
@@ -125,22 +109,14 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer": {
-        "name": null,
-        "approved": "unknown"
-      },
+      "organizer_approved": null,
       "time": {
-        "clearing_time_exact": null,
         "clearing_time_relative": null,
-        "consume_by_time": null
+        "clearing_time_exact": null
       },
-      "availability": {
-        "status": "unknown",
-        "quantity": "unknown"
-      },
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
-        "bring_own_utensils": null,
         "dietary_flags": []
       },
       "misc": {
@@ -164,7 +140,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Audi, SFAH Foyer"
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -172,26 +148,18 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer": {
-        "name": null,
-        "approved": "unknown"
-      },
+      "organizer_approved": null,
       "time": {
-        "clearing_time_exact": null,
         "clearing_time_relative": null,
-        "consume_by_time": null
+        "clearing_time_exact": null
       },
-      "availability": {
-        "status": "yes",
-        "quantity": "unknown"
-      },
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
-        "bring_own_utensils": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -219,26 +187,18 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer": {
-        "name": null,
-        "approved": "unknown"
-      },
+      "organizer_approved": null,
       "time": {
-        "clearing_time_exact": "14:00",
         "clearing_time_relative": null,
-        "consume_by_time": null
+        "clearing_time_exact": "14:00"
       },
-      "availability": {
-        "status": "yes",
-        "quantity": "unknown"
-      },
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
-        "bring_own_utensils": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -269,22 +229,14 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer": {
-        "name": "organizer",
-        "approved": "unknown"
-      },
+      "organizer_approved": true,
       "time": {
-        "clearing_time_exact": "3pm",
         "clearing_time_relative": null,
-        "consume_by_time": null
+        "clearing_time_exact": "3pm"
       },
-      "availability": {
-        "status": "cleared",
-        "quantity": "few"
-      },
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "bring_own_utensils": null,
         "dietary_flags": []
       },
       "misc": {
@@ -308,7 +260,7 @@
         "building": "AS1",
         "room_or_lt": "LT9",
         "floor": "2nd floor",
-        "landmark": "outside LT9"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -319,26 +271,18 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer": {
-        "name": "Organizer",
-        "approved": "unknown"
-      },
+      "organizer_approved": true,
       "time": {
-        "clearing_time_exact": "4:30pm",
         "clearing_time_relative": null,
-        "consume_by_time": null
+        "clearing_time_exact": "16:30"
       },
-      "availability": {
-        "status": "cleared",
-        "quantity": "unknown"
-      },
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "bring_own_utensils": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
