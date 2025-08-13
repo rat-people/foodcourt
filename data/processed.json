@@ -2,11 +2,11 @@
   {
     "entity": {
       "location": {
-        "raw": "BLK S3 Level 5",
+        "raw": "S3 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "level 5",
+        "floor": "Level 5",
         "landmark": null
       },
       "content": {
@@ -27,7 +27,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "unknown",
+        "status": "yes",
         "quantity": "unknown"
       },
       "policies": {
@@ -60,7 +60,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "Level 3",
+        "floor": "level 3",
         "landmark": "pantry"
       },
       "content": {
@@ -108,8 +108,8 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
-        "floor": "#01-21",
+        "room_or_lt": "#01-21",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -135,7 +135,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "unknown",
+        "status": "yes",
         "quantity": "unknown"
       },
       "policies": {
@@ -163,8 +163,8 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 2",
-        "landmark": "foyer, outside audi"
+        "floor": "Level 2",
+        "landmark": "foyer, outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -238,7 +238,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -250,5 +250,52 @@
     "createdAt": "2025-08-13T05:30:33.000Z",
     "lastUpdated": "2025-08-13T05:30:33.000Z",
     "prompts": "Some food left at frontier green outside Fos events lounge. Will clear at 2pm"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "in front of LT26 foyer",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": "LT26",
+        "floor": null,
+        "landmark": "foyer"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer": {
+        "name": "organizer",
+        "approved": "unknown"
+      },
+      "time": {
+        "clearing_time_exact": "15:00",
+        "clearing_time_relative": null,
+        "consume_by_time": null
+      },
+      "availability": {
+        "status": "yes",
+        "quantity": "unknown"
+      },
+      "policies": {
+        "bring_own_container": null,
+        "bring_own_utensils": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "medium",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250813/20250813140810_NUS Buffet Response Team_40149.jpg"
+    ],
+    "createdAt": "2025-08-13T06:08:10.000Z",
+    "lastUpdated": "2025-08-13T06:08:10.000Z",
+    "prompts": "food left in front of LT26 foyer. I am the organizer. Will clear by 3pm"
   }
 ]
