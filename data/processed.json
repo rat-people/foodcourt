@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "BLK S3 Level 5",
+        "raw": "S3 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
@@ -10,12 +10,12 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "buffet"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "buffet"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -92,8 +92,8 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
-        "floor": "#01-21",
+        "room_or_lt": "#01-21",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -139,8 +139,8 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 2",
-        "landmark": "outside audi"
+        "floor": "Level 2",
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -179,7 +179,7 @@
         "building": "Frontier (Science Canteen)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside Fos events lounge"
       },
       "content": {
         "main_dishes": [],
@@ -217,9 +217,9 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -271,7 +271,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": false,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "16:30"
@@ -298,7 +298,7 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -307,7 +307,7 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "snacks"
+          "snack"
         ],
         "drinks": [],
         "other_items": []
@@ -323,7 +323,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -347,7 +347,6 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
           "omelette"
@@ -363,7 +362,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "18:15"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -380,7 +379,7 @@
       "20250813/20250813174625_NUS Buffet Response Team_40159.jpg"
     ],
     "createdAt": "2025-08-13T09:46:25.000Z",
-    "lastUpdated": "2025-08-13T09:46:25.000Z",
-    "prompts": "Packed bento with soya sauce chicken, grilled teriyaki fish and omelette (two chinese vegetarian bento) in front of SDE3-LT423, clearing at 1815 - im the organiser"
+    "lastUpdated": "2025-08-13T10:02:54.000Z",
+    "prompts": "Packed bento with soya sauce chicken, grilled teriyaki fish and omelette (two chinese vegetarian bento) in front of SDE3-LT423, clearing at 1815 - im the organiser\nNew Message: Cleared!"
   }
 ]
