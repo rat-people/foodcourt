@@ -110,7 +110,7 @@
         "building": "COM3",
         "room_or_lt": null,
         "floor": "level 1",
-        "landmark": "seminar room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [
