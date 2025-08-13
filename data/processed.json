@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "BLK S3 Level 5",
+        "raw": "S3 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
