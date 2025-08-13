@@ -2,11 +2,11 @@
   {
     "entity": {
       "location": {
-        "raw": "BLK S3 Level 5",
+        "raw": "S3 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "level 5",
+        "floor": "Level 5",
         "landmark": null
       },
       "content": {
@@ -52,7 +52,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": "pantry"
       },
       "content": {
@@ -93,7 +93,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "#01-21",
         "landmark": null
       },
       "content": {
@@ -139,8 +139,8 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 2",
-        "landmark": "outside Audi"
+        "floor": "Level 2",
+        "landmark": "outside audi"
       },
       "content": {
         "main_dishes": [],
@@ -159,7 +159,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -179,7 +179,7 @@
         "building": "Frontier (Science Canteen)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside Fos events lounge"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -217,9 +217,9 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -260,7 +260,7 @@
         "building": "AS1",
         "room_or_lt": "LT9",
         "floor": "2nd floor",
-        "landmark": "outside LT9"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -273,8 +273,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 4.30pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "16:30"
       },
       "availability": "cleared",
       "policies": {
@@ -282,7 +282,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -323,7 +323,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -339,7 +339,7 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT423",
         "floor": null,
@@ -349,13 +349,12 @@
         "main_dishes": [
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
