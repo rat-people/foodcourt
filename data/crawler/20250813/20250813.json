@@ -1,5 +1,78 @@
 [
   {
+    "ts_utc": "2025-08-13T07:52:11.000Z",
+    "ts_tz": "2025-08-13T15:52:11+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40157,
+    "from": {
+      "id": "6275989090",
+      "username": "JessicaRaj94",
+      "first_name": "Jessica",
+      "last_name": null
+    },
+    "text": "all cleared!",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40149,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-13T07:47:27.000Z",
+    "ts_tz": "2025-08-13T15:47:27+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40156,
+    "from": {
+      "id": "479040395",
+      "username": "Nyreda",
+      "first_name": "Aderyn (she/they)",
+      "last_name": null
+    },
+    "text": "All cleared, thank you!",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40155,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-13T07:40:05.000Z",
+    "ts_tz": "2025-08-13T15:40:05+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40155,
+    "from": {
+      "id": "479040395",
+      "username": "Nyreda",
+      "first_name": "Aderyn (she/they)",
+      "last_name": null
+    },
+    "text": "Leftover carrot cake and curry puffs at AS1 2nd floor, outside LT9! Organizer here, hoping to clear by 4.30pm :)",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6118669543447577890",
+        "filename": "20250813154005_NUS Buffet Response Team_40155.jpg",
+        "path": "20250813/20250813154005_NUS Buffet Response Team_40155.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-08-13T07:20:46.000Z",
     "ts_tz": "2025-08-13T15:20:46+08:00",
     "chat_id": "1083087143",
@@ -14,9 +87,9 @@
     "text": "Hey 👋 @xxluna1",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-13T07:24:21.000Z",
+    "edit_ts_tz": "2025-08-13T15:24:21+08:00",
     "media": []
   },
   {

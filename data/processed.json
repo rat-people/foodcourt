@@ -27,7 +27,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "unknown",
+        "status": "yes",
         "quantity": "unknown"
       },
       "policies": {
@@ -90,7 +90,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -164,7 +164,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer, outside audi"
+        "landmark": "outside Audi, SFAH Foyer"
       },
       "content": {
         "main_dishes": [],
@@ -191,7 +191,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -238,7 +238,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -259,7 +259,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -279,8 +279,58 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "yes",
+        "status": "cleared",
         "quantity": "few"
+      },
+      "policies": {
+        "bring_own_container": null,
+        "bring_own_utensils": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250813/20250813140810_NUS Buffet Response Team_40149.jpg"
+    ],
+    "createdAt": "2025-08-13T06:08:10.000Z",
+    "lastUpdated": "2025-08-13T07:52:11.000Z",
+    "prompts": "food left in front of LT26 foyer. I am the organizer. Will clear by 3pm\nNew Message: left with chicken burgers\nNew Message: less than 5 left\nNew Message: all cleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "AS1 2nd floor, outside LT9",
+        "campus_zone": "Kent Ridge",
+        "building": "AS1",
+        "room_or_lt": "LT9",
+        "floor": "2nd floor",
+        "landmark": "outside LT9"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [
+          "carrot cake",
+          "curry puffs"
+        ],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer": {
+        "name": "Organizer",
+        "approved": "unknown"
+      },
+      "time": {
+        "clearing_time_exact": "4:30pm",
+        "clearing_time_relative": null,
+        "consume_by_time": null
+      },
+      "availability": {
+        "status": "cleared",
+        "quantity": "unknown"
       },
       "policies": {
         "bring_own_container": null,
@@ -294,10 +344,10 @@
       }
     },
     "media": [
-      "20250813/20250813140810_NUS Buffet Response Team_40149.jpg"
+      "20250813/20250813154005_NUS Buffet Response Team_40155.jpg"
     ],
-    "createdAt": "2025-08-13T06:08:10.000Z",
-    "lastUpdated": "2025-08-13T07:06:25.000Z",
-    "prompts": "food left in front of LT26 foyer. I am the organizer. Will clear by 3pm\nNew Message: left with chicken burgers\nNew Message: less than 5 left"
+    "createdAt": "2025-08-13T07:40:05.000Z",
+    "lastUpdated": "2025-08-13T07:47:27.000Z",
+    "prompts": "Leftover carrot cake and curry puffs at AS1 2nd floor, outside LT9! Organizer here, hoping to clear by 4.30pm :)\nNew Message: All cleared, thank you!"
   }
 ]
