@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "S3 Level 5",
+        "raw": "BLK S3 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
@@ -93,7 +93,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "#01",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -140,7 +140,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Audi"
+        "landmark": "foyer, outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -159,7 +159,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -215,11 +215,11 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "foyer"
+        "landmark": "in front of LT26 foyer"
       },
       "content": {
         "main_dishes": [
@@ -258,9 +258,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": "LT9",
+        "room_or_lt": null,
         "floor": "2nd floor",
-        "landmark": "outside"
+        "landmark": "outside LT9"
       },
       "content": {
         "main_dishes": [],
@@ -314,7 +314,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "hoping to clear by 6pm",
+        "clearing_time_relative": "by 6pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -339,7 +339,7 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT423",
         "floor": null,
@@ -370,7 +370,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
