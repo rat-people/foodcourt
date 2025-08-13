@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "S3 Level 5",
+        "raw": "BLK S3 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
@@ -27,7 +27,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "yes",
+        "status": "unknown",
         "quantity": "unknown"
       },
       "policies": {
@@ -60,7 +60,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": "pantry"
       },
       "content": {
@@ -135,7 +135,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "yes",
+        "status": "unknown",
         "quantity": "unknown"
       },
       "policies": {
@@ -164,7 +164,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer, outside Audi"
+        "landmark": "foyer, outside audi"
       },
       "content": {
         "main_dishes": [],
@@ -257,12 +257,14 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "foyer"
+        "landmark": "in front of LT26 foyer"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "chicken burgers"
+        ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": []
@@ -272,13 +274,13 @@
         "approved": "unknown"
       },
       "time": {
-        "clearing_time_exact": "15:00",
+        "clearing_time_exact": "3pm",
         "clearing_time_relative": null,
         "consume_by_time": null
       },
       "availability": {
         "status": "yes",
-        "quantity": "unknown"
+        "quantity": "few"
       },
       "policies": {
         "bring_own_container": null,
@@ -295,7 +297,7 @@
       "20250813/20250813140810_NUS Buffet Response Team_40149.jpg"
     ],
     "createdAt": "2025-08-13T06:08:10.000Z",
-    "lastUpdated": "2025-08-13T06:08:10.000Z",
-    "prompts": "food left in front of LT26 foyer. I am the organizer. Will clear by 3pm"
+    "lastUpdated": "2025-08-13T07:06:25.000Z",
+    "prompts": "food left in front of LT26 foyer. I am the organizer. Will clear by 3pm\nNew Message: left with chicken burgers\nNew Message: less than 5 left"
   }
 ]
