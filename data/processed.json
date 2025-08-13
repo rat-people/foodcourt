@@ -6,16 +6,16 @@
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "level 5",
+        "floor": "Level 5",
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "buffet"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "buffet"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -140,7 +140,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer, outside Audi"
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -159,7 +159,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -198,7 +198,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -215,11 +215,11 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -258,7 +258,7 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": null,
+        "room_or_lt": "LT9",
         "floor": "2nd floor",
         "landmark": "outside LT9"
       },
@@ -282,7 +282,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -314,7 +314,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 6pm",
+        "clearing_time_relative": "hoping to clear by 6pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -370,7 +370,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
