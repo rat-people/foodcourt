@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "Level 5",
+        "floor": "level 5",
         "landmark": null
       },
       "content": {
@@ -60,7 +60,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": "pantry"
       },
       "content": {
@@ -109,7 +109,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "#01-21",
         "landmark": null
       },
       "content": {
@@ -155,5 +155,100 @@
     "createdAt": "2025-08-12T06:16:06.000Z",
     "lastUpdated": "2025-08-12T06:16:06.000Z",
     "prompts": "Tea buffet at COM3 Seminar Room (#01-21). Have bee hoon, kueh, red bean pau, sandwiches, soon kueh"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "SFAH Foyer, Level 2 outside Audi",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 2",
+        "landmark": "foyer, outside audi"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer": {
+        "name": null,
+        "approved": "unknown"
+      },
+      "time": {
+        "clearing_time_exact": null,
+        "clearing_time_relative": null,
+        "consume_by_time": null
+      },
+      "availability": {
+        "status": "yes",
+        "quantity": "unknown"
+      },
+      "policies": {
+        "bring_own_container": null,
+        "bring_own_utensils": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "high",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250813/20250813132651_NUS Buffet Response Team_40146.jpg"
+    ],
+    "createdAt": "2025-08-13T05:26:51.000Z",
+    "lastUpdated": "2025-08-13T05:26:51.000Z",
+    "prompts": "SFAH Foyer, Level 2 outside Audi - Please help yourself with the food before caterer come to clear. Tks."
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "frontier green outside Fos events lounge",
+        "campus_zone": "Kent Ridge",
+        "building": "Frontier (Science Canteen)",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "outside Fos events lounge"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer": {
+        "name": null,
+        "approved": "unknown"
+      },
+      "time": {
+        "clearing_time_exact": "14:00",
+        "clearing_time_relative": null,
+        "consume_by_time": null
+      },
+      "availability": {
+        "status": "yes",
+        "quantity": "unknown"
+      },
+      "policies": {
+        "bring_own_container": null,
+        "bring_own_utensils": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "medium",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250813/20250813133033_NUS Buffet Response Team_40148.jpg",
+      "20250813/20250813133033_NUS Buffet Response Team_40147.jpg"
+    ],
+    "createdAt": "2025-08-13T05:30:33.000Z",
+    "lastUpdated": "2025-08-13T05:30:33.000Z",
+    "prompts": "Some food left at frontier green outside Fos events lounge. Will clear at 2pm"
   }
 ]
