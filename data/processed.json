@@ -6,16 +6,16 @@
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "Level 5",
+        "floor": "level 5",
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "buffet"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "buffet"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -52,7 +52,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": "pantry"
       },
       "content": {
@@ -139,8 +139,8 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 2",
-        "landmark": "outside Audi"
+        "floor": "level 2",
+        "landmark": "outside audi"
       },
       "content": {
         "main_dishes": [],
@@ -179,7 +179,7 @@
         "building": "Frontier (Science Canteen)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside Fos events lounge"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -219,7 +219,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "foyer"
+        "landmark": "in front of LT26 foyer"
       },
       "content": {
         "main_dishes": [
@@ -258,9 +258,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": null,
+        "room_or_lt": "LT9",
         "floor": "2nd floor",
-        "landmark": "outside LT9"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -293,5 +293,94 @@
     "createdAt": "2025-08-13T07:40:05.000Z",
     "lastUpdated": "2025-08-13T07:47:27.000Z",
     "prompts": "Leftover carrot cake and curry puffs at AS1 2nd floor, outside LT9! Organizer here, hoping to clear by 4.30pm :)\nNew Message: All cleared, thank you!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Central library level 4 multipurpose room",
+        "campus_zone": "Kent Ridge",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 4",
+        "landmark": "multipurpose room"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [
+          "snacks"
+        ],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "18:00"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "medium",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250813/20250813174104_NUS Buffet Response Team_40158.jpg"
+    ],
+    "createdAt": "2025-08-13T09:41:04.000Z",
+    "lastUpdated": "2025-08-13T09:41:04.000Z",
+    "prompts": "Central library level 4 multipurpose room! Please help to clear and drop by especially if you’re in the library and need a snack :) hoping to clear by 6pm! (Snack section at the back of multipurpose room)"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "in front of SDE3-LT423",
+        "campus_zone": "Kent Ridge",
+        "building": null,
+        "room_or_lt": "LT423",
+        "floor": null,
+        "landmark": "in front of"
+      },
+      "content": {
+        "main_dishes": [
+          "bento",
+          "soya sauce chicken",
+          "grilled teriyaki fish",
+          "omelette"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "18:15"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "vegetarian"
+        ]
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250813/20250813174625_NUS Buffet Response Team_40159.jpg"
+    ],
+    "createdAt": "2025-08-13T09:46:25.000Z",
+    "lastUpdated": "2025-08-13T09:46:25.000Z",
+    "prompts": "Packed bento with soya sauce chicken, grilled teriyaki fish and omelette (two chinese vegetarian bento) in front of SDE3-LT423, clearing at 1815 - im the organiser"
   }
 ]
