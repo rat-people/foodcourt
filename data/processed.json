@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "Level 5",
+        "floor": "level 5",
         "landmark": null
       },
       "content": {
@@ -93,7 +93,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "01",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -140,7 +140,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Audi"
+        "landmark": "foyer, outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -232,7 +232,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "3pm"
+        "clearing_time_exact": "15:00"
       },
       "availability": "cleared",
       "policies": {
@@ -282,7 +282,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
