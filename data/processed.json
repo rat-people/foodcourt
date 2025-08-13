@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "level 5",
+        "floor": "Level 5",
         "landmark": null
       },
       "content": {
@@ -140,13 +140,15 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer, outside Audi"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "food"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -217,7 +219,7 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
         "landmark": "foyer"
       },
@@ -265,13 +267,14 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "carrot cake",
           "curry puffs"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "carrot cake"
+        ]
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "16:30"
@@ -282,7 +285,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
