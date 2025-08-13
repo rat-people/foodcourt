@@ -2,11 +2,11 @@
   {
     "entity": {
       "location": {
-        "raw": "S3 Level 5",
+        "raw": "BLK S3 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S3",
         "room_or_lt": null,
-        "floor": "level 5",
+        "floor": "Level 5",
         "landmark": null
       },
       "content": {
@@ -27,7 +27,7 @@
         "consume_by_time": null
       },
       "availability": {
-        "status": "yes",
+        "status": "unknown",
         "quantity": "unknown"
       },
       "policies": {
@@ -60,7 +60,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "Level 3",
+        "floor": "level 3",
         "landmark": "pantry"
       },
       "content": {
@@ -110,7 +110,7 @@
         "building": "COM3",
         "room_or_lt": null,
         "floor": "level 1",
-        "landmark": null
+        "landmark": "seminar room"
       },
       "content": {
         "main_dishes": [
