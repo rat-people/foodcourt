@@ -93,8 +93,8 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "level 1",
-        "landmark": null
+        "floor": "#01-21",
+        "landmark": "seminar room"
       },
       "content": {
         "main_dishes": [
@@ -140,7 +140,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Audi"
+        "landmark": "foyer, outside audi"
       },
       "content": {
         "main_dishes": [],
@@ -219,7 +219,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -258,9 +258,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": null,
+        "room_or_lt": "LT9",
         "floor": "2nd floor",
-        "landmark": "outside LT9"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -299,7 +299,7 @@
       "location": {
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "Central Library",
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -315,7 +315,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6pm"
+        "clearing_time_exact": "18:00"
       },
       "availability": "cleared",
       "policies": {
@@ -339,7 +339,7 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT423",
         "floor": null,
@@ -347,16 +347,14 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
