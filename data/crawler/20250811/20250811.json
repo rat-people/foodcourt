@@ -1,28 +1,5 @@
 [
   {
-    "ts_utc": "2025-08-11T06:55:25.000Z",
-    "ts_tz": "2025-08-11T14:55:25+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40144,
-    "from": {
-      "id": "6769685721",
-      "username": "nurlinahwati",
-      "first_name": "Nurlinahwati",
-      "last_name": "Muhamad Nur"
-    },
-    "text": "Only left a lil’ bit of the noodles 🍜",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40143,
-      "reply_to_top_message_id": 40142
-    },
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": []
-  },
-  {
     "ts_utc": "2025-08-11T05:51:48.000Z",
     "ts_tz": "2025-08-11T13:51:48+08:00",
     "chat_id": "1083087143",

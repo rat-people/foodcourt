@@ -10,9 +10,7 @@
         "landmark": "pantry"
       },
       "content": {
-        "main_dishes": [
-          "noodles"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": []
@@ -22,7 +20,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -37,8 +35,8 @@
       "20250811/20250811135148_NUS Buffet Response Team_40142.jpg"
     ],
     "createdAt": "2025-08-11T05:51:48.000Z",
-    "lastUpdated": "2025-08-11T06:55:25.000Z",
-    "prompts": "Leftover tea-break @ AS7 Level 3 pantry. - Organizer\nNew Message: Only left a lil’ bit of the noodles 🍜"
+    "lastUpdated": "2025-08-11T05:51:48.000Z",
+    "prompts": "Leftover tea-break @ AS7 Level 3 pantry. - Organizer"
   },
   {
     "entity": {
@@ -47,7 +45,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "01",
         "landmark": null
       },
       "content": {
@@ -169,9 +167,9 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
         "landmark": "foyer"
       },
@@ -212,9 +210,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": "LT9",
+        "room_or_lt": null,
         "floor": "2nd floor",
-        "landmark": "outside"
+        "landmark": "outside LT9"
       },
       "content": {
         "main_dishes": [],
@@ -268,8 +266,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 6pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "18:00"
       },
       "availability": "cleared",
       "policies": {
@@ -277,7 +275,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -303,13 +301,12 @@
         "main_dishes": [
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -368,7 +365,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }

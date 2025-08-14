@@ -41,9 +41,9 @@
     "text": null,
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-14T07:05:16.000Z",
+    "edit_ts_tz": "2025-08-14T15:05:16+08:00",
     "media": [
       {
         "type": "photo",
