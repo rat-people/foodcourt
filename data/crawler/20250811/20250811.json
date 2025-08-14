@@ -71,52 +71,5 @@
         "path": "20250811/20250811135148_NUS Buffet Response Team_40142.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-08-11T04:58:20.000Z",
-    "ts_tz": "2025-08-11T12:58:20+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40141,
-    "from": {
-      "id": "6242374925",
-      "username": null,
-      "first_name": "Reena",
-      "last_name": "Samynadan"
-    },
-    "text": "S3 Level 5, buffet",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-11T05:33:36.000Z",
-    "edit_ts_tz": "2025-08-11T13:33:36+08:00",
-    "media": []
-  },
-  {
-    "ts_utc": "2025-08-11T04:57:48.000Z",
-    "ts_tz": "2025-08-11T12:57:48+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40139,
-    "from": {
-      "id": "6242374925",
-      "username": null,
-      "first_name": "Reena",
-      "last_name": "Samynadan"
-    },
-    "text": null,
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-11T05:31:23.000Z",
-    "edit_ts_tz": "2025-08-11T13:31:23+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6111518951180714599",
-        "filename": "20250811125748_NUS Buffet Response Team_40139.jpg",
-        "path": "20250811/20250811125748_NUS Buffet Response Team_40139.jpg"
-      }
-    ]
   }
 ]

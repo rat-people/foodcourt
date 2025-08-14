@@ -2,47 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "S3 Level 5",
-        "campus_zone": "Kent Ridge",
-        "building": "S3",
-        "room_or_lt": null,
-        "floor": "level 5",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "buffet"
-        ]
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250811/20250811125748_NUS Buffet Response Team_40139.jpg"
-    ],
-    "createdAt": "2025-08-11T04:57:48.000Z",
-    "lastUpdated": "2025-08-11T04:58:20.000Z",
-    "prompts": "S3 Level 5, buffet"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "AS7 Level 3 pantry",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
@@ -87,7 +46,7 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "#01-21",
+        "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
       },
@@ -212,9 +171,9 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -227,7 +186,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "15:00"
+        "clearing_time_exact": "3pm"
       },
       "availability": "cleared",
       "policies": {
@@ -260,16 +219,16 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "carrot cake",
-          "curry puffs"
+          "curry puffs",
+          "carrot cake"
         ],
         "drinks": [],
         "other_items": []
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "16:30"
+        "clearing_time_relative": "hoping to clear by 4.30pm",
+        "clearing_time_exact": "4:30pm"
       },
       "availability": "cleared",
       "policies": {
@@ -309,7 +268,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 6pm",
+        "clearing_time_relative": "hoping to clear by 6pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -336,21 +295,21 @@
         "raw": "in front of SDE3-LT423",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "LT423",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "in front of"
+        "landmark": "in front of SDE3-LT423"
       },
       "content": {
         "main_dishes": [
-          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -376,5 +335,50 @@
     "createdAt": "2025-08-13T09:46:25.000Z",
     "lastUpdated": "2025-08-13T10:02:54.000Z",
     "prompts": "Packed bento with soya sauce chicken, grilled teriyaki fish and omelette (two chinese vegetarian bento) in front of SDE3-LT423, clearing at 1815 - im the organiser\nNew Message: Cleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Outside seminar room level 1, I cube building.",
+        "campus_zone": "Kent Ridge",
+        "building": "i3",
+        "room_or_lt": null,
+        "floor": "level 1",
+        "landmark": "outside seminar room"
+      },
+      "content": {
+        "main_dishes": [
+          "laksa",
+          "pineapple rice"
+        ],
+        "desserts_snacks": [
+          "dessert"
+        ],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250814/20250814133236_NUS Buffet Response Team_40164.jpg",
+      "20250814/20250814133236_NUS Buffet Response Team_40163.jpg"
+    ],
+    "createdAt": "2025-08-14T05:32:36.000Z",
+    "lastUpdated": "2025-08-14T05:32:36.000Z",
+    "prompts": "left some Laksa, And some pinenapple rice and dessert. Can come to take some. Outside seminar room level 1, I cube building. - I am the organizer"
   }
 ]
