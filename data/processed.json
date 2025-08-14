@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "#01-21",
         "landmark": null
       },
       "content": {
@@ -15,12 +15,13 @@
           "sandwiches"
         ],
         "desserts_snacks": [
-          "kueh",
-          "red bean pau",
-          "soon kueh"
+          "kueh"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "red bean pau",
+          "soon kueh"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -178,8 +179,8 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "curry puffs",
-          "carrot cake"
+          "carrot cake",
+          "curry puffs"
         ],
         "drinks": [],
         "other_items": []
@@ -187,7 +188,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "16:30"
+        "clearing_time_exact": "4:30pm"
       },
       "availability": "cleared",
       "policies": {
@@ -195,7 +196,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -228,7 +229,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6pm"
+        "clearing_time_exact": "18:00"
       },
       "availability": "cleared",
       "policies": {
@@ -236,7 +237,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -254,21 +255,21 @@
         "raw": "in front of SDE3-LT423",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT423",
         "floor": null,
         "landmark": "in front of"
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
