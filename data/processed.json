@@ -53,7 +53,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer, outside Audi"
+        "landmark": "foyer, outside audi"
       },
       "content": {
         "main_dishes": [],
@@ -128,7 +128,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT26",
         "floor": null,
@@ -153,7 +153,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -171,24 +171,23 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": "LT9",
+        "room_or_lt": null,
         "floor": "2nd floor",
-        "landmark": "outside"
+        "landmark": "outside LT9"
       },
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
+          "carrot cake",
           "curry puffs"
         ],
         "drinks": [],
-        "other_items": [
-          "carrot cake"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "4:30pm"
+        "clearing_time_exact": "16:30"
       },
       "availability": "cleared",
       "policies": {
@@ -228,8 +227,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "hoping to clear by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -237,7 +236,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -255,20 +254,22 @@
         "raw": "in front of SDE3-LT423",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "SDE3-LT423",
+        "room_or_lt": "LT423",
         "floor": null,
         "landmark": "in front of"
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
