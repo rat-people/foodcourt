@@ -15,13 +15,12 @@
           "sandwiches"
         ],
         "desserts_snacks": [
-          "kueh"
-        ],
-        "drinks": [],
-        "other_items": [
+          "kueh",
           "red bean pau",
           "soon kueh"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -53,8 +52,8 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 2",
-        "landmark": "foyer, outside audi"
+        "floor": "level 2",
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -129,11 +128,11 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "foyer"
+        "landmark": "in front of lt26 foyer"
       },
       "content": {
         "main_dishes": [
@@ -179,16 +178,17 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "carrot cake",
           "curry puffs"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "carrot cake"
+        ]
       },
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "4:30pm"
+        "clearing_time_exact": "16:30"
       },
       "availability": "cleared",
       "policies": {
@@ -196,7 +196,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -212,7 +212,7 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -231,13 +231,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "18:00"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -261,11 +261,10 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
           "omelette",
-          "vegetarian bento"
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
