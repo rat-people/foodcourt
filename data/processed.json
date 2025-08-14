@@ -38,7 +38,7 @@
     ],
     "createdAt": "2025-08-11T05:51:48.000Z",
     "lastUpdated": "2025-08-11T06:55:25.000Z",
-    "prompts": "Leftover tea-break @ AS7 Level 3 pantry. - Organizer\nNew Message: Still have?\nNew Message: Only left a lil’ bit of the noodles 🍜"
+    "prompts": "Leftover tea-break @ AS7 Level 3 pantry. - Organizer\nNew Message: Only left a lil’ bit of the noodles 🍜"
   },
   {
     "entity": {
@@ -46,7 +46,7 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "#01-21",
+        "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
       },
@@ -94,7 +94,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer"
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -169,7 +169,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -236,7 +236,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -252,7 +252,7 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -268,8 +268,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -277,7 +277,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -301,14 +301,15 @@
       },
       "content": {
         "main_dishes": [
-          "chicken",
+          "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
