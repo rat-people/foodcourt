@@ -173,26 +173,6 @@
     ]
   },
   {
-    "ts_utc": "2025-08-13T07:20:46.000Z",
-    "ts_tz": "2025-08-13T15:20:46+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40154,
-    "from": {
-      "id": "7045884044",
-      "username": null,
-      "first_name": "¥**",
-      "last_name": null
-    },
-    "text": "Hey 👋 @xxluna1",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-13T07:24:21.000Z",
-    "edit_ts_tz": "2025-08-13T15:24:21+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-08-13T07:06:25.000Z",
     "ts_tz": "2025-08-13T15:06:25+08:00",
     "chat_id": "1083087143",

@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "AS7 Level 3 pantry",
+        "raw": "AS7 Level 3 pantry.",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
@@ -45,7 +45,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "01",
+        "floor": "#01-21",
         "landmark": null
       },
       "content": {
@@ -98,7 +98,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "food"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -167,7 +169,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT26",
         "floor": null,
@@ -210,9 +212,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": null,
+        "room_or_lt": "LT9",
         "floor": "2nd floor",
-        "landmark": "outside LT9"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -250,7 +252,7 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -266,8 +268,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -365,7 +367,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
