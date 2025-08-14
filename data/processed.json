@@ -52,7 +52,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": "pantry"
       },
       "content": {
@@ -93,7 +93,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "#01",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -217,7 +217,7 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
         "landmark": "foyer"
       },
@@ -258,7 +258,7 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": "LT9",
+        "room_or_lt": null,
         "floor": "2nd floor",
         "landmark": "outside"
       },
@@ -298,7 +298,7 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -314,8 +314,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 6pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "18:00"
       },
       "availability": "cleared",
       "policies": {
@@ -323,7 +323,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -339,7 +339,7 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT423",
         "floor": null,
@@ -347,7 +347,6 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
           "omelette"
