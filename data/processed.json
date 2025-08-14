@@ -6,16 +6,14 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": "pantry"
       },
       "content": {
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "tea-break"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -94,7 +92,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside audi"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [],
@@ -152,7 +150,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -169,11 +167,11 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
+        "campus_zone": "Kent Ridge",
+        "building": "LT26",
+        "room_or_lt": "LT26",
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -252,11 +250,11 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": "multipurpose room",
+        "campus_zone": "Kent Ridge",
+        "building": "Central Library",
+        "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [],
@@ -268,7 +266,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "hoping to clear by 6pm",
+        "clearing_time_relative": "by 6pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -301,6 +299,7 @@
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
           "omelette",
@@ -367,7 +366,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
