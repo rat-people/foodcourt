@@ -7,7 +7,7 @@
         "building": "COM3",
         "room_or_lt": null,
         "floor": "level 1",
-        "landmark": "seminar room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [
@@ -53,7 +53,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Audi"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [],
@@ -130,7 +130,7 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
         "landmark": "foyer"
       },
@@ -171,9 +171,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": null,
+        "room_or_lt": "LT9",
         "floor": "2nd floor",
-        "landmark": "outside LT9"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -195,7 +195,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -213,9 +213,9 @@
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "multipurpose room",
+        "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [],
@@ -236,7 +236,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -262,12 +262,13 @@
         "main_dishes": [
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -326,7 +327,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
