@@ -82,11 +82,11 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -125,9 +125,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": null,
+        "room_or_lt": "LT9",
         "floor": "2nd floor",
-        "landmark": "outside LT9"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -165,11 +165,11 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "multipurpose room",
         "floor": "level 4",
-        "landmark": "multipurpose room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -190,7 +190,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -214,6 +214,7 @@
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
           "omelette",
@@ -274,7 +275,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "14:10"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
