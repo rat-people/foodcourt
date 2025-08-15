@@ -3,11 +3,11 @@
     "entity": {
       "location": {
         "raw": "SFAH Foyer, Level 2 outside Audi",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Audi"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [],
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -165,11 +165,11 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "multipurpose room",
+        "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [],
@@ -181,8 +181,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "hoping to clear by 6pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "18:00"
       },
       "availability": "cleared",
       "policies": {
@@ -281,7 +281,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
