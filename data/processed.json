@@ -5,7 +5,7 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "#01-21",
+        "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
       },
@@ -34,7 +34,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": null,
+        "food_source": "Tea buffet",
         "risk_notice": null
       }
     },
@@ -92,7 +92,7 @@
         "building": "Frontier (Science Canteen)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside Fos events lounge"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -130,7 +130,7 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "in front of LT26 foyer"
       },
@@ -195,7 +195,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -227,7 +227,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "hoping to clear by 6pm",
+        "clearing_time_relative": "by 6pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -236,7 +236,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -252,7 +252,7 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT423",
         "floor": null,
@@ -298,7 +298,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside seminar room level 1, I3 building, 119613.",
+        "raw": "Outside seminar room level 1, I3 building, 119613",
         "campus_zone": "Kent Ridge",
         "building": "i3",
         "room_or_lt": null,
