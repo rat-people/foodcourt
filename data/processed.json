@@ -5,8 +5,8 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "#01-21",
-        "floor": "level 1",
+        "room_or_lt": "Seminar Room",
+        "floor": "#01",
         "landmark": null
       },
       "content": {
@@ -128,7 +128,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT26",
         "floor": null,
@@ -178,11 +178,12 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "carrot cake",
           "curry puffs"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "carrot cake"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -195,7 +196,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -213,22 +214,20 @@
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "multipurpose room",
+        "room_or_lt": null,
         "floor": "level 4",
         "landmark": null
       },
       "content": {
         "main_dishes": [],
-        "desserts_snacks": [
-          "snack"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 6pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "18:00"
       },
       "availability": "cleared",
       "policies": {
@@ -252,7 +251,7 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT423",
         "floor": null,
@@ -260,15 +259,15 @@
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -319,7 +318,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "2:10pm"
+        "clearing_time_exact": "14:10"
       },
       "availability": "unknown",
       "policies": {
