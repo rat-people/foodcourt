@@ -6,8 +6,8 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 2",
-        "landmark": "foyer, outside Audi"
+        "floor": "level 2",
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [],
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -140,8 +140,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "16:30"
+        "clearing_time_relative": "by 4.30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -165,8 +165,8 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
-        "building": "Central Library",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -181,8 +181,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "hoping to clear by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -214,14 +214,16 @@
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
