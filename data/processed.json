@@ -6,8 +6,8 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 2",
-        "landmark": "outside audi"
+        "floor": "Level 2",
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -190,7 +190,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -206,11 +206,11 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT423",
         "floor": null,
-        "landmark": "in front of SDE3-LT423"
+        "landmark": "in front of"
       },
       "content": {
         "main_dishes": [
