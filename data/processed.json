@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "#01-21",
         "landmark": null
       },
       "content": {
@@ -34,7 +34,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "Tea buffet",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -72,7 +72,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -92,7 +92,7 @@
         "building": "Frontier (Science Canteen)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside Fos events lounge"
       },
       "content": {
         "main_dishes": [],
@@ -128,11 +128,11 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
-        "landmark": "in front of LT26 foyer"
+        "landmark": "foyer"
       },
       "content": {
         "main_dishes": [
@@ -212,7 +212,7 @@
       "location": {
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "Central Library",
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -236,7 +236,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -252,7 +252,7 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT423",
         "floor": null,
