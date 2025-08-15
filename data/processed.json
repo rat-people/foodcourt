@@ -5,7 +5,7 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "#01-21",
+        "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
       },
@@ -72,7 +72,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -92,7 +92,7 @@
         "building": "Frontier (Science Canteen)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside Fos events lounge"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -128,9 +128,9 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "foyer"
       },
@@ -211,11 +211,11 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "multipurpose room",
+        "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [],
@@ -227,8 +227,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 6pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "18:00"
       },
       "availability": "cleared",
       "policies": {
@@ -260,15 +260,15 @@
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
