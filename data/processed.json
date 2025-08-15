@@ -7,7 +7,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer"
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -46,7 +46,7 @@
         "building": "Frontier (Science Canteen)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside Fos events lounge"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -84,7 +84,7 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "foyer"
       },
@@ -125,9 +125,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": null,
+        "room_or_lt": "LT9",
         "floor": "2nd floor",
-        "landmark": "outside LT9"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -181,8 +181,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "hoping to clear by 6pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "18:00"
       },
       "availability": "cleared",
       "policies": {
@@ -217,12 +217,13 @@
           "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
