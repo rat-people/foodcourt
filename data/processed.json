@@ -6,8 +6,8 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "#01-21",
-        "landmark": "seminar room"
+        "floor": "#01",
+        "landmark": null
       },
       "content": {
         "main_dishes": [
@@ -59,7 +59,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "food"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -72,7 +74,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -128,7 +130,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT26",
         "floor": null,
@@ -153,7 +155,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -178,17 +180,16 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
+          "carrot cake",
           "curry puffs"
         ],
         "drinks": [],
-        "other_items": [
-          "carrot cake"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "16:30"
+        "clearing_time_exact": "4:30pm"
       },
       "availability": "cleared",
       "policies": {
@@ -196,7 +197,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -213,7 +214,7 @@
       "location": {
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
-        "building": "Central Library",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -228,8 +229,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
