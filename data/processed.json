@@ -5,8 +5,8 @@
         "raw": "COM3 Seminar Room (#01-21)",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "Seminar Room",
-        "floor": "#01",
+        "room_or_lt": "#01-21",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -128,11 +128,11 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT26",
         "floor": null,
-        "landmark": "foyer"
+        "landmark": "in front of LT26 foyer"
       },
       "content": {
         "main_dishes": [
@@ -178,12 +178,11 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
+          "carrot cake",
           "curry puffs"
         ],
         "drinks": [],
-        "other_items": [
-          "carrot cake"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -196,7 +195,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -216,18 +215,20 @@
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [],
-        "desserts_snacks": [],
+        "desserts_snacks": [
+          "snack"
+        ],
         "drinks": [],
         "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "hoping to clear by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -235,7 +236,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -259,15 +260,15 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -297,7 +298,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside seminar room level 1, I3 building, 119613",
+        "raw": "Outside seminar room level 1, I3 building, 119613.",
         "campus_zone": "Kent Ridge",
         "building": "i3",
         "room_or_lt": null,
