@@ -6,8 +6,8 @@
         "campus_zone": "Kent Ridge",
         "building": "COM3",
         "room_or_lt": null,
-        "floor": "level 1",
-        "landmark": null
+        "floor": "#01-21",
+        "landmark": "seminar room"
       },
       "content": {
         "main_dishes": [
@@ -53,7 +53,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer, outside audi"
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -128,7 +128,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT26",
         "floor": null,
@@ -178,11 +178,12 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "carrot cake",
           "curry puffs"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "carrot cake"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -195,7 +196,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -212,7 +213,7 @@
       "location": {
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "Central Library",
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -263,13 +264,12 @@
           "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -328,7 +328,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
