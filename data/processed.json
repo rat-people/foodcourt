@@ -2,132 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "all cleared!",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-08-13T07:52:11.000Z",
-    "lastUpdated": "2025-08-13T07:52:11.000Z",
-    "prompts": "all cleared!"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "level 4",
-        "landmark": "multipurpose room"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
-          "snack"
-        ],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "hoping to clear by 6pm",
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "medium",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250813/20250813174104_NUS Buffet Response Team_40158.jpg"
-    ],
-    "createdAt": "2025-08-13T09:41:04.000Z",
-    "lastUpdated": "2025-08-13T10:37:43.000Z",
-    "prompts": "Central library level 4 multipurpose room! Please help to clear and drop by especially if you’re in the library and need a snack :) hoping to clear by 6pm! (Snack section at the back of multipurpose room)\nNew Message: cleared already？"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "in front of SDE3-LT423",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": "LT423",
-        "floor": null,
-        "landmark": "in front of"
-      },
-      "content": {
-        "main_dishes": [
-          "bento",
-          "soya sauce chicken",
-          "grilled teriyaki fish",
-          "omelette"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:15"
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "vegetarian"
-        ]
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250813/20250813174625_NUS Buffet Response Team_40159.jpg"
-    ],
-    "createdAt": "2025-08-13T09:46:25.000Z",
-    "lastUpdated": "2025-08-13T10:02:54.000Z",
-    "prompts": "Packed bento with soya sauce chicken, grilled teriyaki fish and omelette (two chinese vegetarian bento) in front of SDE3-LT423, clearing at 1815 - im the organiser\nNew Message: Cleared!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "Outside seminar room level 1, I3 building, 119613",
         "campus_zone": "Kent Ridge",
         "building": "i3",
@@ -157,7 +31,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -176,7 +50,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -184,7 +58,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -219,7 +93,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -247,7 +121,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -308,9 +182,9 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "Coriander room",
         "floor": "Level 2",
         "landmark": null
       },
@@ -351,8 +225,8 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
-        "campus_zone": "unknown",
+        "raw": "@ngee ann kongsi audi",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -395,5 +269,48 @@
     "createdAt": "2025-08-16T08:18:12.000Z",
     "lastUpdated": "2025-08-16T09:26:34.000Z",
     "prompts": "Bee hoon, chicken, kuih, with utensils. @ngee ann kongsi audi, clear by 4.45pm! I am the organiser\nNew Message: There is also sunshine bread available\nNew Message: Still available?\nNew Message: Yes\nNew Message: Cleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Outside MD6",
+        "campus_zone": "Outram",
+        "building": "MD6",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "outside"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "medium",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250816/20250816180332_NUS Buffet Response Team_40192.jpg",
+      "20250816/20250816180332_NUS Buffet Response Team_40191.jpg",
+      "20250816/20250816180332_NUS Buffet Response Team_40190.jpg",
+      "20250816/20250816180332_NUS Buffet Response Team_40189.jpg",
+      "20250816/20250816180332_NUS Buffet Response Team_40188.jpg"
+    ],
+    "createdAt": "2025-08-16T10:03:32.000Z",
+    "lastUpdated": "2025-08-16T10:03:32.000Z",
+    "prompts": "Outside MD6 org approved unsure when clearing but come earlier better"
   }
 ]
