@@ -77,7 +77,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": "eat at your own risk"
       }
@@ -104,11 +104,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
+        "desserts_snacks": [
           "samosas"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -256,7 +256,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -275,7 +275,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": "MD6",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -288,7 +288,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -299,7 +299,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
