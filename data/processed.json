@@ -7,7 +7,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer"
+        "landmark": "outside audi"
       },
       "content": {
         "main_dishes": [],
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -82,7 +82,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT26",
         "floor": null,
@@ -166,10 +166,10 @@
       "location": {
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": null,
+        "building": "Central Library",
+        "room_or_lt": "multipurpose room",
         "floor": "level 4",
-        "landmark": "multipurpose room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -216,13 +216,12 @@
         "main_dishes": [
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -295,5 +294,48 @@
     "createdAt": "2025-08-14T05:32:36.000Z",
     "lastUpdated": "2025-08-14T05:41:08.000Z",
     "prompts": "left some Laksa. Can come to take some. Outside seminar room level 1, I3 building, 119613. Cleared by 2:10pm - I am the organizer\nNew Message: And some Pineapple fried rice and dessert"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "YIH green sofa",
+        "campus_zone": "YIH",
+        "building": "YIH",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "green sofa"
+      },
+      "content": {
+        "main_dishes": [
+          "bento"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "few",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": "eat at your own risk"
+      }
+    },
+    "media": [
+      "20250815/20250815222558_NUS Buffet Response Team_40170.jpg"
+    ],
+    "createdAt": "2025-08-15T14:25:58.000Z",
+    "lastUpdated": "2025-08-15T14:27:36.000Z",
+    "prompts": "Free halal bento at YIH green sofa (qty:12), no best by date so eat at your own risk (got it at arnd 4pm). There's a few disposable plastic cutleries and napkins 🙏\nNew Message: in front of wild skew!"
   }
 ]
