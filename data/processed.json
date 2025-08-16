@@ -5,9 +5,9 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": "LT9",
+        "room_or_lt": null,
         "floor": "2nd floor",
-        "landmark": "outside"
+        "landmark": "outside LT9"
       },
       "content": {
         "main_dishes": [],
@@ -29,7 +29,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -84,9 +84,9 @@
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "multipurpose room",
         "floor": "level 4",
-        "landmark": "multipurpose room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -131,14 +131,16 @@
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -216,7 +218,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -259,7 +261,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -281,7 +283,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -296,8 +298,8 @@
       "20250816/20250816132545_NUS Buffet Response Team_40173.jpg"
     ],
     "createdAt": "2025-08-16T05:25:45.000Z",
-    "lastUpdated": "2025-08-16T05:57:25.000Z",
-    "prompts": "Need to clear samosas, chicken rice, mee goreng packs. Come down to LT7 to collect.\n\nCutlery and chilli available\nNew Message: Still have?"
+    "lastUpdated": "2025-08-16T07:57:01.000Z",
+    "prompts": "Need to clear samosas, chicken rice, mee goreng packs. Come down to LT7 to collect.\n\nCutlery and chilli available\n\nCLEARED\nNew Message: Still have?\nNew Message: cleared i think🤗"
   },
   {
     "entity": {
@@ -307,19 +309,19 @@
         "building": "UTown ERC",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside pitstop"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "beehoon",
-          "tofu",
-          "veg"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": []
+        "other_items": [
+          "tofu and veg"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -347,7 +349,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room!",
+        "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
@@ -386,6 +388,6 @@
     ],
     "createdAt": "2025-08-16T06:15:02.000Z",
     "lastUpdated": "2025-08-16T06:36:49.000Z",
-    "prompts": "Pizza catering @ Shaw foundation Alumni House (s119344), Level 2, Coriander room! (Vegetarian and halal options available)\n\nClearing at 2.30! Am the organizer\nNew Message: All cleared!"
+    "prompts": "Pizza catering @ Shaw foundation Alumni House (s119344), Level 2, Coriander room! (Vegetarian and halal options available)\n\nClearing at 2.30! Am the organizer\nNew Message: All taken!"
   }
 ]
