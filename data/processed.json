@@ -7,7 +7,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside audi"
+        "landmark": "foyer, outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -84,7 +84,7 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "foyer"
       },
@@ -167,9 +167,9 @@
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
         "building": "Central Library",
-        "room_or_lt": "multipurpose room",
+        "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [],
@@ -217,7 +217,7 @@
           "soya sauce chicken",
           "grilled teriyaki fish",
           "omelette",
-          "vegetarian bento"
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -299,7 +299,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -307,7 +307,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
