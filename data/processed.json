@@ -133,13 +133,12 @@
         "main_dishes": [
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -198,7 +197,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -217,7 +216,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -268,13 +267,14 @@
       },
       "content": {
         "main_dishes": [
-          "samosas",
           "chicken rice",
           "mee goreng"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -287,7 +287,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -307,7 +307,7 @@
         "building": "UTown ERC",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside pitstop"
       },
       "content": {
         "main_dishes": [
@@ -318,7 +318,8 @@
           "fruit punch"
         ],
         "other_items": [
-          "tofu and veg"
+          "tofu",
+          "veg"
         ]
       },
       "organizer_approved": true,
@@ -348,9 +349,9 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "Coriander room",
+        "room_or_lt": null,
         "floor": "Level 2",
         "landmark": null
       },
@@ -433,7 +434,7 @@
       "20250816/20250816161813_NUS Buffet Response Team_40181.jpg"
     ],
     "createdAt": "2025-08-16T08:18:12.000Z",
-    "lastUpdated": "2025-08-16T08:54:10.000Z",
-    "prompts": "Bee hoon, chicken, kuih, with utensils. @ngee ann kongsi audi, clear by 4.45pm! I am the organiser\nNew Message: There is also sunshine bread available\nNew Message: Still available?"
+    "lastUpdated": "2025-08-16T08:57:23.000Z",
+    "prompts": "Bee hoon, chicken, kuih, with utensils. @ngee ann kongsi audi, clear by 4.45pm! I am the organiser\nNew Message: There is also sunshine bread available\nNew Message: Still available?\nNew Message: Yes"
   }
 ]
