@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -82,11 +82,11 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "foyer"
+        "landmark": "in front of LT26 foyer"
       },
       "content": {
         "main_dishes": [
@@ -165,7 +165,7 @@
     "entity": {
       "location": {
         "raw": "Central library level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -181,8 +181,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "hoping to clear by 6pm",
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -206,15 +206,14 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT423",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "in front of"
       },
       "content": {
         "main_dishes": [
-          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
           "omelette"
@@ -301,7 +300,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
