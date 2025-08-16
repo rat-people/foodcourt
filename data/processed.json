@@ -50,7 +50,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -184,7 +184,7 @@
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "Coriander room",
+        "room_or_lt": null,
         "floor": "Level 2",
         "landmark": null
       },
@@ -210,7 +210,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -225,7 +225,7 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
+        "raw": "@ngee ann kongsi audi",
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
@@ -256,7 +256,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
