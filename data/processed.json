@@ -31,7 +31,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -50,7 +50,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -58,7 +58,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -152,7 +152,8 @@
           "fruit punch"
         ],
         "other_items": [
-          "tofu and veg"
+          "tofu",
+          "veg"
         ]
       },
       "organizer_approved": true,
@@ -225,8 +226,8 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
-        "campus_zone": "unknown",
+        "raw": "@ngee ann kongsi audi",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
