@@ -2,12 +2,12 @@
   {
     "entity": {
       "location": {
-        "raw": "in front of LT26 foyer",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "foyer"
+        "landmark": null
       },
       "content": {
         "main_dishes": [
@@ -17,28 +17,26 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "15:00"
+        "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
     },
-    "media": [
-      "20250813/20250813140810_NUS Buffet Response Team_40149.jpg"
-    ],
-    "createdAt": "2025-08-13T06:08:10.000Z",
-    "lastUpdated": "2025-08-13T07:52:11.000Z",
-    "prompts": "food left in front of LT26 foyer. I am the organizer. Will clear by 3pm\nNew Message: left with chicken burgers\nNew Message: less than 5 left\nNew Message: all cleared!"
+    "media": [],
+    "createdAt": "2025-08-13T06:59:41.000Z",
+    "lastUpdated": "2025-08-13T07:06:25.000Z",
+    "prompts": "left with chicken burgers\nNew Message: less than 5 left"
   },
   {
     "entity": {
@@ -53,16 +51,16 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "curry puffs",
-          "carrot cake"
+          "carrot cake",
+          "curry puffs"
         ],
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": null,
+      "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "16:30"
+        "clearing_time_relative": "by 4.30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -70,7 +68,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -85,9 +83,46 @@
   {
     "entity": {
       "location": {
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-08-13T07:52:11.000Z",
+    "lastUpdated": "2025-08-13T07:52:11.000Z",
+    "prompts": "all cleared!"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
-        "building": "Central Library",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -95,15 +130,15 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "snacks"
+          "snack"
         ],
         "drinks": [],
         "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -127,7 +162,7 @@
     "entity": {
       "location": {
         "raw": "in front of SDE3-LT423",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT423",
         "floor": null,
@@ -137,12 +172,13 @@
         "main_dishes": [
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -201,7 +237,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -220,7 +256,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -300,8 +336,8 @@
       "20250816/20250816132545_NUS Buffet Response Team_40173.jpg"
     ],
     "createdAt": "2025-08-16T05:25:45.000Z",
-    "lastUpdated": "2025-08-16T05:25:45.000Z",
-    "prompts": "Need to clear samosas, chicken rice, mee goreng packs. Come down to LT7 to collect.\n\nCutlery and chilli available"
+    "lastUpdated": "2025-08-16T05:57:25.000Z",
+    "prompts": "Need to clear samosas, chicken rice, mee goreng packs. Come down to LT7 to collect.\n\nCutlery and chilli available\nNew Message: Still have?"
   },
   {
     "entity": {
@@ -315,15 +351,15 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon"
+          "beehoon",
+          "tofu",
+          "veg"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": [
-          "tofu and veg"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -347,5 +383,49 @@
     "createdAt": "2025-08-16T05:33:27.000Z",
     "lastUpdated": "2025-08-16T05:33:27.000Z",
     "prompts": "Beehoon, tofu and veg, and fruit punch outside Pitstop @ UTown (ERC), cutlery and plates avail\n\nClearing at 2pm! Am the organiser"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
+        "campus_zone": "Kent Ridge",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "Level 2",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [
+          "pizza"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "2:30"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "vegetarian",
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250816/20250816141502_NUS Buffet Response Team_40177.jpg"
+    ],
+    "createdAt": "2025-08-16T06:15:02.000Z",
+    "lastUpdated": "2025-08-16T06:15:02.000Z",
+    "prompts": "Pizza catering @ Shaw foundation Alumni House (s119344), Level 2, Coriander room! (Vegetarian and halal options available)\n\nClearing at 2.30! Am the organizer"
   }
 ]
