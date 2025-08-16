@@ -1,25 +1,5 @@
 [
   {
-    "ts_utc": "2025-08-16T10:29:49.000Z",
-    "ts_tz": "2025-08-16T18:29:49+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40193,
-    "from": {
-      "id": "1825400064",
-      "username": "irridium_hzt",
-      "first_name": "Tommy 🦑",
-      "last_name": "HZT"
-    },
-    "text": "Still have?",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-16T10:35:01.000Z",
-    "edit_ts_tz": "2025-08-16T18:35:01+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-08-16T10:03:32.000Z",
     "ts_tz": "2025-08-16T18:03:32+08:00",
     "chat_id": "1083087143",
