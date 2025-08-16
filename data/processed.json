@@ -23,13 +23,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "16:30"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -38,8 +38,8 @@
       "20250813/20250813154005_NUS Buffet Response Team_40155.jpg"
     ],
     "createdAt": "2025-08-13T07:40:05.000Z",
-    "lastUpdated": "2025-08-13T07:47:27.000Z",
-    "prompts": "Leftover carrot cake and curry puffs at AS1 2nd floor, outside LT9! Organizer here, hoping to clear by 4.30pm :)\nNew Message: All cleared, thank you!"
+    "lastUpdated": "2025-08-13T07:40:05.000Z",
+    "prompts": "Leftover carrot cake and curry puffs at AS1 2nd floor, outside LT9! Organizer here, hoping to clear by 4.30pm :)"
   },
   {
     "entity": {
@@ -84,9 +84,9 @@
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "multipurpose room",
+        "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [],
@@ -98,7 +98,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 6pm",
+        "clearing_time_relative": "hoping to clear by 6pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -133,13 +133,12 @@
         "main_dishes": [
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "chinese vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -198,7 +197,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -271,11 +270,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -288,7 +287,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -308,7 +307,7 @@
         "building": "UTown ERC",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside pitstop"
       },
       "content": {
         "main_dishes": [
@@ -348,7 +347,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
+        "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room!",
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
@@ -366,7 +365,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_exact": "2:30"
       },
       "availability": "cleared",
       "policies": {
