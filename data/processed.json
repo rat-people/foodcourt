@@ -7,7 +7,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "foyer, outside Audi"
+        "landmark": "outside Audi"
       },
       "content": {
         "main_dishes": [],
@@ -82,9 +82,9 @@
     "entity": {
       "location": {
         "raw": "in front of LT26 foyer",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT26",
         "floor": null,
         "landmark": "foyer"
       },
@@ -125,18 +125,19 @@
         "raw": "AS1 2nd floor, outside LT9",
         "campus_zone": "Kent Ridge",
         "building": "AS1",
-        "room_or_lt": "LT9",
+        "room_or_lt": null,
         "floor": "2nd floor",
-        "landmark": "outside"
+        "landmark": "outside LT9"
       },
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "carrot cake",
           "curry puffs"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "carrot cake"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -166,7 +167,7 @@
       "location": {
         "raw": "Central library level 4 multipurpose room",
         "campus_zone": "Kent Ridge",
-        "building": "Central Library",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -181,8 +182,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_relative": "hoping to clear by 6pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -214,10 +215,11 @@
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
           "omelette",
-          "chinese vegetarian bento"
+          "vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -299,7 +301,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -307,7 +309,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
