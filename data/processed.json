@@ -5,7 +5,7 @@
         "raw": "in front of LT26 foyer",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT26",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "foyer"
       },
@@ -70,7 +70,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -102,7 +102,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "hoping to clear by 6pm",
+        "clearing_time_relative": "6pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -138,13 +138,12 @@
           "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -203,7 +202,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -222,7 +221,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -293,7 +292,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -308,24 +307,24 @@
   {
     "entity": {
       "location": {
-        "raw": "outside Pitstop @ Utown",
+        "raw": "outside Pitstop @ UTown (ERC)",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "beehoon"
+          "beehoon",
+          "tofu",
+          "veg"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": [
-          "tofu and veg"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -348,6 +347,6 @@
     ],
     "createdAt": "2025-08-16T05:33:27.000Z",
     "lastUpdated": "2025-08-16T05:33:27.000Z",
-    "prompts": "Beehoon, tofu and veg, and fruit punch outside Pitstop @ Utown\n\nClearing at 2pm! Am the organiser"
+    "prompts": "Beehoon, tofu and veg, and fruit punch outside Pitstop @ UTown (ERC), cutlery and plates avail\n\nClearing at 2pm! Am the organiser"
   }
 ]
