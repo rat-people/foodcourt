@@ -2,48 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "AS1 2nd floor, outside LT9",
-        "campus_zone": "Kent Ridge",
-        "building": "AS1",
-        "room_or_lt": "LT9",
-        "floor": "2nd floor",
-        "landmark": "outside"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
-          "carrot cake",
-          "curry puffs"
-        ],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "16:30"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "medium",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250813/20250813154005_NUS Buffet Response Team_40155.jpg"
-    ],
-    "createdAt": "2025-08-13T07:40:05.000Z",
-    "lastUpdated": "2025-08-13T07:40:05.000Z",
-    "prompts": "Leftover carrot cake and curry puffs at AS1 2nd floor, outside LT9! Organizer here, hoping to clear by 4.30pm :)"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
@@ -131,15 +89,15 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette",
-          "chinese vegetarian bento"
+          "omelette"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chinese vegetarian bento"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -198,7 +156,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -217,7 +175,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -271,11 +229,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
+        "desserts_snacks": [
           "samosas"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -312,15 +270,15 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon",
-          "tofu",
-          "veg"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": []
+        "other_items": [
+          "tofu and veg"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -349,9 +307,9 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "Coriander room",
+        "room_or_lt": null,
         "floor": "Level 2",
         "landmark": null
       },
@@ -392,8 +350,8 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
-        "campus_zone": "unknown",
+        "raw": "@ngee ann kongsi audi",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
