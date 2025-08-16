@@ -171,48 +171,5 @@
         "path": "20250813/20250813154005_NUS Buffet Response Team_40155.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-08-13T07:06:25.000Z",
-    "ts_tz": "2025-08-13T15:06:25+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40153,
-    "from": {
-      "id": "970211286",
-      "username": null,
-      "first_name": "Zhi Kang",
-      "last_name": null
-    },
-    "text": "less than 5 left",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40152,
-      "reply_to_top_message_id": null
-    },
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": []
-  },
-  {
-    "ts_utc": "2025-08-13T06:59:41.000Z",
-    "ts_tz": "2025-08-13T14:59:41+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40152,
-    "from": {
-      "id": "6275989090",
-      "username": "JessicaRaj94",
-      "first_name": "Jessica",
-      "last_name": null
-    },
-    "text": "left with chicken burgers",
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": []
   }
 ]
