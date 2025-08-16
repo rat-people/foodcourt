@@ -59,8 +59,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 4.30pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "16:30"
       },
       "availability": "cleared",
       "policies": {
@@ -137,7 +137,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 6pm",
+        "clearing_time_relative": "hoping to clear by 6pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -170,15 +170,15 @@
       },
       "content": {
         "main_dishes": [
+          "bento",
           "soya sauce chicken",
           "grilled teriyaki fish",
-          "omelette"
+          "omelette",
+          "vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chinese vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -310,11 +310,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
+        "desserts_snacks": [
           "samosas"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -327,7 +327,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -372,7 +372,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -388,7 +388,7 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
@@ -407,7 +407,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "2:30"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -425,7 +425,7 @@
       "20250816/20250816141502_NUS Buffet Response Team_40177.jpg"
     ],
     "createdAt": "2025-08-16T06:15:02.000Z",
-    "lastUpdated": "2025-08-16T06:15:02.000Z",
-    "prompts": "Pizza catering @ Shaw foundation Alumni House (s119344), Level 2, Coriander room! (Vegetarian and halal options available)\n\nClearing at 2.30! Am the organizer"
+    "lastUpdated": "2025-08-16T06:36:49.000Z",
+    "prompts": "Pizza catering @ Shaw foundation Alumni House (s119344), Level 2, Coriander room! (Vegetarian and halal options available)\n\nClearing at 2.30! Am the organizer\nNew Message: All cleared!"
   }
 ]

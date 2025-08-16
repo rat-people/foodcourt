@@ -1,5 +1,28 @@
 [
   {
+    "ts_utc": "2025-08-16T06:36:49.000Z",
+    "ts_tz": "2025-08-16T14:36:49+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40178,
+    "from": {
+      "id": "1226068335",
+      "username": "DLR233",
+      "first_name": "Liurong",
+      "last_name": "Wang"
+    },
+    "text": "All cleared!",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40177,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-16T06:15:02.000Z",
     "ts_tz": "2025-08-16T14:15:02+08:00",
     "chat_id": "1083087143",
@@ -14,9 +37,9 @@
     "text": "Pizza catering @ Shaw foundation Alumni House (s119344), Level 2, Coriander room! (Vegetarian and halal options available)\n\nClearing at 2.30! Am the organizer",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-16T06:34:59.000Z",
+    "edit_ts_tz": "2025-08-16T14:34:59+08:00",
     "media": [
       {
         "type": "photo",
