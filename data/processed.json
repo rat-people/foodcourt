@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside seminar room level 1, I3 building, 119613.",
+        "raw": "Outside seminar room level 1, I3 building, 119613",
         "campus_zone": "Kent Ridge",
         "building": "i3",
         "room_or_lt": null,
@@ -226,7 +226,7 @@
     "entity": {
       "location": {
         "raw": "@ngee ann kongsi audi",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -256,7 +256,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -299,7 +299,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -312,7 +312,7 @@
       "20250816/20250816180332_NUS Buffet Response Team_40188.jpg"
     ],
     "createdAt": "2025-08-16T10:03:32.000Z",
-    "lastUpdated": "2025-08-16T10:03:32.000Z",
-    "prompts": "Outside MD6 org approved unsure when clearing but come earlier better\nHalal, and still available"
+    "lastUpdated": "2025-08-16T11:36:25.000Z",
+    "prompts": "Outside MD6 org approved unsure when clearing but come earlier better\nHalal, and still available\nNew Message: still available?"
   }
 ]
