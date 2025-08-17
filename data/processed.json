@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -31,7 +31,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "arnd 4pm",
+        "food_source": null,
         "risk_notice": "eat at your own risk"
       }
     },
@@ -48,20 +48,19 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT7",
         "floor": null,
         "landmark": null
       },
       "content": {
         "main_dishes": [
+          "samosas",
           "chicken rice",
           "mee goreng"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "samosas"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -74,7 +73,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -105,8 +104,7 @@
           "fruit punch"
         ],
         "other_items": [
-          "tofu",
-          "veg"
+          "tofu and veg"
         ]
       },
       "organizer_approved": true,
@@ -120,7 +118,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -136,7 +134,7 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
@@ -179,8 +177,8 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
-        "campus_zone": "unknown",
+        "raw": "@ngee ann kongsi audi",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -210,7 +208,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -229,7 +227,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD6",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -370,7 +368,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -397,7 +395,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside"
+        "landmark": "outside PR2"
       },
       "content": {
         "main_dishes": [
