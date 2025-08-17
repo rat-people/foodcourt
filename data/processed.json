@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside seminar room level 1, I3 building, 119613",
+        "raw": "Outside seminar room level 1, I3 building, 119613.",
         "campus_zone": "Kent Ridge",
         "building": "i3",
         "room_or_lt": null,
@@ -11,12 +11,9 @@
       },
       "content": {
         "main_dishes": [
-          "laksa",
-          "pineapple fried rice"
+          "laksa"
         ],
-        "desserts_snacks": [
-          "dessert"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
@@ -38,12 +35,11 @@
     },
     "media": [
       "20250814/20250814133236_NUS Buffet Response Team_40163.jpg",
-      "20250814/20250814134107_NUS Buffet Response Team_40166.jpg",
-      "20250814/20250814134108_NUS Buffet Response Team_40167.jpg"
+      "20250814/20250814134107_NUS Buffet Response Team_40166.jpg"
     ],
     "createdAt": "2025-08-14T05:32:36.000Z",
-    "lastUpdated": "2025-08-14T05:41:08.000Z",
-    "prompts": "left some Laksa. Can come to take some. Outside seminar room level 1, I3 building, 119613. Cleared by 2:10pm - I am the organizer\nNew Message: And some Pineapple fried rice and dessert"
+    "lastUpdated": "2025-08-14T05:41:07.000Z",
+    "prompts": "left some Laksa. Can come to take some. Outside seminar room level 1, I3 building, 119613. Cleared by 2:10pm - I am the organizer"
   },
   {
     "entity": {
@@ -144,15 +140,16 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon",
-          "tofu",
-          "veg"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": []
+        "other_items": [
+          "tofu",
+          "veg"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -224,9 +221,9 @@
   {
     "entity": {
       "location": {
-        "raw": "@ngee ann kongsi audi",
+        "raw": "ngee ann kongsi audi",
         "campus_zone": "Kent Ridge",
-        "building": "UCC",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -255,7 +252,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }

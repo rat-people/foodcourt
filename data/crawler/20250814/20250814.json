@@ -1,32 +1,5 @@
 [
   {
-    "ts_utc": "2025-08-14T05:41:08.000Z",
-    "ts_tz": "2025-08-14T13:41:08+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40167,
-    "from": {
-      "id": "532154608",
-      "username": "cancan792",
-      "first_name": "🍉Zican",
-      "last_name": "Shi 😊"
-    },
-    "text": "And some Pineapple fried rice and dessert",
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6120921343261262955",
-        "filename": "20250814134108_NUS Buffet Response Team_40167.jpg",
-        "path": "20250814/20250814134108_NUS Buffet Response Team_40167.jpg"
-      }
-    ]
-  },
-  {
     "ts_utc": "2025-08-14T05:41:07.000Z",
     "ts_tz": "2025-08-14T13:41:07+08:00",
     "chat_id": "1083087143",
