@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -98,15 +98,15 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon",
-          "tofu",
-          "veg"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": []
+        "other_items": [
+          "tofu and veg"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -119,7 +119,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -137,7 +137,7 @@
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "Coriander room",
         "floor": "Level 2",
         "landmark": null
       },
@@ -178,8 +178,8 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
-        "campus_zone": "Kent Ridge",
+        "raw": "@ngee ann kongsi audi",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -209,7 +209,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -228,7 +228,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD6",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -354,7 +354,7 @@
   {
     "entity": {
       "location": {
-        "raw": "",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -453,7 +453,9 @@
       "availability": "unknown",
       "policies": {
         "bring_own_container": null,
-        "dietary_flags": []
+        "dietary_flags": [
+          "vegetarian"
+        ]
       },
       "misc": {
         "urgency_level": null,
