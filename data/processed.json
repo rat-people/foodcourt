@@ -54,13 +54,14 @@
       },
       "content": {
         "main_dishes": [
-          "samosas",
           "chicken rice",
           "mee goreng"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -73,7 +74,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -118,7 +119,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -133,7 +134,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
+        "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -179,7 +180,7 @@
       "location": {
         "raw": "@ngee ann kongsi audi",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -190,11 +191,12 @@
           "chicken"
         ],
         "desserts_snacks": [
-          "kuih",
-          "bread"
+          "kuih"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "sunshine bread"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -328,7 +330,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -394,7 +396,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside"
+        "landmark": "outside PR2"
       },
       "content": {
         "main_dishes": [
@@ -426,5 +428,42 @@
     "createdAt": "2025-08-17T10:59:36.000Z",
     "lastUpdated": "2025-08-17T10:59:36.000Z",
     "prompts": "Food at level 3 Src outside PR2 (nasi lemak)"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-08-17T11:39:16.000Z",
+    "lastUpdated": "2025-08-17T11:40:26.000Z",
+    "prompts": "HITCHER available \n\n Dm!! … @Kitty_lixo_1\nNew Message: vegetarian options?"
   }
 ]

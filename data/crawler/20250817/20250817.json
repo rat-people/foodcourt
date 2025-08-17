@@ -1,5 +1,88 @@
 [
   {
+    "ts_utc": "2025-08-17T11:40:26.000Z",
+    "ts_tz": "2025-08-17T19:40:26+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40206,
+    "from": {
+      "id": "1698729161",
+      "username": "Hanwah01",
+      "first_name": "han",
+      "last_name": "wah"
+    },
+    "text": "vegetarian options?",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40205,
+      "reply_to_top_message_id": null
+    },
+    "edited": true,
+    "edit_ts_utc": "2025-08-17T11:40:34.000Z",
+    "edit_ts_tz": "2025-08-17T19:40:34+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-17T11:39:16.000Z",
+    "ts_tz": "2025-08-17T19:39:16+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40205,
+    "from": {
+      "id": "6496030609",
+      "username": null,
+      "first_name": "..💢",
+      "last_name": null
+    },
+    "text": "HITCHER available \n\n Dm!! … @Kitty_lixo_1",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-17T11:39:06.000Z",
+    "ts_tz": "2025-08-17T19:39:06+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40204,
+    "from": {
+      "id": "1015661793",
+      "username": "lihaonan1998",
+      "first_name": "Haonan",
+      "last_name": "Li"
+    },
+    "text": "???",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-17T11:38:40.000Z",
+    "ts_tz": "2025-08-17T19:38:40+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40203,
+    "from": {
+      "id": "6496030609",
+      "username": null,
+      "first_name": "..💢",
+      "last_name": null
+    },
+    "text": "HITCHER available \n\n Dm!! … @Kitty_lixo_1",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-17T11:41:18.000Z",
+    "edit_ts_tz": "2025-08-17T19:41:18+08:00",
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-17T10:59:36.000Z",
     "ts_tz": "2025-08-17T18:59:36+08:00",
     "chat_id": "1083087143",
