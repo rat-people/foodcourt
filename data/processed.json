@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -31,7 +31,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": null,
+        "food_source": "arnd 4pm",
         "risk_notice": "eat at your own risk"
       }
     },
@@ -48,7 +48,7 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT7",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -57,11 +57,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -74,7 +74,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -94,19 +94,20 @@
         "building": "UTown ERC",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside Pitstop"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "beehoon",
-          "tofu",
-          "veg"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": []
+        "other_items": [
+          "tofu",
+          "veg"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -178,8 +179,8 @@
   {
     "entity": {
       "location": {
-        "raw": "@ngee ann kongsi audi",
-        "campus_zone": "Kent Ridge",
+        "raw": "ngee ann kongsi audi",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -330,7 +331,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -349,7 +350,7 @@
     ],
     "createdAt": "2025-08-17T06:06:48.000Z",
     "lastUpdated": "2025-08-17T07:52:15.000Z",
-    "prompts": "We have a bunch of vegetarian and halal nasi lemak sets to clear. Come down to LT7\n\nChilli and utensils provided\nNew Message: Still hv?"
+    "prompts": "We have a bunch of vegetarian and halal nasi lemak sets to clear. Come down to LT7\n\nChilli and utensils provided\n\nCLEARED\nNew Message: Still hv?"
   },
   {
     "entity": {
@@ -369,7 +370,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -387,5 +388,46 @@
     "createdAt": "2025-08-17T08:54:32.000Z",
     "lastUpdated": "2025-08-17T08:54:32.000Z",
     "prompts": "Yes still have alot! Please clear :)"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "level 3 Src outside PR2",
+        "campus_zone": "Utown",
+        "building": "UTown SRC",
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": "outside"
+      },
+      "content": {
+        "main_dishes": [
+          "nasi lemak"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250817/20250817185936_NUS Buffet Response Team_40202.jpg"
+    ],
+    "createdAt": "2025-08-17T10:59:36.000Z",
+    "lastUpdated": "2025-08-17T10:59:36.000Z",
+    "prompts": "Food at level 3 Src outside PR2 (nasi lemak)"
   }
 ]
