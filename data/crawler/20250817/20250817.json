@@ -1,5 +1,25 @@
 [
   {
+    "ts_utc": "2025-08-17T12:07:33.000Z",
+    "ts_tz": "2025-08-17T20:07:33+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40207,
+    "from": {
+      "id": "6496030609",
+      "username": null,
+      "first_name": "..💢",
+      "last_name": null
+    },
+    "text": "HITCHER available \n\n Dm!! … @Kitty_lixo_1",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-17T12:20:21.000Z",
+    "edit_ts_tz": "2025-08-17T20:20:21+08:00",
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-17T11:40:26.000Z",
     "ts_tz": "2025-08-17T19:40:26+08:00",
     "chat_id": "1083087143",
@@ -37,9 +57,9 @@
     "text": "HITCHER available \n\n Dm!! … @Kitty_lixo_1",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-17T12:20:19.000Z",
+    "edit_ts_tz": "2025-08-17T20:20:19+08:00",
     "media": []
   },
   {
