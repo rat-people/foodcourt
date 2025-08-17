@@ -98,15 +98,15 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon",
-          "tofu",
-          "veg"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": []
+        "other_items": [
+          "tofu and veg"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -138,7 +138,7 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 2",
+        "floor": "level 2",
         "landmark": null
       },
       "content": {
@@ -152,7 +152,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "2:30"
+        "clearing_time_exact": "14:30"
       },
       "availability": "cleared",
       "policies": {
@@ -179,7 +179,7 @@
     "entity": {
       "location": {
         "raw": "ngee ann kongsi audi",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -209,7 +209,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -354,7 +354,7 @@
   {
     "entity": {
       "location": {
-        "raw": "",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
