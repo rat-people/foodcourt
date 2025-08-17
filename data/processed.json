@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -48,7 +48,7 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT7",
         "floor": null,
         "landmark": null
       },
@@ -57,11 +57,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
+        "desserts_snacks": [
           "samosas"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -99,8 +99,7 @@
       "content": {
         "main_dishes": [
           "beehoon",
-          "tofu",
-          "veg"
+          "tofu and veg"
         ],
         "desserts_snacks": [],
         "drinks": [
@@ -119,7 +118,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -135,9 +134,9 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "Coriander room",
         "floor": "Level 2",
         "landmark": null
       },
@@ -178,7 +177,7 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
+        "raw": "@ngee ann kongsi audi",
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
@@ -311,7 +310,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -348,7 +347,7 @@
       "20250817/20250817140648_NUS Buffet Response Team_40198.jpg"
     ],
     "createdAt": "2025-08-17T06:06:48.000Z",
-    "lastUpdated": "2025-08-17T06:06:48.000Z",
-    "prompts": "We have a bunch of vegetarian and halal nasi lemak sets to clear. Come down to LT7\n\nChilli and utensils provided"
+    "lastUpdated": "2025-08-17T07:52:15.000Z",
+    "prompts": "We have a bunch of vegetarian and halal nasi lemak sets to clear. Come down to LT7\n\nChilli and utensils provided\nNew Message: Still hv?"
   }
 ]
