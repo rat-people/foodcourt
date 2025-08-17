@@ -3,11 +3,11 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "in front of wild skew"
+        "landmark": "green sofa"
       },
       "content": {
         "main_dishes": [
@@ -57,11 +57,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
+        "desserts_snacks": [
           "samosas"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -74,7 +74,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -139,7 +139,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "Coriander room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [
@@ -179,7 +179,7 @@
     "entity": {
       "location": {
         "raw": "@ngee ann kongsi audi",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -209,7 +209,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -252,7 +252,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -272,7 +272,7 @@
     "entity": {
       "location": {
         "raw": "YIH level 4 (near MPH 4)",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": "level 4",
