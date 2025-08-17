@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -57,11 +57,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -94,7 +94,7 @@
         "building": "UTown ERC",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside pitstop"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -139,7 +139,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": null
+        "landmark": "Coriander room"
       },
       "content": {
         "main_dishes": [
@@ -179,7 +179,7 @@
     "entity": {
       "location": {
         "raw": "ngee ann kongsi audi",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -306,5 +306,49 @@
     "createdAt": "2025-08-17T05:08:53.000Z",
     "lastUpdated": "2025-08-17T05:09:32.000Z",
     "prompts": "hi guys free food at YIH level 4 (near MPH 4) come take"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "LT7",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": "LT7",
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [
+          "nasi lemak"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "vegetarian",
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250817/20250817140648_NUS Buffet Response Team_40198.jpg"
+    ],
+    "createdAt": "2025-08-17T06:06:48.000Z",
+    "lastUpdated": "2025-08-17T06:06:48.000Z",
+    "prompts": "We have a bunch of vegetarian and halal nasi lemak sets to clear. Come down to LT7\n\nChilli and utensils provided"
   }
 ]

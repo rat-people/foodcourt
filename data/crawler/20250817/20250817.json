@@ -1,5 +1,32 @@
 [
   {
+    "ts_utc": "2025-08-17T06:06:48.000Z",
+    "ts_tz": "2025-08-17T14:06:48+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40198,
+    "from": {
+      "id": "250760547",
+      "username": "Skididipak",
+      "first_name": "Jordie :)",
+      "last_name": null
+    },
+    "text": "We have a bunch of vegetarian and halal nasi lemak sets to clear. Come down to LT7\n\nChilli and utensils provided",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6127174124154504758",
+        "filename": "20250817140648_NUS Buffet Response Team_40198.jpg",
+        "path": "20250817/20250817140648_NUS Buffet Response Team_40198.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-08-17T05:09:32.000Z",
     "ts_tz": "2025-08-17T13:09:32+08:00",
     "chat_id": "1083087143",
