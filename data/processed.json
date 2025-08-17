@@ -138,7 +138,7 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 2",
+        "floor": "Level 2",
         "landmark": null
       },
       "content": {
@@ -152,7 +152,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_exact": "2:30"
       },
       "availability": "cleared",
       "policies": {
@@ -178,8 +178,8 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
-        "campus_zone": "Kent Ridge",
+        "raw": "@ngee ann kongsi audi",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -228,7 +228,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD6",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -252,7 +252,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
