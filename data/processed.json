@@ -3,11 +3,11 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "green sofa"
+        "landmark": "in front of wild skew"
       },
       "content": {
         "main_dishes": [
@@ -57,11 +57,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -98,14 +98,15 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon",
-          "tofu and veg"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": []
+        "other_items": [
+          "tofu and veg"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -118,7 +119,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -136,9 +137,9 @@
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "Coriander room",
+        "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": null
+        "landmark": "Coriander room"
       },
       "content": {
         "main_dishes": [
@@ -208,7 +209,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -271,7 +272,7 @@
     "entity": {
       "location": {
         "raw": "YIH level 4 (near MPH 4)",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": "level 4",
