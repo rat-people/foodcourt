@@ -31,13 +31,12 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
     },
     "media": [
-      "20250814/20250814133236_NUS Buffet Response Team_40164.jpg",
       "20250814/20250814133236_NUS Buffet Response Team_40163.jpg",
       "20250814/20250814134107_NUS Buffet Response Team_40166.jpg",
       "20250814/20250814134108_NUS Buffet Response Team_40167.jpg"
@@ -50,7 +49,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -95,7 +94,7 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT7",
         "floor": null,
         "landmark": null
       },
@@ -121,7 +120,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -145,15 +144,15 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon"
+          "beehoon",
+          "tofu",
+          "veg"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": [
-          "tofu and veg"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -227,7 +226,7 @@
       "location": {
         "raw": "@ngee ann kongsi audi",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "UCC",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -256,7 +255,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
