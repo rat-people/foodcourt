@@ -1,0 +1,49 @@
+[
+  {
+    "ts_utc": "2025-08-17T05:09:32.000Z",
+    "ts_tz": "2025-08-17T13:09:32+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40197,
+    "from": {
+      "id": "946214436",
+      "username": "cheeweien",
+      "first_name": "Wayne",
+      "last_name": null
+    },
+    "text": "hi guys free food at YIH level 4 (near MPH 4) come take",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-17T05:08:53.000Z",
+    "ts_tz": "2025-08-17T13:08:53+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40196,
+    "from": {
+      "id": "946214436",
+      "username": "cheeweien",
+      "first_name": "Wayne",
+      "last_name": null
+    },
+    "text": null,
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6127289856343265224",
+        "filename": "20250817130853_NUS Buffet Response Team_40196.jpg",
+        "path": "20250817/20250817130853_NUS Buffet Response Team_40196.jpg"
+      }
+    ]
+  }
+]

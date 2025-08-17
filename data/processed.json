@@ -95,7 +95,7 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT7",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -104,11 +104,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -121,7 +121,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -152,8 +152,7 @@
           "fruit punch"
         ],
         "other_items": [
-          "tofu",
-          "veg"
+          "tofu and veg"
         ]
       },
       "organizer_approved": true,
@@ -183,9 +182,9 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "Coriander room",
+        "room_or_lt": null,
         "floor": "Level 2",
         "landmark": null
       },
@@ -200,7 +199,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_exact": "2:30"
       },
       "availability": "cleared",
       "policies": {
@@ -276,7 +275,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": "MD6",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -300,7 +299,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -315,5 +314,44 @@
     "createdAt": "2025-08-16T10:03:32.000Z",
     "lastUpdated": "2025-08-16T11:36:25.000Z",
     "prompts": "Outside MD6 org approved unsure when clearing but come earlier better\nHalal, and still available\nNew Message: still available?"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "YIH level 4 (near MPH 4)",
+        "campus_zone": "Kent Ridge",
+        "building": "YIH",
+        "room_or_lt": null,
+        "floor": "level 4",
+        "landmark": "near MPH 4"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250817/20250817130853_NUS Buffet Response Team_40196.jpg"
+    ],
+    "createdAt": "2025-08-17T05:08:53.000Z",
+    "lastUpdated": "2025-08-17T05:09:32.000Z",
+    "prompts": "hi guys free food at YIH level 4 (near MPH 4) come take"
   }
 ]
