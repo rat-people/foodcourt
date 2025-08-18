@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -57,11 +57,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -99,7 +99,8 @@
       "content": {
         "main_dishes": [
           "beehoon",
-          "tofu and veg"
+          "tofu",
+          "veg"
         ],
         "desserts_snacks": [],
         "drinks": [
@@ -134,11 +135,11 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "Coriander room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [
@@ -178,7 +179,7 @@
     "entity": {
       "location": {
         "raw": "@ngee ann kongsi audi",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -208,7 +209,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -322,7 +323,11 @@
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chilli",
+          "vegetarian nasi lemak sets",
+          "halal nasi lemak sets"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -371,7 +376,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -436,7 +441,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of Cerebro@SoC"
+        "landmark": "in front of"
       },
       "content": {
         "main_dishes": [
