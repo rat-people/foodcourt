@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -30,7 +30,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": "eat at your own risk"
       }
@@ -137,7 +137,7 @@
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
         "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "Coriander room",
+        "room_or_lt": null,
         "floor": "Level 2",
         "landmark": null
       },
@@ -209,7 +209,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -228,7 +228,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": "MD6",
+        "building": "MD",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -241,7 +241,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "better come earlier",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -311,7 +311,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -354,7 +354,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -396,7 +396,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside PR2"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -490,7 +490,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -509,7 +509,7 @@
       "20250818/20250818175043_NUS Buffet Response Team_40223.jpg"
     ],
     "createdAt": "2025-08-18T09:50:43.000Z",
-    "lastUpdated": "2025-08-18T09:50:43.000Z",
-    "prompts": "8 vegetarian bentos and 3 fish bentos available at COM1 level 2 in front of Cerebro@SoC"
+    "lastUpdated": "2025-08-18T10:14:33.000Z",
+    "prompts": "8 vegetarian bentos and 3 fish bentos available at COM1 level 2 in front of Cerebro@SoC\nNew Message: Still there?\nNew Message: Seems to be all gone"
   }
 ]
