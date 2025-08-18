@@ -2,16 +2,16 @@
   {
     "entity": {
       "location": {
-        "raw": "YIH green sofa in front of wild skew",
+        "raw": "YIH green sofa",
         "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "green sofa in front of wild skew"
+        "landmark": "green sofa"
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -135,11 +135,11 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "Coriander room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [
@@ -228,7 +228,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD6",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -252,7 +252,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -396,7 +396,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside PR2"
+        "landmark": "outside pr2"
       },
       "content": {
         "main_dishes": [
