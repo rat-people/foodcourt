@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -54,11 +54,12 @@
       },
       "content": {
         "main_dishes": [
-          "samosas",
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [],
+        "desserts_snacks": [
+          "samosas"
+        ],
         "drinks": [],
         "other_items": []
       },
@@ -73,7 +74,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -97,15 +98,14 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon"
+          "beehoon",
+          "tofu and veg"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": [
-          "tofu and veg"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -178,7 +178,7 @@
     "entity": {
       "location": {
         "raw": "@ngee ann kongsi audi",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -238,7 +238,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": null,
+      "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
@@ -251,7 +251,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -371,7 +371,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -395,7 +395,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside PR2"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
