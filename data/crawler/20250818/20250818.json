@@ -1,0 +1,22 @@
+[
+  {
+    "ts_utc": "2025-08-18T05:47:20.000Z",
+    "ts_tz": "2025-08-18T13:47:20+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40210,
+    "from": {
+      "id": "7661231433",
+      "username": null,
+      "first_name": "v",
+      "last_name": null
+    },
+    "text": "Pm for more details 📊\nSDG 100 get SDG 10,000\nSDG 200 get SDG 20,000 @chin_heong",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-18T05:47:49.000Z",
+    "edit_ts_tz": "2025-08-18T13:47:49+08:00",
+    "media": []
+  }
+]
