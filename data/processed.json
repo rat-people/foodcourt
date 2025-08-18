@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -54,14 +54,13 @@
       },
       "content": {
         "main_dishes": [
+          "samosas",
           "chicken rice",
           "mee goreng"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "samosas"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -98,14 +97,14 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon",
-          "tofu"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
         "other_items": [
+          "tofu",
           "veg"
         ]
       },
@@ -120,7 +119,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -136,11 +135,11 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "Coriander room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [
@@ -229,7 +228,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": "MD6",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -273,7 +272,7 @@
     "entity": {
       "location": {
         "raw": "YIH level 4 (near MPH 4)",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": "level 4",
@@ -454,7 +453,9 @@
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "dietary_flags": []
+        "dietary_flags": [
+          "vegetarian"
+        ]
       },
       "misc": {
         "urgency_level": null,
