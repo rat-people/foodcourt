@@ -1,5 +1,88 @@
 [
   {
+    "ts_utc": "2025-08-18T06:25:06.000Z",
+    "ts_tz": "2025-08-18T14:25:06+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40215,
+    "from": {
+      "id": "5450026178",
+      "username": null,
+      "first_name": "Tocaesar",
+      "last_name": null
+    },
+    "text": "100SGD get 1SGD, no lie😘",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-18T06:23:03.000Z",
+    "ts_tz": "2025-08-18T14:23:03+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40214,
+    "from": {
+      "id": "6644481650",
+      "username": "ricecooker123",
+      "first_name": "Rice",
+      "last_name": "Cooker"
+    },
+    "text": "cleared",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40210,
+      "reply_to_top_message_id": null
+    },
+    "edited": true,
+    "edit_ts_utc": "2025-08-18T06:23:13.000Z",
+    "edit_ts_tz": "2025-08-18T14:23:13+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-18T06:21:46.000Z",
+    "ts_tz": "2025-08-18T14:21:46+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40213,
+    "from": {
+      "id": "667098311",
+      "username": "iluvschnoopy",
+      "first_name": "lucas",
+      "last_name": null
+    },
+    "text": "Noob I can do 10$ for 1mil SDG",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-18T06:22:18.000Z",
+    "edit_ts_tz": "2025-08-18T14:22:18+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-18T06:19:20.000Z",
+    "ts_tz": "2025-08-18T14:19:20+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40212,
+    "from": {
+      "id": "2032372218",
+      "username": "phrogge",
+      "first_name": "Agnes",
+      "last_name": null
+    },
+    "text": "@admin",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-18T05:47:20.000Z",
     "ts_tz": "2025-08-18T13:47:20+08:00",
     "chat_id": "1083087143",
