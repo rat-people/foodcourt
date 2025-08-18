@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -54,13 +54,14 @@
       },
       "content": {
         "main_dishes": [
-          "samosas",
           "chicken rice",
           "mee goreng"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -73,7 +74,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -119,7 +120,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -135,10 +136,10 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 2",
+        "floor": "level 2",
         "landmark": null
       },
       "content": {
@@ -178,7 +179,7 @@
   {
     "entity": {
       "location": {
-        "raw": "@ngee ann kongsi audi",
+        "raw": "ngee ann kongsi audi",
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
@@ -209,7 +210,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -272,7 +273,7 @@
     "entity": {
       "location": {
         "raw": "YIH level 4 (near MPH 4)",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": "level 4",
@@ -354,7 +355,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -372,7 +373,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -453,9 +454,7 @@
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "dietary_flags": [
-          "vegetarian"
-        ]
+        "dietary_flags": []
       },
       "misc": {
         "urgency_level": null,
