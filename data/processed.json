@@ -2,12 +2,12 @@
   {
     "entity": {
       "location": {
-        "raw": "YIH green sofa",
-        "campus_zone": "Kent Ridge",
+        "raw": "YIH green sofa in front of wild skew",
+        "campus_zone": "YIH",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "green sofa"
+        "landmark": "green sofa in front of wild skew"
       },
       "content": {
         "main_dishes": [
@@ -74,7 +74,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -98,16 +98,15 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon"
+          "beehoon",
+          "tofu",
+          "veg"
         ],
         "desserts_snacks": [],
         "drinks": [
           "fruit punch"
         ],
-        "other_items": [
-          "tofu",
-          "veg"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -120,7 +119,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -139,8 +138,8 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 2",
-        "landmark": null
+        "floor": "Level 2",
+        "landmark": "Coriander room"
       },
       "content": {
         "main_dishes": [
@@ -210,7 +209,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -229,7 +228,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": "MD6",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
