@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "YIH green sofa",
-        "campus_zone": "YIH",
+        "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": null,
@@ -119,7 +119,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -178,7 +178,7 @@
   {
     "entity": {
       "location": {
-        "raw": "ngee ann kongsi audi",
+        "raw": "@ngee ann kongsi audi",
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
@@ -201,7 +201,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "16:45"
+        "clearing_time_exact": "4:45pm"
       },
       "availability": "cleared",
       "policies": {
@@ -209,7 +209,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -252,7 +252,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -396,7 +396,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside pr2"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -453,7 +453,9 @@
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "dietary_flags": []
+        "dietary_flags": [
+          "vegetarian"
+        ]
       },
       "misc": {
         "urgency_level": null,
