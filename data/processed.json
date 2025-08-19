@@ -5,7 +5,7 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT7",
         "floor": null,
         "landmark": null
       },
@@ -14,11 +14,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
+        "desserts_snacks": [
           "samosas"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -46,7 +46,7 @@
   {
     "entity": {
       "location": {
-        "raw": "All taken!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -83,8 +83,8 @@
   {
     "entity": {
       "location": {
-        "raw": "@ngee ann kongsi audi",
-        "campus_zone": "Kent Ridge",
+        "raw": "ngee ann kongsi audi",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -114,7 +114,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -133,7 +133,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -157,7 +157,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -200,7 +200,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -218,7 +218,7 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT7",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -235,7 +235,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -259,7 +259,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -277,7 +277,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -398,7 +398,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
       "availability": "few",
