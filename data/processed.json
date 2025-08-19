@@ -4,7 +4,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": "MD6",
+        "building": "MD",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -34,10 +34,6 @@
       }
     },
     "media": [
-      "20250816/20250816180332_NUS Buffet Response Team_40192.jpg",
-      "20250816/20250816180332_NUS Buffet Response Team_40191.jpg",
-      "20250816/20250816180332_NUS Buffet Response Team_40190.jpg",
-      "20250816/20250816180332_NUS Buffet Response Team_40189.jpg",
       "20250816/20250816180332_NUS Buffet Response Team_40188.jpg"
     ],
     "createdAt": "2025-08-16T10:03:32.000Z",
@@ -148,7 +144,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -213,7 +209,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of cerebro@soc"
+        "landmark": "in front of Cerebro@SoC"
       },
       "content": {
         "main_dishes": [
