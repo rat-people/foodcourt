@@ -2,51 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "LT7",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": "LT7",
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "chicken rice",
-          "mee goreng"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "samosas"
-        ]
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250816/20250816132545_NUS Buffet Response Team_40173.jpg"
-    ],
-    "createdAt": "2025-08-16T05:25:45.000Z",
-    "lastUpdated": "2025-08-16T07:57:01.000Z",
-    "prompts": "Need to clear samosas, chicken rice, mee goreng packs. Come down to LT7 to collect.\n\nCutlery and chilli available\n\nCLEARED\nNew Message: cleared i think🤗"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "unknown",
+        "raw": "There is also sunshine bread available",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -57,14 +13,16 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "sunshine bread"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -76,64 +34,16 @@
       }
     },
     "media": [],
-    "createdAt": "2025-08-16T06:36:49.000Z",
-    "lastUpdated": "2025-08-16T06:36:49.000Z",
-    "prompts": "All taken!"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "ngee ann kongsi audi",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "bee hoon",
-          "chicken"
-        ],
-        "desserts_snacks": [
-          "kuih"
-        ],
-        "drinks": [],
-        "other_items": [
-          "sunshine bread"
-        ]
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "16:45"
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "medium",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250816/20250816161812_NUS Buffet Response Team_40180.jpg",
-      "20250816/20250816161813_NUS Buffet Response Team_40182.jpg",
-      "20250816/20250816161813_NUS Buffet Response Team_40181.jpg"
-    ],
-    "createdAt": "2025-08-16T08:18:12.000Z",
-    "lastUpdated": "2025-08-16T09:26:34.000Z",
-    "prompts": "Bee hoon, chicken, kuih, with utensils. @ngee ann kongsi audi, clear by 4.45pm! I am the organiser\nNew Message: There is also sunshine bread available\nNew Message: Still available?\nNew Message: Yes\nNew Message: Cleared!"
+    "createdAt": "2025-08-16T08:51:36.000Z",
+    "lastUpdated": "2025-08-16T08:51:36.000Z",
+    "prompts": "There is also sunshine bread available"
   },
   {
     "entity": {
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD6",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -216,7 +126,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -259,7 +169,7 @@
   {
     "entity": {
       "location": {
-        "raw": "",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -301,7 +211,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside PR2"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -401,7 +311,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
