@@ -377,33 +377,6 @@
     "media": []
   },
   {
-    "ts_utc": "2025-08-16T06:15:02.000Z",
-    "ts_tz": "2025-08-16T14:15:02+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40177,
-    "from": {
-      "id": "1226068335",
-      "username": "DLR233",
-      "first_name": "Liurong",
-      "last_name": "Wang"
-    },
-    "text": "Pizza catering @ Shaw foundation Alumni House (s119344), Level 2, Coriander room! (Vegetarian and halal options available)\n\nClearing at 2.30! Am the organizer",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-16T06:34:59.000Z",
-    "edit_ts_tz": "2025-08-16T14:34:59+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6124922324340819394",
-        "filename": "20250816141502_NUS Buffet Response Team_40177.jpg",
-        "path": "20250816/20250816141502_NUS Buffet Response Team_40177.jpg"
-      }
-    ]
-  },
-  {
     "ts_utc": "2025-08-16T05:25:45.000Z",
     "ts_tz": "2025-08-16T13:25:45+08:00",
     "chat_id": "1083087143",
