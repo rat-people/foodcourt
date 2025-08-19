@@ -2,53 +2,12 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside MD6",
-        "campus_zone": "Outram",
-        "building": "MD",
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": "outside"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "halal"
-        ]
-      },
-      "misc": {
-        "urgency_level": "medium",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250816/20250816180332_NUS Buffet Response Team_40188.jpg"
-    ],
-    "createdAt": "2025-08-16T10:03:32.000Z",
-    "lastUpdated": "2025-08-16T11:36:25.000Z",
-    "prompts": "Outside MD6 org approved unsure when clearing but come earlier better\nHalal, and still available\nNew Message: still available?"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "YIH level 4 (near MPH 4)",
         "campus_zone": "Kent Ridge",
         "building": "YIH",
         "room_or_lt": null,
         "floor": "level 4",
-        "landmark": "near MPH 4"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -144,7 +103,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -168,7 +127,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside"
+        "landmark": "outside PR2"
       },
       "content": {
         "main_dishes": [
@@ -270,7 +229,7 @@
       },
       "availability": "cleared",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": [
           "halal"
         ]

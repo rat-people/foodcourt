@@ -21,32 +21,5 @@
     "edit_ts_utc": null,
     "edit_ts_tz": null,
     "media": []
-  },
-  {
-    "ts_utc": "2025-08-16T10:03:32.000Z",
-    "ts_tz": "2025-08-16T18:03:32+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40188,
-    "from": {
-      "id": "339461099",
-      "username": "blue_bellied_sea_eagle",
-      "first_name": "Blue",
-      "last_name": "Eagle"
-    },
-    "text": "Outside MD6 org approved unsure when clearing but come earlier better\nHalal, and still available",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-16T10:24:03.000Z",
-    "edit_ts_tz": "2025-08-16T18:24:03+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6124922324340819502",
-        "filename": "20250816180332_NUS Buffet Response Team_40188.jpg",
-        "path": "20250816/20250816180332_NUS Buffet Response Team_40188.jpg"
-      }
-    ]
   }
 ]
