@@ -447,33 +447,6 @@
     "media": []
   },
   {
-    "ts_utc": "2025-08-16T05:33:27.000Z",
-    "ts_tz": "2025-08-16T13:33:27+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40174,
-    "from": {
-      "id": "301452029",
-      "username": "joodyismoody",
-      "first_name": "judd.",
-      "last_name": null
-    },
-    "text": "Beehoon, tofu and veg, and fruit punch outside Pitstop @ UTown (ERC), cutlery and plates avail\n\nClearing at 2pm! Am the organiser",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-16T05:42:39.000Z",
-    "edit_ts_tz": "2025-08-16T13:42:39+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6124922324340819376",
-        "filename": "20250816133327_NUS Buffet Response Team_40174.jpg",
-        "path": "20250816/20250816133327_NUS Buffet Response Team_40174.jpg"
-      }
-    ]
-  },
-  {
     "ts_utc": "2025-08-16T05:25:45.000Z",
     "ts_tz": "2025-08-16T13:25:45+08:00",
     "chat_id": "1083087143",
