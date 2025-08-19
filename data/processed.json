@@ -2,51 +2,8 @@
   {
     "entity": {
       "location": {
-        "raw": "YIH green sofa",
-        "campus_zone": "YIH",
-        "building": "YIH",
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": "green sofa"
-      },
-      "content": {
-        "main_dishes": [
-          "halal bento"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "few",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "halal"
-        ]
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": "eat at your own risk"
-      }
-    },
-    "media": [
-      "20250815/20250815222558_NUS Buffet Response Team_40170.jpg"
-    ],
-    "createdAt": "2025-08-15T14:25:58.000Z",
-    "lastUpdated": "2025-08-15T14:27:36.000Z",
-    "prompts": "Free halal bento at YIH green sofa (qty:12), no best by date so eat at your own risk (got it at arnd 4pm). There's a few disposable plastic cutleries and napkins 🙏\nNew Message: in front of wild skew!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "LT7",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -57,11 +14,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -135,11 +92,11 @@
     "entity": {
       "location": {
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": null
+        "landmark": "Coriander room"
       },
       "content": {
         "main_dishes": [
@@ -178,7 +135,7 @@
   {
     "entity": {
       "location": {
-        "raw": "@ngee ann kongsi audi",
+        "raw": "ngee ann kongsi audi",
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
@@ -209,7 +166,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -330,7 +287,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -396,7 +353,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside"
+        "landmark": "outside PR2"
       },
       "content": {
         "main_dishes": [
@@ -456,9 +413,7 @@
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "dietary_flags": [
-          "vegetarian"
-        ]
+        "dietary_flags": []
       },
       "misc": {
         "urgency_level": null,
