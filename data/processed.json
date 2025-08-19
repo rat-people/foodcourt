@@ -14,11 +14,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -41,7 +41,7 @@
     ],
     "createdAt": "2025-08-16T05:25:45.000Z",
     "lastUpdated": "2025-08-16T07:57:01.000Z",
-    "prompts": "Need to clear samosas, chicken rice, mee goreng packs. Come down to LT7 to collect.\n\nCutlery and chilli available\n\nCLEARED\nNew Message: Still have?\nNew Message: cleared i think🤗"
+    "prompts": "Need to clear samosas, chicken rice, mee goreng packs. Come down to LT7 to collect.\n\nCutlery and chilli available\n\nCLEARED\nNew Message: cleared i think🤗"
   },
   {
     "entity": {
@@ -49,7 +49,7 @@
         "raw": "Shaw foundation Alumni House (s119344), Level 2, Coriander room",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "Coriander room",
         "floor": "Level 2",
         "landmark": null
       },
@@ -121,7 +121,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -266,7 +266,7 @@
   {
     "entity": {
       "location": {
-        "raw": "",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -308,7 +308,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside"
+        "landmark": "outside PR2"
       },
       "content": {
         "main_dishes": [
@@ -408,9 +408,9 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": [
           "halal"
         ]

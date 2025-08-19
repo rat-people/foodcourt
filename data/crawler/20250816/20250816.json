@@ -404,49 +404,6 @@
     ]
   },
   {
-    "ts_utc": "2025-08-16T06:07:06.000Z",
-    "ts_tz": "2025-08-16T14:07:06+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40176,
-    "from": {
-      "id": "250760547",
-      "username": "Skididipak",
-      "first_name": "Jordie :)",
-      "last_name": null
-    },
-    "text": "Yes",
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": []
-  },
-  {
-    "ts_utc": "2025-08-16T05:57:25.000Z",
-    "ts_tz": "2025-08-16T13:57:25+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40175,
-    "from": {
-      "id": "1597976573",
-      "username": null,
-      "first_name": "Sage",
-      "last_name": null
-    },
-    "text": "Still have?",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40173,
-      "reply_to_top_message_id": null
-    },
-    "edited": true,
-    "edit_ts_utc": "2025-08-16T05:57:39.000Z",
-    "edit_ts_tz": "2025-08-16T13:57:39+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-08-16T05:25:45.000Z",
     "ts_tz": "2025-08-16T13:25:45+08:00",
     "chat_id": "1083087143",
