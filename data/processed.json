@@ -31,7 +31,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -114,7 +114,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -133,7 +133,7 @@
       "location": {
         "raw": "Outside MD6",
         "campus_zone": "Outram",
-        "building": "MD6",
+        "building": "MD",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -218,7 +218,7 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT7",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -235,7 +235,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -259,7 +259,7 @@
   {
     "entity": {
       "location": {
-        "raw": "",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -277,7 +277,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -361,9 +361,7 @@
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "dietary_flags": [
-          "vegetarian"
-        ]
+        "dietary_flags": []
       },
       "misc": {
         "urgency_level": null,
@@ -385,7 +383,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD11",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -401,15 +399,15 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": [
           "halal"
         ]
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
