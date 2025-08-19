@@ -5,7 +5,7 @@
         "raw": "LT7",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT7",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -14,11 +14,11 @@
           "chicken rice",
           "mee goreng"
         ],
-        "desserts_snacks": [
-          "samosas"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "samosas"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -46,7 +46,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "All taken!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -84,7 +84,7 @@
     "entity": {
       "location": {
         "raw": "@ngee ann kongsi audi",
-        "campus_zone": "Utown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -157,7 +157,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -200,7 +200,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -216,9 +216,9 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT7",
         "floor": null,
         "landmark": null
       },
@@ -277,7 +277,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -342,7 +342,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of cerebro@soc"
+        "landmark": "in front of Cerebro@SoC"
       },
       "content": {
         "main_dishes": [
@@ -398,12 +398,12 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": [
           "halal"
         ]
