@@ -202,51 +202,5 @@
     "edit_ts_utc": "2025-08-16T09:08:20.000Z",
     "edit_ts_tz": "2025-08-16T17:08:20+08:00",
     "media": []
-  },
-  {
-    "ts_utc": "2025-08-16T08:54:10.000Z",
-    "ts_tz": "2025-08-16T16:54:10+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40184,
-    "from": {
-      "id": "8149008037",
-      "username": "sg60_vacation_services",
-      "first_name": "SG60 Vacation Services",
-      "last_name": null
-    },
-    "text": "Still available?",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40180,
-      "reply_to_top_message_id": null
-    },
-    "edited": true,
-    "edit_ts_utc": "2025-08-16T08:54:28.000Z",
-    "edit_ts_tz": "2025-08-16T16:54:28+08:00",
-    "media": []
-  },
-  {
-    "ts_utc": "2025-08-16T08:51:36.000Z",
-    "ts_tz": "2025-08-16T16:51:36+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40183,
-    "from": {
-      "id": "650547732",
-      "username": "booplolol",
-      "first_name": "reyna",
-      "last_name": null
-    },
-    "text": "There is also sunshine bread available",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40182,
-      "reply_to_top_message_id": 40180
-    },
-    "edited": true,
-    "edit_ts_utc": "2025-08-16T08:52:03.000Z",
-    "edit_ts_tz": "2025-08-16T16:52:03+08:00",
-    "media": []
   }
 ]
