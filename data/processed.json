@@ -127,7 +127,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside PR2"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -211,7 +211,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD11",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -227,9 +227,9 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": [
           "halal"
         ]
