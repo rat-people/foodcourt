@@ -15,7 +15,9 @@
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chilli"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -92,7 +94,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of Cerebro@SoC"
+        "landmark": "in front of cerebro@soc"
       },
       "content": {
         "main_dishes": [
@@ -135,7 +137,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": "MD11",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -151,9 +153,9 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": [
           "halal"
         ]
@@ -203,7 +205,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
