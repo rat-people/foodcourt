@@ -42,7 +42,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -127,7 +127,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside"
+        "landmark": "outside PR2"
       },
       "content": {
         "main_dishes": [
@@ -211,7 +211,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": "MD11",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -229,13 +229,13 @@
       },
       "availability": "cleared",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": [
           "halal"
         ]
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
