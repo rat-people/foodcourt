@@ -51,7 +51,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of Cerebro@SoC"
+        "landmark": "in front of cerebro@soc"
       },
       "content": {
         "main_dishes": [
@@ -118,7 +118,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -135,7 +135,7 @@
     "entity": {
       "location": {
         "raw": "Saga Dining Hall",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
