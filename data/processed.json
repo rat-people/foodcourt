@@ -15,7 +15,9 @@
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chilli"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -51,7 +53,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of cerebro@soc"
+        "landmark": "in front of Cerebro@SoC"
       },
       "content": {
         "main_dishes": [
@@ -92,48 +94,6 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside MD11",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": "outside"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "halal"
-        ]
-      },
-      "misc": {
-        "urgency_level": "high",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250819/20250819133354_NUS Buffet Response Team_40230.jpg",
-      "20250819/20250819133355_NUS Buffet Response Team_40231.jpg"
-    ],
-    "createdAt": "2025-08-19T05:33:54.000Z",
-    "lastUpdated": "2025-08-19T05:44:01.000Z",
-    "prompts": "Outside MD11 org approved halal limited utensils pls bring your own container\nNew Message: They're clearing"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "Saga Dining Hall",
         "campus_zone": "Utown",
         "building": null,
@@ -162,7 +122,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
