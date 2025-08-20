@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -85,7 +85,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -103,7 +103,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -127,7 +127,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 3",
-        "landmark": "outside"
+        "landmark": "outside PR2"
       },
       "content": {
         "main_dishes": [
@@ -205,47 +205,5 @@
     "createdAt": "2025-08-18T09:50:43.000Z",
     "lastUpdated": "2025-08-18T10:14:33.000Z",
     "prompts": "8 vegetarian bentos and 3 fish bentos available at COM1 level 2 in front of Cerebro@SoC\nNew Message: Still there?\nNew Message: Seems to be all gone"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "Outside MD11",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": "outside"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": true,
-        "dietary_flags": [
-          "halal"
-        ]
-      },
-      "misc": {
-        "urgency_level": "high",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250819/20250819133354_NUS Buffet Response Team_40230.jpg",
-      "20250819/20250819133355_NUS Buffet Response Team_40231.jpg"
-    ],
-    "createdAt": "2025-08-19T05:33:54.000Z",
-    "lastUpdated": "2025-08-19T05:44:01.000Z",
-    "prompts": "Outside MD11 org approved halal limited utensils pls bring your own container\nNew Message: They're clearing"
   }
 ]
