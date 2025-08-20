@@ -1,52 +1,5 @@
 [
   {
-    "ts_utc": "2025-08-17T10:59:36.000Z",
-    "ts_tz": "2025-08-17T18:59:36+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40202,
-    "from": {
-      "id": "589708500",
-      "username": "molxan",
-      "first_name": "fiqo",
-      "last_name": null
-    },
-    "text": "Food at level 3 Src outside PR2 (nasi lemak)",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-17T11:05:23.000Z",
-    "edit_ts_tz": "2025-08-17T19:05:23+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6129699616464161701",
-        "filename": "20250817185936_NUS Buffet Response Team_40202.jpg",
-        "path": "20250817/20250817185936_NUS Buffet Response Team_40202.jpg"
-      }
-    ]
-  },
-  {
-    "ts_utc": "2025-08-17T07:15:18.000Z",
-    "ts_tz": "2025-08-17T15:15:18+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40199,
-    "from": {
-      "id": "6708925356",
-      "username": null,
-      "first_name": "chan",
-      "last_name": null
-    },
-    "text": "still have？",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-17T11:10:11.000Z",
-    "edit_ts_tz": "2025-08-17T19:10:11+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-08-17T06:06:48.000Z",
     "ts_tz": "2025-08-17T14:06:48+08:00",
     "chat_id": "1083087143",

@@ -46,47 +46,6 @@
   {
     "entity": {
       "location": {
-        "raw": "level 3 Src outside PR2",
-        "campus_zone": "Utown",
-        "building": "UTown SRC",
-        "room_or_lt": null,
-        "floor": "level 3",
-        "landmark": "outside PR2"
-      },
-      "content": {
-        "main_dishes": [
-          "nasi lemak"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250817/20250817185936_NUS Buffet Response Team_40202.jpg"
-    ],
-    "createdAt": "2025-08-17T10:59:36.000Z",
-    "lastUpdated": "2025-08-17T10:59:36.000Z",
-    "prompts": "Food at level 3 Src outside PR2 (nasi lemak)"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "COM1 level 2 in front of Cerebro@SoC",
         "campus_zone": "Kent Ridge",
         "building": "COM1",
@@ -135,7 +94,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD11",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -151,15 +110,15 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": [
           "halal"
         ]
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -176,7 +135,7 @@
     "entity": {
       "location": {
         "raw": "Saga Dining Hall",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -186,11 +145,11 @@
         "main_dishes": [
           "laksa"
         ],
-        "desserts_snacks": [
-          "fruit rojak"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fruit rojak"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -203,7 +162,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
