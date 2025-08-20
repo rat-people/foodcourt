@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -51,7 +51,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of cerebro@soc"
+        "landmark": "in front of Cerebro@SoC"
       },
       "content": {
         "main_dishes": [
@@ -94,7 +94,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -110,9 +110,9 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": [
           "halal"
         ]
@@ -136,7 +136,7 @@
       "location": {
         "raw": "Saga Dining Hall",
         "campus_zone": "Utown",
-        "building": "Saga Dining Hall",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
