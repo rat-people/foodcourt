@@ -40,13 +40,13 @@
       "20250817/20250817140648_NUS Buffet Response Team_40198.jpg"
     ],
     "createdAt": "2025-08-17T06:06:48.000Z",
-    "lastUpdated": "2025-08-17T07:52:15.000Z",
-    "prompts": "We have a bunch of vegetarian and halal nasi lemak sets to clear. Come down to LT7\n\nChilli and utensils provided\n\nCLEARED\nNew Message: Still hv?"
+    "lastUpdated": "2025-08-17T06:06:48.000Z",
+    "prompts": "We have a bunch of vegetarian and halal nasi lemak sets to clear. Come down to LT7\n\nChilli and utensils provided\n\nCLEARED"
   },
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -185,12 +185,12 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": [
           "halal"
         ]
@@ -240,7 +240,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
