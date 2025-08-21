@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -15,7 +15,9 @@
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chilli"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -66,13 +68,13 @@
       },
       "availability": "cleared",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": [
           "halal"
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -89,8 +91,8 @@
     "entity": {
       "location": {
         "raw": "Saga Dining Hall",
-        "campus_zone": "Utown",
-        "building": "Saga Dining Hall",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
