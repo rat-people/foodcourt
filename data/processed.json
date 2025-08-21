@@ -15,7 +15,9 @@
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "chilli"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -51,7 +53,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of Cerebro@SoC"
+        "landmark": "in front of cerebro@soc"
       },
       "content": {
         "main_dishes": [
@@ -94,7 +96,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -107,12 +109,12 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
       "availability": "unknown",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": [
           "halal"
         ]
@@ -136,7 +138,7 @@
       "location": {
         "raw": "Saga Dining Hall",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Saga",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -154,7 +156,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "3:00pm"
+        "clearing_time_exact": "15:00"
       },
       "availability": "unknown",
       "policies": {
@@ -162,7 +164,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
