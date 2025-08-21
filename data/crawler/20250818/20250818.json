@@ -50,60 +50,6 @@
     "ts_tz": "2025-08-18T17:50:43+08:00",
     "chat_id": "1083087143",
     "chat_title": "NUS Buffet Response Team",
-    "message_id": 40225,
-    "from": {
-      "id": "25604027",
-      "username": "FortMax",
-      "first_name": "FortMax",
-      "last_name": null
-    },
-    "text": null,
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6131951416277847176",
-        "filename": "20250818175043_NUS Buffet Response Team_40225.jpg",
-        "path": "20250818/20250818175043_NUS Buffet Response Team_40225.jpg"
-      }
-    ]
-  },
-  {
-    "ts_utc": "2025-08-18T09:50:43.000Z",
-    "ts_tz": "2025-08-18T17:50:43+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40224,
-    "from": {
-      "id": "25604027",
-      "username": "FortMax",
-      "first_name": "FortMax",
-      "last_name": null
-    },
-    "text": null,
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6131951416277847175",
-        "filename": "20250818175043_NUS Buffet Response Team_40224.jpg",
-        "path": "20250818/20250818175043_NUS Buffet Response Team_40224.jpg"
-      }
-    ]
-  },
-  {
-    "ts_utc": "2025-08-18T09:50:43.000Z",
-    "ts_tz": "2025-08-18T17:50:43+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
     "message_id": 40223,
     "from": {
       "id": "25604027",

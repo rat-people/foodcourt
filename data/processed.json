@@ -15,9 +15,7 @@
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "chilli"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -53,7 +51,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of cerebro@soc"
+        "landmark": "in front of"
       },
       "content": {
         "main_dishes": [
@@ -83,8 +81,6 @@
       }
     },
     "media": [
-      "20250818/20250818175043_NUS Buffet Response Team_40225.jpg",
-      "20250818/20250818175043_NUS Buffet Response Team_40224.jpg",
       "20250818/20250818175043_NUS Buffet Response Team_40223.jpg"
     ],
     "createdAt": "2025-08-18T09:50:43.000Z",
@@ -96,7 +92,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -112,7 +108,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
