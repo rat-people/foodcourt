@@ -1,28 +1,5 @@
 [
   {
-    "ts_utc": "2025-08-18T10:14:33.000Z",
-    "ts_tz": "2025-08-18T18:14:33+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40228,
-    "from": {
-      "id": "25604027",
-      "username": "FortMax",
-      "first_name": "FortMax",
-      "last_name": null
-    },
-    "text": "Seems to be all gone",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40227,
-      "reply_to_top_message_id": 40223
-    },
-    "edited": true,
-    "edit_ts_utc": "2025-08-18T10:24:02.000Z",
-    "edit_ts_tz": "2025-08-18T18:24:02+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-08-18T09:50:43.000Z",
     "ts_tz": "2025-08-18T17:50:43+08:00",
     "chat_id": "1083087143",

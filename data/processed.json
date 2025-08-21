@@ -67,7 +67,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -84,15 +84,15 @@
       "20250818/20250818175043_NUS Buffet Response Team_40223.jpg"
     ],
     "createdAt": "2025-08-18T09:50:43.000Z",
-    "lastUpdated": "2025-08-18T10:14:33.000Z",
-    "prompts": "8 vegetarian bentos and 3 fish bentos available at COM1 level 2 in front of Cerebro@SoC\nNew Message: Seems to be all gone"
+    "lastUpdated": "2025-08-18T09:50:43.000Z",
+    "prompts": "8 vegetarian bentos and 3 fish bentos available at COM1 level 2 in front of Cerebro@SoC"
   },
   {
     "entity": {
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD11",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -108,7 +108,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": true,
         "dietary_flags": [
@@ -133,7 +133,7 @@
     "entity": {
       "location": {
         "raw": "Saga Dining Hall",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -143,11 +143,11 @@
         "main_dishes": [
           "laksa"
         ],
-        "desserts_snacks": [
-          "fruit rojak"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fruit rojak"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -160,7 +160,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
