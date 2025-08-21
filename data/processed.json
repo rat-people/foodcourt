@@ -10,13 +10,12 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "nasi lemak"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "vegetarian nasi lemak",
-          "halal nasi lemak"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -52,7 +51,7 @@
         "building": "COM1",
         "room_or_lt": null,
         "floor": "level 2",
-        "landmark": "in front of Cerebro@SoC"
+        "landmark": "in front of cerebro@soc"
       },
       "content": {
         "main_dishes": [
@@ -95,7 +94,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -108,7 +107,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -155,7 +154,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "15:00"
+        "clearing_time_exact": "3:00pm"
       },
       "availability": "unknown",
       "policies": {
