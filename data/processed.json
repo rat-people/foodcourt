@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "LT7",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT7",
         "floor": null,
@@ -162,7 +162,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
