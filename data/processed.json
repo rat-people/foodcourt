@@ -107,12 +107,12 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": [
           "halal"
         ]
@@ -135,7 +135,7 @@
     "entity": {
       "location": {
         "raw": "Saga Dining Hall",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -145,16 +145,16 @@
         "main_dishes": [
           "laksa"
         ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
+        "desserts_snacks": [
           "fruit rojak"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "3:00pm"
+        "clearing_time_exact": "15:00"
       },
       "availability": "unknown",
       "policies": {
@@ -162,7 +162,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
