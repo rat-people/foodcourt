@@ -70,7 +70,9 @@
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "dietary_flags": []
+        "dietary_flags": [
+          "vegetarian"
+        ]
       },
       "misc": {
         "urgency_level": null,
@@ -92,7 +94,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": "MD11",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -105,18 +107,18 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": [
           "halal"
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -133,7 +135,7 @@
     "entity": {
       "location": {
         "raw": "Saga Dining Hall",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -143,11 +145,11 @@
         "main_dishes": [
           "laksa"
         ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
+        "desserts_snacks": [
           "fruit rojak"
-        ]
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -160,7 +162,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
