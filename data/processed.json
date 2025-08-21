@@ -107,7 +107,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -145,11 +145,11 @@
         "main_dishes": [
           "laksa"
         ],
-        "desserts_snacks": [
-          "fruit rojak"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fruit rojak"
+        ]
       },
       "organizer_approved": null,
       "time": {
