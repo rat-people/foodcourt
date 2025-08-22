@@ -49,8 +49,8 @@
         "raw": "AS7-06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": null,
-        "floor": "L6",
+        "room_or_lt": "AS7-06-42",
+        "floor": null,
         "landmark": null
       },
       "content": {
