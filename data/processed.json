@@ -13,11 +13,11 @@
         "main_dishes": [
           "laksa"
         ],
-        "desserts_snacks": [
-          "fruit rojak"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fruit rojak"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -49,8 +49,8 @@
         "raw": "AS7-06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": null,
-        "floor": "06",
+        "room_or_lt": "AS7-06-42",
+        "floor": null,
         "landmark": null
       },
       "content": {
@@ -105,7 +105,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -113,14 +113,14 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "to be consumed before 9pm"
+        "risk_notice": null
       }
     },
     "media": [
       "20250822/20250822203157_NUS Buffet Response Team_40242.jpg"
     ],
     "createdAt": "2025-08-22T12:31:57.000Z",
-    "lastUpdated": "2025-08-22T12:31:57.000Z",
-    "prompts": "Bento boxes in front of LT31, to be consumed before 9pm"
+    "lastUpdated": "2025-08-22T13:18:27.000Z",
+    "prompts": "Bento boxes in front of LT31, to be consumed before 9pm\nNew Message: still have？\nNew Message: no box left"
   }
 ]
