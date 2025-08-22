@@ -4,7 +4,7 @@
       "location": {
         "raw": "Saga Dining Hall",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Saga",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -30,7 +30,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -50,7 +50,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "level 6",
+        "floor": "06",
         "landmark": null
       },
       "content": {
