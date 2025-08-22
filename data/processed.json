@@ -4,7 +4,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -28,14 +28,13 @@
         ]
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
     },
     "media": [
-      "20250819/20250819133354_NUS Buffet Response Team_40230.jpg",
-      "20250819/20250819133355_NUS Buffet Response Team_40231.jpg"
+      "20250819/20250819133354_NUS Buffet Response Team_40230.jpg"
     ],
     "createdAt": "2025-08-19T05:33:54.000Z",
     "lastUpdated": "2025-08-19T05:44:01.000Z",
@@ -46,7 +45,7 @@
       "location": {
         "raw": "Saga Dining Hall",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Saga",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
