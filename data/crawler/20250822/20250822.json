@@ -1,5 +1,52 @@
 [
   {
+    "ts_utc": "2025-08-22T12:38:43.000Z",
+    "ts_tz": "2025-08-22T20:38:43+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40243,
+    "from": {
+      "id": "8468947643",
+      "username": null,
+      "first_name": "Hawk",
+      "last_name": "Liu"
+    },
+    "text": "Is the faculty of science？",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-22T12:44:29.000Z",
+    "edit_ts_tz": "2025-08-22T20:44:29+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-22T12:31:57.000Z",
+    "ts_tz": "2025-08-22T20:31:57+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40242,
+    "from": {
+      "id": "6447810659",
+      "username": "arushisachan",
+      "first_name": "Arushi",
+      "last_name": null
+    },
+    "text": "Bento boxes in front of LT31, to be consumed before 9pm",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-22T12:37:51.000Z",
+    "edit_ts_tz": "2025-08-22T20:37:51+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6143146695211467556",
+        "filename": "20250822203157_NUS Buffet Response Team_40242.jpg",
+        "path": "20250822/20250822203157_NUS Buffet Response Team_40242.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-08-22T06:05:12.000Z",
     "ts_tz": "2025-08-22T14:05:12+08:00",
     "chat_id": "1083087143",

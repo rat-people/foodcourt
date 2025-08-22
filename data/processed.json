@@ -49,8 +49,8 @@
         "raw": "AS7-06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": "AS7-06-42",
-        "floor": null,
+        "room_or_lt": null,
+        "floor": "06",
         "landmark": null
       },
       "content": {
@@ -81,5 +81,46 @@
     "createdAt": "2025-08-22T05:34:20.000Z",
     "lastUpdated": "2025-08-22T05:34:20.000Z",
     "prompts": "Leftover tea-break @ AS7-06-42. Organizer"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "in front of LT31",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": "LT31",
+        "floor": null,
+        "landmark": "in front of"
+      },
+      "content": {
+        "main_dishes": [
+          "bento"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": "to be consumed before 9pm"
+      }
+    },
+    "media": [
+      "20250822/20250822203157_NUS Buffet Response Team_40242.jpg"
+    ],
+    "createdAt": "2025-08-22T12:31:57.000Z",
+    "lastUpdated": "2025-08-22T12:31:57.000Z",
+    "prompts": "Bento boxes in front of LT31, to be consumed before 9pm"
   }
 ]
