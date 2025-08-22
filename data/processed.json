@@ -4,7 +4,7 @@
       "location": {
         "raw": "Saga Dining Hall",
         "campus_zone": "Utown",
-        "building": "Saga",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -50,7 +50,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": null,
-        "floor": "06",
+        "floor": "level 6",
         "landmark": null
       },
       "content": {
@@ -94,7 +94,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -103,7 +103,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
