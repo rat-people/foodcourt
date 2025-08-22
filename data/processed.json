@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "Saga Dining Hall",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -50,7 +50,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": null,
+        "floor": "level 6",
         "landmark": null
       },
       "content": {
