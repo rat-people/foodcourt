@@ -4,7 +4,7 @@
       "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -20,7 +20,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": true,
         "dietary_flags": [
@@ -45,7 +45,7 @@
     "entity": {
       "location": {
         "raw": "Saga Dining Hall",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -72,7 +72,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
