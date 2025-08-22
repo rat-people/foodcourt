@@ -13,11 +13,11 @@
         "main_dishes": [
           "laksa"
         ],
-        "desserts_snacks": [
-          "fruit rojak"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fruit rojak"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -50,13 +50,15 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": null,
+        "floor": "level 6",
         "landmark": null
       },
       "content": {
         "main_dishes": [],
         "desserts_snacks": [],
-        "drinks": [],
+        "drinks": [
+          "tea"
+        ],
         "other_items": []
       },
       "organizer_approved": true,
