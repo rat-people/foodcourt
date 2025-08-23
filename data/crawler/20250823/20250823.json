@@ -1,5 +1,52 @@
 [
   {
+    "ts_utc": "2025-08-23T09:53:31.000Z",
+    "ts_tz": "2025-08-23T17:53:31+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40264,
+    "from": {
+      "id": "546931907",
+      "username": "RuiEnnngggg",
+      "first_name": "Rui En",
+      "last_name": null
+    },
+    "text": "Fong seng available outside LT17 (Organizer approved)",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6145398495025155225",
+        "filename": "20250823175331_NUS Buffet Response Team_40264.jpg",
+        "path": "20250823/20250823175331_NUS Buffet Response Team_40264.jpg"
+      }
+    ]
+  },
+  {
+    "ts_utc": "2025-08-23T09:47:25.000Z",
+    "ts_tz": "2025-08-23T17:47:25+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40263,
+    "from": {
+      "id": "5620832537",
+      "username": "vinuta_r",
+      "first_name": "Vinuta",
+      "last_name": null
+    },
+    "text": "Cleared!",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-23T09:49:13.000Z",
+    "edit_ts_tz": "2025-08-23T17:49:13+08:00",
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-23T09:43:03.000Z",
     "ts_tz": "2025-08-23T17:43:03+08:00",
     "chat_id": "1083087143",
@@ -34,9 +81,9 @@
     "text": "Shaw Foundation Alumni House L2 Thyme room (clearing at 6)",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-23T09:49:09.000Z",
+    "edit_ts_tz": "2025-08-23T17:49:09+08:00",
     "media": [
       {
         "type": "photo",
