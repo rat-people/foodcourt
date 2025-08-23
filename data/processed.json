@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "06",
+        "floor": null,
         "landmark": null
       },
       "content": {
@@ -42,7 +42,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT31",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT31",
         "floor": null,
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -208,10 +208,10 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
-        "floor": "level 2",
+        "room_or_lt": "Thyme room",
+        "floor": "L2",
         "landmark": null
       },
       "content": {
@@ -223,7 +223,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_exact": "6:00"
       },
       "availability": "unknown",
       "policies": {
@@ -284,7 +284,7 @@
     "entity": {
       "location": {
         "raw": "outside LT17",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT17",
         "floor": null,
@@ -294,9 +294,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -320,5 +318,42 @@
     "createdAt": "2025-08-23T09:53:31.000Z",
     "lastUpdated": "2025-08-23T09:53:31.000Z",
     "prompts": "Fong seng available outside LT17 (Organizer approved)"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-08-23T10:10:09.000Z",
+    "lastUpdated": "2025-08-23T10:10:09.000Z",
+    "prompts": "seems cleared"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "ts_utc": "2025-08-23T10:10:09.000Z",
+    "ts_tz": "2025-08-23T18:10:09+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40265,
+    "from": {
+      "id": "8087758899",
+      "username": null,
+      "first_name": "LI",
+      "last_name": "Minghao"
+    },
+    "text": "seems cleared",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-23T09:53:31.000Z",
     "ts_tz": "2025-08-23T17:53:31+08:00",
     "chat_id": "1083087143",
@@ -14,9 +34,9 @@
     "text": "Fong seng available outside LT17 (Organizer approved)",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-23T09:56:01.000Z",
+    "edit_ts_tz": "2025-08-23T17:56:01+08:00",
     "media": [
       {
         "type": "photo",
