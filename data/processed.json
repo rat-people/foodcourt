@@ -2,55 +2,11 @@
   {
     "entity": {
       "location": {
-        "raw": "Saga Dining Hall",
-        "campus_zone": "Utown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "laksa"
-        ],
-        "desserts_snacks": [
-          "fruit rojak"
-        ],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "15:00"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250820/20250820142607_NUS Buffet Response Team_40234.jpg",
-      "20250820/20250820142607_NUS Buffet Response Team_40233.jpg"
-    ],
-    "createdAt": "2025-08-20T06:26:07.000Z",
-    "lastUpdated": "2025-08-20T06:26:07.000Z",
-    "prompts": "Laksa and Fruit Rojak at Saga Dining Hall, do come and take. Clearing up by 3pm"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "AS7-06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": null,
-        "floor": "level 6",
+        "room_or_lt": "AS7-06-42",
+        "floor": "06",
         "landmark": null
       },
       "content": {
