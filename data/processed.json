@@ -44,9 +44,9 @@
         "raw": "in front of LT31",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT31",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "in front of"
+        "landmark": "in front of LT31"
       },
       "content": {
         "main_dishes": [
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -166,5 +166,44 @@
     "createdAt": "2025-08-23T04:29:12.000Z",
     "lastUpdated": "2025-08-23T04:29:12.000Z",
     "prompts": "Still have vegetarian rice, samosa, sesame balls and spring rolls at MPSH1 behind USC"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Shaw Foundation Alumni House L2 Thyme room",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "L2",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "6:00"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250823/20250823173202_NUS Buffet Response Team_40261.jpg"
+    ],
+    "createdAt": "2025-08-23T09:32:02.000Z",
+    "lastUpdated": "2025-08-23T09:32:02.000Z",
+    "prompts": "Shaw Foundation Alumni House L2 Thyme room (clearing at 6)"
   }
 ]
