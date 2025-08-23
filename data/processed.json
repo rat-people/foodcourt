@@ -59,7 +59,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": false,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
@@ -94,7 +94,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -103,7 +103,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": null
+        "clearing_time_exact": "21:00"
       },
       "availability": "cleared",
       "policies": {
@@ -131,15 +131,15 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside of Dance Atelier 2"
+        "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
-          "bento boxes"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "bento boxes"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -163,5 +163,89 @@
     "createdAt": "2025-08-22T14:09:50.000Z",
     "lastUpdated": "2025-08-22T14:33:19.000Z",
     "prompts": "Bento Boxes outside of Dance Atelier 2, SRC\nNew Message: mantapp thank you\nNew Message: cleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "stephen riady lvl3",
+        "campus_zone": "Utown",
+        "building": "UTown SRC",
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-08-22T14:25:19.000Z",
+    "lastUpdated": "2025-08-22T14:26:53.000Z",
+    "prompts": "Cleared ?\nNew Message: previously they still got like 1 big plastic bag full of it\nNew Message: Where is it ?\nNew Message: stephen riady lvl3"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "MPSH1 behind USC",
+        "campus_zone": "Kent Ridge",
+        "building": "MPSH",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "behind USC"
+      },
+      "content": {
+        "main_dishes": [
+          "vegetarian rice"
+        ],
+        "desserts_snacks": [
+          "samosa",
+          "sesame balls",
+          "spring rolls"
+        ],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "vegetarian"
+        ]
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250823/20250823122912_NUS Buffet Response Team_40259.jpg"
+    ],
+    "createdAt": "2025-08-23T04:29:12.000Z",
+    "lastUpdated": "2025-08-23T04:29:12.000Z",
+    "prompts": "Still have vegetarian rice, samosa, sesame balls and spring rolls at MPSH1 behind USC"
   }
 ]
