@@ -15,7 +15,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": false,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": null
+        "clearing_time_exact": "21:00"
       },
       "availability": "cleared",
       "policies": {
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
