@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "06",
+        "floor": null,
         "landmark": null
       },
       "content": {
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
