@@ -42,7 +42,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT31",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT31",
         "floor": null,
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": null
+        "clearing_time_exact": "21:00"
       },
       "availability": "cleared",
       "policies": {
