@@ -15,7 +15,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -223,7 +223,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6:00"
+        "clearing_time_exact": "6"
       },
       "availability": "unknown",
       "policies": {
@@ -246,7 +246,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -294,9 +294,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -310,7 +308,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": null,
+        "food_source": "Fong seng",
         "risk_notice": null
       }
     },
@@ -324,7 +322,7 @@
   {
     "entity": {
       "location": {
-        "raw": "seems cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
