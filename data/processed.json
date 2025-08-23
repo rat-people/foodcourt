@@ -30,7 +30,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -94,7 +94,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -135,7 +135,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
