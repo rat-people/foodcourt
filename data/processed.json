@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -128,7 +128,7 @@
         "building": "MPSH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "behind usc"
+        "landmark": "behind USC"
       },
       "content": {
         "main_dishes": [
