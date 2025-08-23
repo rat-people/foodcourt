@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "06",
+        "floor": null,
         "landmark": null
       },
       "content": {
@@ -44,13 +44,13 @@
         "raw": "in front of LT31",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "LT31",
         "floor": null,
-        "landmark": "in front of LT31"
+        "landmark": "in front of"
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -174,7 +174,7 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "L2",
+        "floor": "level 2",
         "landmark": null
       },
       "content": {
@@ -186,7 +186,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6:00"
+        "clearing_time_exact": "18:00"
       },
       "availability": "unknown",
       "policies": {

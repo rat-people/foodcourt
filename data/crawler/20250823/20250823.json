@@ -1,5 +1,25 @@
 [
   {
+    "ts_utc": "2025-08-23T09:43:03.000Z",
+    "ts_tz": "2025-08-23T17:43:03+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40262,
+    "from": {
+      "id": "8087758899",
+      "username": null,
+      "first_name": "LI",
+      "last_name": "Minghao"
+    },
+    "text": "still have？",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-23T09:32:02.000Z",
     "ts_tz": "2025-08-23T17:32:02+08:00",
     "chat_id": "1083087143",
