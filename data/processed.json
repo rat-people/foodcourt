@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -210,7 +210,7 @@
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "Thyme room",
+        "room_or_lt": null,
         "floor": "L2",
         "landmark": null
       },
@@ -223,7 +223,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6:00"
+        "clearing_time_exact": "6"
       },
       "availability": "unknown",
       "policies": {
@@ -324,7 +324,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "seems cleared",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
