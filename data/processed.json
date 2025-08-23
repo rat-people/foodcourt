@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "06",
+        "floor": null,
         "landmark": null
       },
       "content": {
@@ -15,7 +15,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": null,
+      "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -208,9 +208,9 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "Thyme room",
         "floor": "L2",
         "landmark": null
       },
@@ -223,7 +223,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6"
+        "clearing_time_exact": "6:00"
       },
       "availability": "unknown",
       "policies": {
@@ -246,7 +246,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -294,7 +294,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fong seng"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -308,7 +310,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "Fong seng",
+        "food_source": null,
         "risk_notice": null
       }
     },
