@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -90,12 +90,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "bento"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "bento boxes"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -123,12 +123,49 @@
   {
     "entity": {
       "location": {
+        "raw": "stephen riady lvl3",
+        "campus_zone": "Utown",
+        "building": "UTown SRC",
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "few",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-08-22T14:25:19.000Z",
+    "lastUpdated": "2025-08-22T14:26:53.000Z",
+    "prompts": "Cleared ?\nNew Message: previously they still got like 1 big plastic bag full of it\nNew Message: Where is it ?\nNew Message: stephen riady lvl3"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "MPSH1 behind USC",
         "campus_zone": "Kent Ridge",
         "building": "MPSH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "behind USC"
+        "landmark": "behind usc"
       },
       "content": {
         "main_dishes": [
@@ -247,7 +284,7 @@
     "entity": {
       "location": {
         "raw": "outside LT17",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT17",
         "floor": null,
@@ -257,9 +294,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
