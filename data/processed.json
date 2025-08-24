@@ -141,7 +141,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -165,7 +165,7 @@
         "building": "MPSH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "behind USC"
+        "landmark": "behind usc"
       },
       "content": {
         "main_dishes": [
@@ -285,7 +285,7 @@
       "location": {
         "raw": "outside LT17",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "LT17",
         "room_or_lt": "LT17",
         "floor": null,
         "landmark": "outside"
@@ -322,7 +322,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "seems cleared",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -383,7 +383,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -400,7 +400,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
