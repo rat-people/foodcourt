@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "06",
+        "floor": null,
         "landmark": null
       },
       "content": {
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": null
+        "clearing_time_exact": "21:00"
       },
       "availability": "cleared",
       "policies": {
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -171,9 +171,9 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "Thyme room",
+        "room_or_lt": null,
         "floor": "L2",
         "landmark": null
       },
@@ -194,7 +194,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -247,9 +247,9 @@
     "entity": {
       "location": {
         "raw": "outside LT17",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
-        "room_or_lt": "LT17",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
