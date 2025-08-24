@@ -5,8 +5,8 @@
         "raw": "AS7-06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": "AS7-06-42",
-        "floor": "level 6",
+        "room_or_lt": null,
+        "floor": "06",
         "landmark": null
       },
       "content": {
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -186,7 +186,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_exact": "6:00"
       },
       "availability": "unknown",
       "policies": {
@@ -254,9 +254,7 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
-          "fong seng"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": []
