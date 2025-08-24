@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "level 6",
+        "floor": null,
         "landmark": null
       },
       "content": {
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -90,12 +90,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "bento"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "bento boxes"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -223,7 +223,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6"
+        "clearing_time_exact": "6:00"
       },
       "availability": "unknown",
       "policies": {
@@ -383,7 +383,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -419,15 +419,15 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "8:00pm"
+        "clearing_time_exact": "20:00"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -436,7 +436,7 @@
       "20250824/20250824192613_NUS Buffet Response Team_40270.jpg"
     ],
     "createdAt": "2025-08-24T11:26:13.000Z",
-    "lastUpdated": "2025-08-24T11:26:13.000Z",
-    "prompts": "leftover curry chicken mee siam and broccoli at md1 lvl 9 will clear by 8pm"
+    "lastUpdated": "2025-08-24T11:46:42.000Z",
+    "prompts": "leftover curry chicken mee siam and broccoli at md1 lvl 9 will clear by 8pm\nNew Message: no more! cleared"
   }
 ]

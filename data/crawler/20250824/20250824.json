@@ -1,22 +1,22 @@
 [
   {
-    "ts_utc": "2025-08-24T11:41:02.000Z",
-    "ts_tz": "2025-08-24T19:41:02+08:00",
+    "ts_utc": "2025-08-24T11:46:42.000Z",
+    "ts_tz": "2025-08-24T19:46:42+08:00",
     "chat_id": "1083087143",
     "chat_title": "NUS Buffet Response Team",
-    "message_id": 40272,
+    "message_id": 40274,
     "from": {
-      "id": "8087758899",
-      "username": null,
-      "first_name": "LI",
-      "last_name": "Minghao"
+      "id": "6272931338",
+      "username": "trevorcsy",
+      "first_name": "golden._retrevor",
+      "last_name": null
     },
-    "text": "dont know how to enter the door😭",
+    "text": "no more! cleared",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-24T11:47:41.000Z",
+    "edit_ts_tz": "2025-08-24T19:47:41+08:00",
     "media": []
   },
   {
