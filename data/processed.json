@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "level 6",
+        "floor": "06",
         "landmark": null
       },
       "content": {
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": null
+        "clearing_time_exact": "21:00"
       },
       "availability": "cleared",
       "policies": {
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -173,7 +173,7 @@
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "Thyme room",
         "floor": "L2",
         "landmark": null
       },
@@ -258,7 +258,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "Fong seng"
+          "fong seng"
         ]
       },
       "organizer_approved": true,
