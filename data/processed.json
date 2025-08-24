@@ -5,8 +5,8 @@
         "raw": "AS7-06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": "AS7-06-42",
-        "floor": null,
+        "room_or_lt": null,
+        "floor": "level 6",
         "landmark": null
       },
       "content": {
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -171,7 +171,7 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "Thyme room",
         "floor": "L2",
@@ -247,7 +247,7 @@
     "entity": {
       "location": {
         "raw": "outside LT17",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": "LT17",
         "floor": null,
@@ -257,9 +257,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -326,7 +324,7 @@
       "location": {
         "raw": "outside utown global learning room",
         "campus_zone": "Utown",
-        "building": "UTown ERC",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
