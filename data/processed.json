@@ -5,7 +5,7 @@
         "raw": "AS7-06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": null,
+        "room_or_lt": "AS7-06-42",
         "floor": "level 6",
         "landmark": null
       },
@@ -15,7 +15,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": false,
+      "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -119,43 +119,6 @@
     "createdAt": "2025-08-22T14:09:50.000Z",
     "lastUpdated": "2025-08-22T14:33:19.000Z",
     "prompts": "Bento Boxes outside of Dance Atelier 2, SRC\nNew Message: mantapp thank you\nNew Message: cleared!"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "stephen riady lvl3",
-        "campus_zone": "Utown",
-        "building": "UTown SRC",
-        "room_or_lt": null,
-        "floor": "level 3",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-08-22T14:25:19.000Z",
-    "lastUpdated": "2025-08-22T14:26:53.000Z",
-    "prompts": "Cleared ?\nNew Message: previously they still got like 1 big plastic bag full of it\nNew Message: Where is it ?\nNew Message: stephen riady lvl3"
   },
   {
     "entity": {
@@ -210,7 +173,7 @@
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "Thyme room",
+        "room_or_lt": null,
         "floor": "L2",
         "landmark": null
       },
@@ -295,7 +258,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "fong seng"
+          "Fong seng"
         ]
       },
       "organizer_approved": true,
@@ -324,7 +287,7 @@
   {
     "entity": {
       "location": {
-        "raw": "",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
