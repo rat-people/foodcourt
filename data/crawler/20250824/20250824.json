@@ -1,5 +1,25 @@
 [
   {
+    "ts_utc": "2025-08-24T11:41:02.000Z",
+    "ts_tz": "2025-08-24T19:41:02+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40272,
+    "from": {
+      "id": "8087758899",
+      "username": null,
+      "first_name": "LI",
+      "last_name": "Minghao"
+    },
+    "text": "dont know how to enter the door😭",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-24T11:26:13.000Z",
     "ts_tz": "2025-08-24T19:26:13+08:00",
     "chat_id": "1083087143",
