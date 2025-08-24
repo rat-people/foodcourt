@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "AS7",
         "room_or_lt": "AS7-06-42",
-        "floor": "level 6",
+        "floor": null,
         "landmark": null
       },
       "content": {
@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -141,7 +141,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -246,7 +246,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -285,7 +285,7 @@
       "location": {
         "raw": "outside LT17",
         "campus_zone": "unknown",
-        "building": "LT17",
+        "building": null,
         "room_or_lt": "LT17",
         "floor": null,
         "landmark": "outside"
@@ -322,7 +322,7 @@
   {
     "entity": {
       "location": {
-        "raw": "seems cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -383,7 +383,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -394,5 +394,49 @@
     "createdAt": "2025-08-24T04:57:52.000Z",
     "lastUpdated": "2025-08-24T04:58:28.000Z",
     "prompts": "food availableb outside utown global learning room, will clear by 2pm, im the organiser"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "md1 lvl 9",
+        "campus_zone": "Outram",
+        "building": "MD",
+        "room_or_lt": null,
+        "floor": "level 9",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [
+          "curry chicken",
+          "mee siam"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "broccoli"
+        ]
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "8pm"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "medium",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250824/20250824192613_NUS Buffet Response Team_40270.jpg"
+    ],
+    "createdAt": "2025-08-24T11:26:13.000Z",
+    "lastUpdated": "2025-08-24T11:26:13.000Z",
+    "prompts": "leftover curry chicken mee siam and broccoli at md1 lvl 9 will clear by 8pm"
   }
 ]
