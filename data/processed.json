@@ -4,15 +4,17 @@
       "location": {
         "raw": "AS7-06-42",
         "campus_zone": "Kent Ridge",
-        "building": "AS7",
+        "building": null,
         "room_or_lt": "AS7-06-42",
-        "floor": "06",
+        "floor": null,
         "landmark": null
       },
       "content": {
         "main_dishes": [],
         "desserts_snacks": [],
-        "drinks": [],
+        "drinks": [
+          "tea"
+        ],
         "other_items": []
       },
       "organizer_approved": true,
@@ -42,7 +44,7 @@
     "entity": {
       "location": {
         "raw": "in front of LT31",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": "LT31",
         "floor": null,
@@ -50,7 +52,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -58,8 +60,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_relative": "before 9pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -87,7 +89,7 @@
         "building": "UTown SRC",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside of Dance Atelier 2"
       },
       "content": {
         "main_dishes": [
@@ -134,14 +136,16 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "1 big plastic bag"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -208,9 +212,9 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
+        "campus_zone": "Kent Ridge",
+        "building": "Shaw Foundation Alumni House",
+        "room_or_lt": "Thyme room",
         "floor": "L2",
         "landmark": null
       },
@@ -223,7 +227,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6:00"
+        "clearing_time_exact": "18:00"
       },
       "availability": "unknown",
       "policies": {
@@ -284,14 +288,16 @@
     "entity": {
       "location": {
         "raw": "outside LT17",
-        "campus_zone": "unknown",
-        "building": "LT17",
+        "campus_zone": "Kent Ridge",
+        "building": null,
         "room_or_lt": "LT17",
         "floor": null,
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "fong seng"
+        ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": []
@@ -322,7 +328,7 @@
   {
     "entity": {
       "location": {
-        "raw": "seems cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -383,7 +389,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -400,7 +406,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
