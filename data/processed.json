@@ -56,9 +56,7 @@
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "boxes"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -82,6 +80,43 @@
     "createdAt": "2025-08-22T14:09:50.000Z",
     "lastUpdated": "2025-08-22T14:33:19.000Z",
     "prompts": "Bento Boxes outside of Dance Atelier 2, SRC\nNew Message: mantapp thank you\nNew Message: cleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "stephen riady lvl3",
+        "campus_zone": "Utown",
+        "building": "UTown SRC",
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-08-22T14:25:19.000Z",
+    "lastUpdated": "2025-08-22T14:26:53.000Z",
+    "prompts": "Cleared ?\nNew Message: previously they still got like 1 big plastic bag full of it\nNew Message: Where is it ?\nNew Message: stephen riady lvl3"
   },
   {
     "entity": {
@@ -136,9 +171,9 @@
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
         "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": null,
+        "room_or_lt": "Thyme room",
         "floor": "L2",
-        "landmark": "Thyme room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -149,7 +184,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
+        "clearing_time_exact": "6:00"
       },
       "availability": "unknown",
       "policies": {
@@ -172,7 +207,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
