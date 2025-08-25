@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -19,7 +19,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "before 9pm",
+        "clearing_time_relative": "consume by 9pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -52,7 +52,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -84,6 +84,45 @@
   {
     "entity": {
       "location": {
+        "raw": "stephen riady lvl3",
+        "campus_zone": "Utown",
+        "building": "UTown SRC",
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "1 big plastic bag full of it"
+        ]
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-08-22T14:25:19.000Z",
+    "lastUpdated": "2025-08-22T14:26:53.000Z",
+    "prompts": "Cleared ?\nNew Message: previously they still got like 1 big plastic bag full of it\nNew Message: Where is it ?\nNew Message: stephen riady lvl3"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "MPSH1 behind USC",
         "campus_zone": "Kent Ridge",
         "building": "MPSH",
@@ -108,7 +147,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -132,7 +171,7 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": "Thyme room",
         "floor": "L2",
@@ -215,12 +254,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "fong seng"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -326,7 +365,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
