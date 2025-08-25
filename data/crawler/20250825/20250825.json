@@ -1,0 +1,29 @@
+[
+  {
+    "ts_utc": "2025-08-25T08:09:10.000Z",
+    "ts_tz": "2025-08-25T16:09:10+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40277,
+    "from": {
+      "id": "571970113",
+      "username": "CaptainPabs",
+      "first_name": "Amos",
+      "last_name": "Low"
+    },
+    "text": "few boxes of snacks at SCALE dining area, will clear by 530pm, im the organiser",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6154548029496085409",
+        "filename": "20250825160910_NUS Buffet Response Team_40277.jpg",
+        "path": "20250825/20250825160910_NUS Buffet Response Team_40277.jpg"
+      }
+    ]
+  }
+]
