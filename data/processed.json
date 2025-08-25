@@ -48,7 +48,7 @@
         "building": null,
         "room_or_lt": "LT31",
         "floor": null,
-        "landmark": "in front of"
+        "landmark": "in front of LT31"
       },
       "content": {
         "main_dishes": [
@@ -60,7 +60,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "before 9pm",
+        "clearing_time_relative": "consume by 9pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -137,7 +137,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "1 big plastic bag"
+          "1 big plastic bag full of it"
         ]
       },
       "organizer_approved": null,
@@ -169,7 +169,7 @@
         "building": "MPSH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "behind usc"
+        "landmark": "behind USC"
       },
       "content": {
         "main_dishes": [
@@ -188,7 +188,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -196,7 +196,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -212,7 +212,7 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Utown",
+        "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "L2",
@@ -406,7 +406,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
