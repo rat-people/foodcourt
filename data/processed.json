@@ -52,7 +52,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -60,7 +60,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "consume by 21:00",
+        "clearing_time_relative": "before 9pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -93,7 +93,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -188,7 +188,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -196,7 +196,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -212,7 +212,7 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": "Thyme room",
         "floor": "L2",
@@ -404,9 +404,9 @@
   {
     "entity": {
       "location": {
-        "raw": "MD1 lvl 9",
+        "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
