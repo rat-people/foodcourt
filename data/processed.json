@@ -19,8 +19,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
+        "clearing_time_relative": "before 9pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -52,7 +52,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -172,7 +172,7 @@
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": "Thyme room",
         "floor": "L2",
         "landmark": null
@@ -365,7 +365,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
@@ -408,11 +408,11 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "dining area"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
