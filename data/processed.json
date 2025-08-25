@@ -2,47 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "in front of LT31",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": "LT31",
-        "floor": null,
-        "landmark": "in front of"
-      },
-      "content": {
-        "main_dishes": [
-          "bento"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "before 9pm",
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250822/20250822203157_NUS Buffet Response Team_40242.jpg"
-    ],
-    "createdAt": "2025-08-22T12:31:57.000Z",
-    "lastUpdated": "2025-08-22T13:18:27.000Z",
-    "prompts": "Bento boxes in front of LT31, to be consumed before 9pm\nNew Message: still have？\nNew Message: no box left"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "outside of Dance Atelier 2, SRC",
         "campus_zone": "Utown",
         "building": "UTown SRC",
@@ -52,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -132,9 +91,9 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": "Thyme room",
+        "room_or_lt": null,
         "floor": "L2",
         "landmark": null
       },
@@ -170,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -215,12 +174,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "fong seng"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -324,9 +283,9 @@
   {
     "entity": {
       "location": {
-        "raw": "md1 lvl 9",
+        "raw": "MD1 lvl 9",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
@@ -427,7 +386,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "20:15"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -443,6 +402,6 @@
     ],
     "createdAt": "2025-08-25T11:56:05.000Z",
     "lastUpdated": "2025-08-25T11:56:05.000Z",
-    "prompts": "Food available Central library L4 Multipurpose Room until 8:15"
+    "prompts": "Food available Central library L4 Multipurpose Room until 8:15\nCleared!"
   }
 ]
