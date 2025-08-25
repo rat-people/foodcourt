@@ -48,11 +48,11 @@
         "building": null,
         "room_or_lt": "LT31",
         "floor": null,
-        "landmark": "in front of LT31"
+        "landmark": "in front of"
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -60,7 +60,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "consume by 9pm",
+        "clearing_time_relative": "before 9pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -93,7 +93,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -169,7 +169,7 @@
         "building": "MPSH",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "behind USC"
+        "landmark": "behind usc"
       },
       "content": {
         "main_dishes": [
@@ -214,9 +214,9 @@
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
         "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": null,
+        "room_or_lt": "Thyme room",
         "floor": "L2",
-        "landmark": "Thyme room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -295,12 +295,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
-          "fong seng"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Fong seng"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -404,9 +404,9 @@
   {
     "entity": {
       "location": {
-        "raw": "md1 lvl 9",
+        "raw": "MD1 lvl 9",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
