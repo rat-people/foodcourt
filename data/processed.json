@@ -95,7 +95,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "1 big plastic bag full of it"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -169,7 +171,7 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "Utown",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": "Thyme room",
         "floor": "L2",
@@ -184,7 +186,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "6:00"
+        "clearing_time_exact": "18:00"
       },
       "availability": "unknown",
       "policies": {
@@ -207,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -252,12 +254,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "fong seng"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
