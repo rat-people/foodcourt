@@ -47,7 +47,7 @@
         "campus_zone": "Utown",
         "building": "UTown SRC",
         "room_or_lt": null,
-        "floor": "lvl3",
+        "floor": "level 3",
         "landmark": null
       },
       "content": {
@@ -132,9 +132,9 @@
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
         "campus_zone": "unknown",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": "Thyme room",
+        "room_or_lt": null,
         "floor": "L2",
-        "landmark": null
+        "landmark": "Thyme room"
       },
       "content": {
         "main_dishes": [],
@@ -168,7 +168,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -246,7 +246,7 @@
   {
     "entity": {
       "location": {
-        "raw": "seems cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -408,11 +408,11 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "Kent Ridge",
-        "building": "MPSH",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
-        "floor": "level 4",
-        "landmark": null
+        "floor": "L4",
+        "landmark": "Multipurpose Room"
       },
       "content": {
         "main_dishes": [],
