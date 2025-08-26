@@ -240,7 +240,7 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -281,11 +281,11 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "MPSH",
         "room_or_lt": null,
         "floor": "L4",
-        "landmark": "Multipurpose Room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
