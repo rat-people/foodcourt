@@ -26,7 +26,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -133,12 +133,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
-          "fong seng"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Fong seng"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -246,7 +246,7 @@
         "campus_zone": "Outram",
         "building": "MD",
         "room_or_lt": null,
-        "floor": "lvl 9",
+        "floor": "level 9",
         "landmark": null
       },
       "content": {
@@ -287,7 +287,7 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
