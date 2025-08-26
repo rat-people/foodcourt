@@ -50,11 +50,11 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": "Thyme room",
+        "room_or_lt": null,
         "floor": "L2",
-        "landmark": null
+        "landmark": "Thyme room"
       },
       "content": {
         "main_dishes": [],
@@ -246,7 +246,7 @@
         "campus_zone": "Outram",
         "building": "MD",
         "room_or_lt": null,
-        "floor": "level 9",
+        "floor": "lvl 9",
         "landmark": null
       },
       "content": {
@@ -287,7 +287,7 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
