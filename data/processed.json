@@ -41,7 +41,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -80,7 +80,7 @@
       "location": {
         "raw": "outside LT17",
         "campus_zone": "Kent Ridge",
-        "building": "LT17",
+        "building": null,
         "room_or_lt": "LT17",
         "floor": null,
         "landmark": "outside"
@@ -281,11 +281,11 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "Kent Ridge",
-        "building": "MPSH",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "L4",
-        "landmark": null
+        "landmark": "Multipurpose Room"
       },
       "content": {
         "main_dishes": [],
@@ -315,5 +315,46 @@
     "createdAt": "2025-08-25T11:56:05.000Z",
     "lastUpdated": "2025-08-25T11:56:05.000Z",
     "prompts": "Food available Central library L4 Multipurpose Room until 8:15\nCleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "@ ucc",
+        "campus_zone": "Utown",
+        "building": "UCC",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": "clear by 6",
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": "adviced to eat here, no takeaways"
+      }
+    },
+    "media": [
+      "20250826/20250826173933_NUS Buffet Response Team_40283.jpg",
+      "20250826/20250826173933_NUS Buffet Response Team_40282.jpg",
+      "20250826/20250826173934_NUS Buffet Response Team_40284.jpg"
+    ],
+    "createdAt": "2025-08-26T09:39:33.000Z",
+    "lastUpdated": "2025-08-26T09:39:34.000Z",
+    "prompts": "@ ucc, organiser approved. adviced to eat here, no takeaways, clear by 6 :\")"
   }
 ]
