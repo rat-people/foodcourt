@@ -3,11 +3,11 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": "Thyme room",
+        "room_or_lt": null,
         "floor": "L2",
-        "landmark": null
+        "landmark": "Thyme room"
       },
       "content": {
         "main_dishes": [],
@@ -86,12 +86,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
-          "fong seng"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Fong seng"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -119,7 +119,7 @@
   {
     "entity": {
       "location": {
-        "raw": "seems cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -197,7 +197,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
@@ -205,13 +205,12 @@
       "content": {
         "main_dishes": [
           "curry chicken",
-          "mee siam"
+          "mee siam",
+          "broccoli"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "broccoli"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
