@@ -86,12 +86,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
-          "fong seng"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Fong seng"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -281,11 +281,11 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "Kent Ridge",
-        "building": "MPSH",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "L4",
-        "landmark": null
+        "landmark": "Multipurpose Room"
       },
       "content": {
         "main_dishes": [],
@@ -315,5 +315,45 @@
     "createdAt": "2025-08-25T11:56:05.000Z",
     "lastUpdated": "2025-08-25T11:56:05.000Z",
     "prompts": "Food available Central library L4 Multipurpose Room until 8:15\nCleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "outside S1 level 1",
+        "campus_zone": "Kent Ridge",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 1",
+        "landmark": "outside"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250826/20250826165602_NUS Buffet Response Team_40281.jpg",
+      "20250826/20250826165602_NUS Buffet Response Team_40280.jpg"
+    ],
+    "createdAt": "2025-08-26T08:56:02.000Z",
+    "lastUpdated": "2025-08-26T08:56:02.000Z",
+    "prompts": "Leftover buffet outside S1 level 1. No one seems to be around. \nEdit: Sorry the guys seem to be clearing"
   }
 ]
