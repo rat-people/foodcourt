@@ -50,11 +50,11 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": null,
+        "room_or_lt": "Thyme room",
         "floor": "L2",
-        "landmark": "Thyme room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -133,12 +133,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
-          "fong seng"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Fong seng"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -244,7 +244,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
@@ -291,7 +291,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "dining area"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
