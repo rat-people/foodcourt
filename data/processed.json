@@ -43,7 +43,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
@@ -90,7 +90,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": null
+        "landmark": "dining area"
       },
       "content": {
         "main_dishes": [],
@@ -180,7 +180,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 6",
+        "clearing_time_relative": "clear by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
