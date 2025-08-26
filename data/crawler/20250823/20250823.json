@@ -152,32 +152,5 @@
         "path": "20250823/20250823173202_NUS Buffet Response Team_40261.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-08-23T04:29:12.000Z",
-    "ts_tz": "2025-08-23T12:29:12+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40259,
-    "from": {
-      "id": "223948986",
-      "username": "taiwenc",
-      "first_name": "Tai Wen",
-      "last_name": null
-    },
-    "text": "Still have vegetarian rice, samosa, sesame balls and spring rolls at MPSH1 behind USC",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-23T05:12:52.000Z",
-    "edit_ts_tz": "2025-08-23T13:12:52+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6145398495025154994",
-        "filename": "20250823122912_NUS Buffet Response Team_40259.jpg",
-        "path": "20250823/20250823122912_NUS Buffet Response Team_40259.jpg"
-      }
-    ]
   }
 ]
