@@ -3,9 +3,9 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": null,
+        "room_or_lt": "Thyme room",
         "floor": "L2",
         "landmark": null
       },
@@ -244,7 +244,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": null
+        "landmark": "dining area"
       },
       "content": {
         "main_dishes": [],
