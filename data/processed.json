@@ -2,82 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
-        "building": "Shaw Foundation Alumni House",
-        "room_or_lt": null,
-        "floor": "L2",
-        "landmark": "Thyme room"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "18:00"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250823/20250823173202_NUS Buffet Response Team_40261.jpg"
-    ],
-    "createdAt": "2025-08-23T09:32:02.000Z",
-    "lastUpdated": "2025-08-23T09:32:02.000Z",
-    "prompts": "Shaw Foundation Alumni House L2 Thyme room (clearing at 6)"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-08-23T09:47:25.000Z",
-    "lastUpdated": "2025-08-23T09:47:25.000Z",
-    "prompts": "Cleared!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "outside LT17",
         "campus_zone": "Kent Ridge",
         "building": null,
@@ -86,12 +10,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "fong seng"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -334,7 +258,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "clear by 6",
+        "clearing_time_relative": "by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -345,7 +269,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "adviced to eat here, no takeaways"
+        "risk_notice": "no takeaways"
       }
     },
     "media": [
@@ -355,6 +279,6 @@
     ],
     "createdAt": "2025-08-26T09:39:33.000Z",
     "lastUpdated": "2025-08-26T09:39:34.000Z",
-    "prompts": "@ ucc, organiser approved. adviced to eat here, no takeaways, clear by 6 :\")"
+    "prompts": "@ ucc, organiser approved. advised to eat here, no takeaways, clear by 6 :\")"
   }
 ]
