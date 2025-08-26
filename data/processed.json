@@ -50,11 +50,11 @@
     "entity": {
       "location": {
         "raw": "Shaw Foundation Alumni House L2 Thyme room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": "Shaw Foundation Alumni House",
-        "room_or_lt": "Thyme room",
+        "room_or_lt": null,
         "floor": "L2",
-        "landmark": null
+        "landmark": "Thyme room"
       },
       "content": {
         "main_dishes": [],
@@ -133,12 +133,12 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "fong seng"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Fong seng"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -252,12 +252,13 @@
       "content": {
         "main_dishes": [
           "curry chicken",
-          "mee siam",
-          "broccoli"
+          "mee siam"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "broccoli"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -290,7 +291,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": null
+        "landmark": "dining area"
       },
       "content": {
         "main_dishes": [],
@@ -329,9 +330,9 @@
         "raw": "Central library L4 Multipurpose Room",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "L4 Multipurpose Room",
+        "room_or_lt": null,
         "floor": "L4",
-        "landmark": null
+        "landmark": "Multipurpose Room"
       },
       "content": {
         "main_dishes": [],
