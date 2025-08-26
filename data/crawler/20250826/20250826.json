@@ -1,5 +1,28 @@
 [
   {
+    "ts_utc": "2025-08-26T10:17:30.000Z",
+    "ts_tz": "2025-08-26T18:17:30+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40285,
+    "from": {
+      "id": "8149008037",
+      "username": "sg60_vacation_services",
+      "first_name": "SG60 Vacation Services",
+      "last_name": null
+    },
+    "text": "Is this still available?",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40282,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-26T09:39:34.000Z",
     "ts_tz": "2025-08-26T17:39:34+08:00",
     "chat_id": "1083087143",
