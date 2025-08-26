@@ -86,11 +86,11 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "dining area"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -180,7 +180,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "clear by 6",
+        "clearing_time_relative": "by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
