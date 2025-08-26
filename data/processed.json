@@ -2,84 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "outside LT17",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": "LT17",
-        "floor": null,
-        "landmark": "outside"
-      },
-      "content": {
-        "main_dishes": [
-          "fong seng"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250823/20250823175331_NUS Buffet Response Team_40264.jpg"
-    ],
-    "createdAt": "2025-08-23T09:53:31.000Z",
-    "lastUpdated": "2025-08-23T09:53:31.000Z",
-    "prompts": "Fong seng available outside LT17 (Organizer approved)"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-08-23T10:10:09.000Z",
-    "lastUpdated": "2025-08-23T10:10:09.000Z",
-    "prompts": "seems cleared"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "outside utown global learning room",
         "campus_zone": "Utown",
         "building": null,
@@ -168,7 +90,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": null
+        "landmark": "dining area"
       },
       "content": {
         "main_dishes": [],
@@ -258,7 +180,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 6",
+        "clearing_time_relative": "clear by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -269,7 +191,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "no takeaways"
+        "risk_notice": null
       }
     },
     "media": [
