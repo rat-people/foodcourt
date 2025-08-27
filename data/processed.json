@@ -88,7 +88,7 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "L4",
@@ -152,7 +152,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "advised to eat here, no takeaways"
+        "risk_notice": null
       }
     },
     "media": [
@@ -169,10 +169,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "E Cube",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside engineering E Cube"
       },
       "content": {
         "main_dishes": [],
@@ -256,7 +256,7 @@
       },
       "content": {
         "main_dishes": [
-          "pulut hitam"
+          "Pulut Hitam"
         ],
         "desserts_snacks": [],
         "drinks": [],
