@@ -12,12 +12,13 @@
       "content": {
         "main_dishes": [
           "curry chicken",
-          "mee siam",
-          "broccoli"
+          "mee siam"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "broccoli"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -50,7 +51,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "dining area"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -246,9 +247,9 @@
   {
     "entity": {
       "location": {
-        "raw": "University Hall, level 2, linkbridge",
+        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "University Hall",
+        "building": "YIH",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
