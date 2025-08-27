@@ -169,10 +169,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "E Cube",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside engineering E Cube"
       },
       "content": {
         "main_dishes": [],
@@ -226,7 +226,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -241,15 +241,15 @@
       "20250827/20250827141107_NUS Buffet Response Team_40288.jpg"
     ],
     "createdAt": "2025-08-27T06:11:07.000Z",
-    "lastUpdated": "2025-08-27T06:11:07.000Z",
-    "prompts": "food leftover at LT27 foyer. will be cleared by 3pm. I am the organizer"
+    "lastUpdated": "2025-08-27T07:36:53.000Z",
+    "prompts": "food leftover at LT27 foyer. will be cleared by 3pm. I am the organizer\nNew Message: cleared!"
   },
   {
     "entity": {
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "YIH",
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
