@@ -4,7 +4,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
@@ -12,12 +12,13 @@
       "content": {
         "main_dishes": [
           "curry chicken",
-          "mee siam",
-          "broccoli"
+          "mee siam"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "broccoli"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -46,7 +47,7 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -87,8 +88,8 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "Kent Ridge",
-        "building": "MPSH",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "L4",
         "landmark": "Multipurpose Room"
@@ -151,7 +152,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "advised to eat here, no takeaways"
       }
     },
     "media": [
@@ -168,10 +169,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "E Cube",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside engineering E Cube"
       },
       "content": {
         "main_dishes": [],
