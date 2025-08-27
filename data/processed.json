@@ -89,7 +89,7 @@
       "location": {
         "raw": "Central library L4 Multipurpose Room",
         "campus_zone": "Kent Ridge",
-        "building": "MPSH",
+        "building": null,
         "room_or_lt": null,
         "floor": "L4",
         "landmark": "Multipurpose Room"
