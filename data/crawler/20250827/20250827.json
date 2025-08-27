@@ -1,5 +1,25 @@
 [
   {
+    "ts_utc": "2025-08-27T06:40:39.000Z",
+    "ts_tz": "2025-08-27T14:40:39+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40291,
+    "from": {
+      "id": "940440561",
+      "username": "writtenbynino",
+      "first_name": "Niles/NiNO",
+      "last_name": null
+    },
+    "text": "Pulau Hitam hahaha",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-27T06:15:26.000Z",
     "ts_tz": "2025-08-27T14:15:26+08:00",
     "chat_id": "1083087143",
@@ -14,9 +34,9 @@
     "text": "Pulau Hitam University Hall, level 2, linkbridge",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-27T06:35:53.000Z",
+    "edit_ts_tz": "2025-08-27T14:35:53+08:00",
     "media": [
       {
         "type": "photo",
