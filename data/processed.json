@@ -51,7 +51,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "dining area"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -88,11 +88,11 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "MPSH",
         "room_or_lt": null,
         "floor": "L4",
-        "landmark": "Multipurpose Room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -126,7 +126,7 @@
   {
     "entity": {
       "location": {
-        "raw": "@ ucc",
+        "raw": "ucc",
         "campus_zone": "Utown",
         "building": "UCC",
         "room_or_lt": null,
@@ -141,7 +141,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 6",
+        "clearing_time_relative": "clear by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -150,7 +150,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -210,7 +210,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -247,9 +247,9 @@
   {
     "entity": {
       "location": {
-        "raw": "University Hall, level 2, linkbridge",
+        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "UTown ERC",
+        "building": "YIH",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
