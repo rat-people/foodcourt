@@ -51,7 +51,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": null
+        "landmark": "dining area"
       },
       "content": {
         "main_dishes": [],
@@ -88,7 +88,7 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "L4",
@@ -141,7 +141,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "clear by 6",
+        "clearing_time_relative": "by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -169,10 +169,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside engineering E Cube"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -247,16 +247,16 @@
   {
     "entity": {
       "location": {
-        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
+        "raw": "University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "YIH",
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
       },
       "content": {
         "main_dishes": [
-          "Pulut Hitam"
+          "pulut hitam"
         ],
         "desserts_snacks": [],
         "drinks": [],
