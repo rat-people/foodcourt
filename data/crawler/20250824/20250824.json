@@ -18,32 +18,5 @@
     "edit_ts_utc": "2025-08-24T11:47:41.000Z",
     "edit_ts_tz": "2025-08-24T19:47:41+08:00",
     "media": []
-  },
-  {
-    "ts_utc": "2025-08-24T11:26:13.000Z",
-    "ts_tz": "2025-08-24T19:26:13+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40270,
-    "from": {
-      "id": "6272931338",
-      "username": "trevorcsy",
-      "first_name": "golden._retrevor",
-      "last_name": null
-    },
-    "text": "leftover curry chicken mee siam and broccoli at md1 lvl 9 will clear by 8pm",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-24T11:26:35.000Z",
-    "edit_ts_tz": "2025-08-24T19:26:35+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6149799487883823421",
-        "filename": "20250824192613_NUS Buffet Response Team_40270.jpg",
-        "path": "20250824/20250824192613_NUS Buffet Response Team_40270.jpg"
-      }
-    ]
   }
 ]
