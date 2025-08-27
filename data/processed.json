@@ -43,7 +43,7 @@
       "location": {
         "raw": "md1 lvl 9",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 9",
         "landmark": null
@@ -180,7 +180,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 6",
+        "clearing_time_relative": "clear by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -200,7 +200,48 @@
       "20250826/20250826173934_NUS Buffet Response Team_40284.jpg"
     ],
     "createdAt": "2025-08-26T09:39:33.000Z",
-    "lastUpdated": "2025-08-26T10:17:30.000Z",
-    "prompts": "@ ucc, organiser approved. advised to eat here, no takeaways, clear by 6 :\")\nNew Message: Is this still available?"
+    "lastUpdated": "2025-08-26T09:39:34.000Z",
+    "prompts": "@ ucc, organiser approved. advised to eat here, no takeaways, clear by 6 :\")"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "outside engineering E Cube",
+        "campus_zone": "Kent Ridge",
+        "building": "E Cube",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "outside"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [
+          "finger food"
+        ],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": "by 11:30",
+        "clearing_time_exact": "11:30"
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250826/20250826224332_NUS Buffet Response Team_40286.jpg"
+    ],
+    "createdAt": "2025-08-26T14:43:32.000Z",
+    "lastUpdated": "2025-08-26T15:27:01.000Z",
+    "prompts": "Leftover finger food outside engineering E Cube, clear by 11:30\nNew Message: Thanks everyone, the food has been cleared"
   }
 ]
