@@ -86,11 +86,11 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": null
+        "landmark": "dining area"
       },
       "content": {
         "main_dishes": [],
@@ -130,7 +130,7 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "L4",
+        "floor": "level 4",
         "landmark": "Multipurpose Room"
       },
       "content": {
@@ -208,10 +208,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "E Cube",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside engineering E Cube"
       },
       "content": {
         "main_dishes": [],
