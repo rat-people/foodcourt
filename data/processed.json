@@ -41,7 +41,7 @@
   {
     "entity": {
       "location": {
-        "raw": "md1 lvl 9",
+        "raw": "MD1 lvl 9",
         "campus_zone": "Outram",
         "building": "MD",
         "room_or_lt": null,
