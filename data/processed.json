@@ -41,7 +41,7 @@
   {
     "entity": {
       "location": {
-        "raw": "MD1 lvl 9",
+        "raw": "md1 lvl 9",
         "campus_zone": "Outram",
         "building": "MD",
         "room_or_lt": null,
@@ -86,7 +86,7 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -130,7 +130,7 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 4",
+        "floor": "L4",
         "landmark": "Multipurpose Room"
       },
       "content": {
