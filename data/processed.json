@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "no more!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -40,11 +40,11 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "dining area"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -85,7 +85,7 @@
         "building": null,
         "room_or_lt": null,
         "floor": "L4",
-        "landmark": null
+        "landmark": "Multipurpose Room"
       },
       "content": {
         "main_dishes": [],
@@ -162,10 +162,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside engineering E Cube"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -249,7 +249,7 @@
       },
       "content": {
         "main_dishes": [
-          "Pulut Hitam"
+          "pulut hitam"
         ],
         "desserts_snacks": [],
         "drinks": [],
