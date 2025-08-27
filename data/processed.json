@@ -31,10 +31,8 @@
         "risk_notice": null
       }
     },
-    "media": [
-      "20250824/20250824125752_NUS Buffet Response Team_40268.jpg"
-    ],
-    "createdAt": "2025-08-24T04:57:52.000Z",
+    "media": [],
+    "createdAt": "2025-08-24T04:58:28.000Z",
     "lastUpdated": "2025-08-24T04:58:28.000Z",
     "prompts": "food availableb outside utown global learning room, will clear by 2pm, im the organiser"
   },
@@ -127,11 +125,11 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "MPSH",
         "room_or_lt": null,
-        "floor": "L4",
-        "landmark": "Multipurpose Room"
+        "floor": "level 4",
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -191,7 +189,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "advised to eat here, no takeaways"
       }
     },
     "media": [
