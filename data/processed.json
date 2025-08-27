@@ -47,7 +47,7 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -126,7 +126,7 @@
   {
     "entity": {
       "location": {
-        "raw": "ucc",
+        "raw": "@ ucc",
         "campus_zone": "Utown",
         "building": "UCC",
         "room_or_lt": null,
@@ -169,10 +169,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "E-Cube",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside engineering E Cube"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -184,7 +184,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 11:30",
         "clearing_time_exact": "11:30"
       },
       "availability": "cleared",
@@ -223,7 +223,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 3pm",
+        "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
       "availability": "cleared",
