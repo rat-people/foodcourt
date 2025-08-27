@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "md1 lvl 9",
+        "raw": "MD1 lvl 9",
         "campus_zone": "Outram",
         "building": "MD",
         "room_or_lt": null,
@@ -12,13 +12,12 @@
       "content": {
         "main_dishes": [
           "curry chicken",
-          "mee siam"
+          "mee siam",
+          "broccoli"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "broccoli"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -150,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -243,5 +242,46 @@
     "createdAt": "2025-08-27T06:11:07.000Z",
     "lastUpdated": "2025-08-27T06:11:07.000Z",
     "prompts": "food leftover at LT27 foyer. will be cleared by 3pm. I am the organizer"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
+        "campus_zone": "Utown",
+        "building": "YIH",
+        "room_or_lt": null,
+        "floor": "level 2",
+        "landmark": "linkbridge"
+      },
+      "content": {
+        "main_dishes": [
+          "pulut hitam"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250827/20250827141526_NUS Buffet Response Team_40290.jpg"
+    ],
+    "createdAt": "2025-08-27T06:15:26.000Z",
+    "lastUpdated": "2025-08-27T06:15:26.000Z",
+    "prompts": "Pulut Hitam University Hall, level 2, linkbridge"
   }
 ]
