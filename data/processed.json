@@ -2,45 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "L4",
-        "landmark": "Multipurpose Room"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "20:15"
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250825/20250825195605_NUS Buffet Response Team_40278.jpg"
-    ],
-    "createdAt": "2025-08-25T11:56:05.000Z",
-    "lastUpdated": "2025-08-25T11:56:05.000Z",
-    "prompts": "Food available Central library L4 Multipurpose Room until 8:15\nCleared!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "@ ucc",
         "campus_zone": "Utown",
         "building": "UCC",
@@ -67,7 +28,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "advised to eat here, no takeaways"
+        "risk_notice": null
       }
     },
     "media": [
@@ -84,8 +45,8 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
-        "room_or_lt": "E Cube",
+        "building": "E Cube",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -164,7 +125,7 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "University Hall",
+        "building": "YIH",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
