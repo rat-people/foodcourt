@@ -82,8 +82,8 @@
   {
     "entity": {
       "location": {
-        "raw": "ucc",
-        "campus_zone": "Kent Ridge",
+        "raw": "@ ucc",
+        "campus_zone": "Utown",
         "building": "UCC",
         "room_or_lt": null,
         "floor": null,
@@ -108,7 +108,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "advised to eat here, no takeaways"
+        "risk_notice": null
       }
     },
     "media": [
@@ -166,7 +166,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
