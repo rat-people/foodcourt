@@ -1,5 +1,45 @@
 [
   {
+    "ts_utc": "2025-08-28T05:21:49.000Z",
+    "ts_tz": "2025-08-28T13:21:49+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40297,
+    "from": {
+      "id": "8322776651",
+      "username": "crystalch3ng",
+      "first_name": "Crystal",
+      "last_name": "Cheng"
+    },
+    "text": "So fast 😭",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-28T05:23:30.000Z",
+    "edit_ts_tz": "2025-08-28T13:23:30+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-28T05:21:19.000Z",
+    "ts_tz": "2025-08-28T13:21:19+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40296,
+    "from": {
+      "id": "8013316227",
+      "username": null,
+      "first_name": "Yongqi",
+      "last_name": "Wu"
+    },
+    "text": "cleared",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-28T05:23:26.000Z",
+    "edit_ts_tz": "2025-08-28T13:23:26+08:00",
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-28T05:03:16.000Z",
     "ts_tz": "2025-08-28T13:03:16+08:00",
     "chat_id": "1083087143",
