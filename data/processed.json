@@ -125,10 +125,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside engineering E Cube"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -166,7 +166,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -205,7 +205,7 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "UTown SRC",
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
@@ -277,5 +277,44 @@
     "createdAt": "2025-08-28T05:21:19.000Z",
     "lastUpdated": "2025-08-28T05:21:19.000Z",
     "prompts": "cleared"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "YIH lv 3 CFG space",
+        "campus_zone": "Kent Ridge",
+        "building": "YIH",
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": "CFG space"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250828/20250828140434_NUS Buffet Response Team_40298.jpg"
+    ],
+    "createdAt": "2025-08-28T06:04:34.000Z",
+    "lastUpdated": "2025-08-28T06:14:16.000Z",
+    "prompts": "Food at YIH lv 3 CFG space \nam organizer\nNew Message: cleared"
   }
 ]

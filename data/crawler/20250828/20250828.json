@@ -1,5 +1,52 @@
 [
   {
+    "ts_utc": "2025-08-28T06:14:16.000Z",
+    "ts_tz": "2025-08-28T14:14:16+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40299,
+    "from": {
+      "id": "1112819987",
+      "username": "maladestroyerr",
+      "first_name": "Terence",
+      "last_name": null
+    },
+    "text": "cleared",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-28T06:04:34.000Z",
+    "ts_tz": "2025-08-28T14:04:34+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40298,
+    "from": {
+      "id": "1112819987",
+      "username": "maladestroyerr",
+      "first_name": "Terence",
+      "last_name": null
+    },
+    "text": "Food at YIH lv 3 CFG space \nam organizer",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-28T06:09:35.000Z",
+    "edit_ts_tz": "2025-08-28T14:09:35+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6161314780535702747",
+        "filename": "20250828140434_NUS Buffet Response Team_40298.jpg",
+        "path": "20250828/20250828140434_NUS Buffet Response Team_40298.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-08-28T05:21:49.000Z",
     "ts_tz": "2025-08-28T13:21:49+08:00",
     "chat_id": "1083087143",
