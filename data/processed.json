@@ -108,7 +108,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "advised to eat here, no takeaways"
+        "risk_notice": null
       }
     },
     "media": [
@@ -205,7 +205,7 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "YIH",
+        "building": "UTown SRC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
