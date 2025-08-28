@@ -84,7 +84,7 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "COM1",
+        "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
@@ -99,7 +99,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 11:30",
         "clearing_time_exact": "11:30"
       },
       "availability": "cleared",
@@ -125,7 +125,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -162,9 +162,9 @@
   {
     "entity": {
       "location": {
-        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
+        "raw": "University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "unknown",
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
@@ -203,7 +203,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
