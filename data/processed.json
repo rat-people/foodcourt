@@ -56,7 +56,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "clear by 6",
+        "clearing_time_relative": "by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -125,7 +125,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
