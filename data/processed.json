@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -44,8 +44,8 @@
     "entity": {
       "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "MPSH",
         "room_or_lt": null,
         "floor": "L4",
         "landmark": "Multipurpose Room"
@@ -166,7 +166,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -203,9 +203,9 @@
   {
     "entity": {
       "location": {
-        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
+        "raw": "University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "UTown ERC",
+        "building": "University Hall",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
