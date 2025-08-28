@@ -3,11 +3,11 @@
     "entity": {
       "location": {
         "raw": "SCALE dining area",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "dining area"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -97,7 +97,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 6",
+        "clearing_time_relative": "clear by 6",
         "clearing_time_exact": null
       },
       "availability": "unknown",
@@ -108,7 +108,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "advised to eat here, no takeaways"
+        "risk_notice": null
       }
     },
     "media": [
@@ -125,7 +125,7 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": "outside engineering E Cube"
@@ -203,18 +203,18 @@
   {
     "entity": {
       "location": {
-        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
+        "raw": "University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "YIH",
+        "building": "University Hall",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
       },
       "content": {
-        "main_dishes": [
-          "pulut hitam"
+        "main_dishes": [],
+        "desserts_snacks": [
+          "Pulut Hitam"
         ],
-        "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
