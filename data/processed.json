@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -45,10 +45,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside engineering E Cube"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -86,7 +86,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -125,14 +125,14 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "YIH",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
       },
       "content": {
         "main_dishes": [
-          "pulut hitam"
+          "Pulut Hitam"
         ],
         "desserts_snacks": [],
         "drinks": [],
