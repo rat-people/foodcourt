@@ -87,7 +87,7 @@
         "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside engineering"
       },
       "content": {
         "main_dishes": [],
@@ -125,7 +125,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -162,16 +162,16 @@
   {
     "entity": {
       "location": {
-        "raw": "University Hall, level 2, linkbridge",
+        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "University Hall",
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
       },
       "content": {
         "main_dishes": [
-          "pulut hitam"
+          "Pulut Hitam"
         ],
         "desserts_snacks": [],
         "drinks": [],
