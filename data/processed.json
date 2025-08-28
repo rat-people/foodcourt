@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -45,10 +45,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "E Cube",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside engineering E Cube"
       },
       "content": {
         "main_dishes": [],
