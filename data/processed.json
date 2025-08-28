@@ -2,50 +2,9 @@
   {
     "entity": {
       "location": {
-        "raw": "SCALE dining area",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
-          "snacks"
-        ],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "17:30"
-      },
-      "availability": "few",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250825/20250825160910_NUS Buffet Response Team_40277.jpg"
-    ],
-    "createdAt": "2025-08-25T08:09:10.000Z",
-    "lastUpdated": "2025-08-25T08:09:10.000Z",
-    "prompts": "few boxes of snacks at SCALE dining area, will clear by 530pm, im the organiser"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "Central library L4 Multipurpose Room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "MPSH",
         "room_or_lt": null,
         "floor": "L4",
         "landmark": "Multipurpose Room"
@@ -125,10 +84,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside engineering E Cube"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -166,7 +125,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -203,7 +162,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
+        "raw": "University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
         "building": "UTown ERC",
         "room_or_lt": null,
