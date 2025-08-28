@@ -108,7 +108,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "advised to eat here, no takeaways"
       }
     },
     "media": [
@@ -166,7 +166,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -205,7 +205,7 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "University Hall",
+        "building": "YIH",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
