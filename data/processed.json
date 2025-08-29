@@ -45,10 +45,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "E Cube",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside engineering E Cube"
       },
       "content": {
         "main_dishes": [],
@@ -60,7 +60,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 11:30",
+        "clearing_time_relative": null,
         "clearing_time_exact": "11:30"
       },
       "availability": "cleared",
@@ -86,7 +86,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -131,10 +131,10 @@
         "landmark": "linkbridge"
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
+        "main_dishes": [
           "Pulut Hitam"
         ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
