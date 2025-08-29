@@ -60,7 +60,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 11:30",
         "clearing_time_exact": "11:30"
       },
       "availability": "cleared",
@@ -86,7 +86,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -125,16 +125,16 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "YIH",
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
       },
       "content": {
-        "main_dishes": [
-          "pulut hitam"
+        "main_dishes": [],
+        "desserts_snacks": [
+          "Pulut Hitam"
         ],
-        "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
