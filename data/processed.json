@@ -2,53 +2,12 @@
   {
     "entity": {
       "location": {
-        "raw": "@ ucc",
-        "campus_zone": "Utown",
-        "building": "UCC",
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": "clear by 6",
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250826/20250826173933_NUS Buffet Response Team_40283.jpg",
-      "20250826/20250826173933_NUS Buffet Response Team_40282.jpg",
-      "20250826/20250826173934_NUS Buffet Response Team_40284.jpg"
-    ],
-    "createdAt": "2025-08-26T09:39:33.000Z",
-    "lastUpdated": "2025-08-26T09:39:34.000Z",
-    "prompts": "@ ucc, organiser approved. advised to eat here, no takeaways, clear by 6 :\")"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": "E Cube",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside engineering E Cube"
       },
       "content": {
         "main_dishes": [],
@@ -60,7 +19,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 11:30",
+        "clearing_time_relative": null,
         "clearing_time_exact": "11:30"
       },
       "availability": "cleared",
@@ -86,7 +45,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -132,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "Pulut Hitam"
+          "pulut hitam"
         ],
         "desserts_snacks": [],
         "drinks": [],
