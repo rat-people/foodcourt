@@ -7,7 +7,7 @@
         "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside engineering"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -82,18 +82,18 @@
   {
     "entity": {
       "location": {
-        "raw": "University Hall, level 2, linkbridge",
+        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "unknown",
+        "building": "University Hall",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
-          "Pulut Hitam"
+        "main_dishes": [
+          "pulut hitam"
         ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
