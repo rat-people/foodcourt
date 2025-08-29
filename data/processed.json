@@ -60,7 +60,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 11:30",
         "clearing_time_exact": "11:30"
       },
       "availability": "cleared",
@@ -125,7 +125,7 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "UTown ERC",
+        "building": "YIH",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
