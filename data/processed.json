@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "@ ucc",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "Utown",
         "building": "UCC",
         "room_or_lt": null,
         "floor": null,
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -45,10 +45,10 @@
       "location": {
         "raw": "outside engineering E Cube",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "E Cube",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside engineering E Cube"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [],
@@ -125,7 +125,7 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "University Hall",
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
