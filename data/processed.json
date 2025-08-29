@@ -28,7 +28,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -91,7 +91,7 @@
       },
       "content": {
         "main_dishes": [
-          "pulut hitam"
+          "Pulut Hitam"
         ],
         "desserts_snacks": [],
         "drinks": [],
