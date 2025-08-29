@@ -45,7 +45,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -84,7 +84,7 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "University Hall",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
@@ -195,5 +195,87 @@
     "createdAt": "2025-08-28T06:04:34.000Z",
     "lastUpdated": "2025-08-28T06:14:16.000Z",
     "prompts": "Food at YIH lv 3 CFG space \nam organizer\nNew Message: cleared"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "icube level 3 (near biz 2)",
+        "campus_zone": "Utown",
+        "building": "UTown ERC",
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": "near biz 2"
+      },
+      "content": {
+        "main_dishes": [
+          "bee hoon"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "20:30"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250829/20250829200028_NUS Buffet Response Team_40300.jpg"
+    ],
+    "createdAt": "2025-08-29T12:00:28.000Z",
+    "lastUpdated": "2025-08-29T12:00:28.000Z",
+    "prompts": "beehoon at icube level 3 (near biz 2), clearing at 830pm. Im the organiser"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "clb level 4 multipurpose room",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 4",
+        "landmark": "multipurpose room"
+      },
+      "content": {
+        "main_dishes": [
+          "bee hoon"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "08:45"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250829/20250829202428_NUS Buffet Response Team_40304.jpg"
+    ],
+    "createdAt": "2025-08-29T12:24:28.000Z",
+    "lastUpdated": "2025-08-29T12:24:28.000Z",
+    "prompts": "beehoon left at clb level 4 multipurpose room. Organiser approved. Clearing at 0845"
   }
 ]
