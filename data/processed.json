@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -116,7 +116,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -135,7 +135,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -193,5 +193,49 @@
     "createdAt": "2025-08-30T05:14:59.000Z",
     "lastUpdated": "2025-08-30T05:14:59.000Z",
     "prompts": "MD1 level 3 org approved halal clearing 2pm"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "outside science LT27",
+        "campus_zone": "Kent Ridge",
+        "building": "LT27",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "outside"
+      },
+      "content": {
+        "main_dishes": [
+          "bentos",
+          "chicken chop with spaghetti"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "spring roll"
+        ]
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "17:45"
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250830/20250830173923_NUS Buffet Response Team_40308.jpg"
+    ],
+    "createdAt": "2025-08-30T09:39:23.000Z",
+    "lastUpdated": "2025-08-30T09:42:23.000Z",
+    "prompts": "left with 2 extra bentos outside science LT27, chicken chop with spaghetti & spring roll \n\nclearing at 5.45pm \n\n(i’m the organizer)\nNew Message: cleared!"
   }
 ]

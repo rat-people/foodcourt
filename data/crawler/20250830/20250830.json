@@ -1,5 +1,55 @@
 [
   {
+    "ts_utc": "2025-08-30T09:42:23.000Z",
+    "ts_tz": "2025-08-30T17:42:23+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40309,
+    "from": {
+      "id": "367863958",
+      "username": "tinggss",
+      "first_name": "yuanting ✿‧͙⁺˚*✧",
+      "last_name": null
+    },
+    "text": "cleared!",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40308,
+      "reply_to_top_message_id": null
+    },
+    "edited": true,
+    "edit_ts_utc": "2025-08-30T09:42:33.000Z",
+    "edit_ts_tz": "2025-08-30T17:42:33+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-30T09:39:23.000Z",
+    "ts_tz": "2025-08-30T17:39:23+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40308,
+    "from": {
+      "id": "367863958",
+      "username": "tinggss",
+      "first_name": "yuanting ✿‧͙⁺˚*✧",
+      "last_name": null
+    },
+    "text": "left with 2 extra bentos outside science LT27, chicken chop with spaghetti & spring roll \n\nclearing at 5.45pm \n\n(i’m the organizer)",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-30T09:40:20.000Z",
+    "edit_ts_tz": "2025-08-30T17:40:20+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6165637755313443052",
+        "filename": "20250830173923_NUS Buffet Response Team_40308.jpg",
+        "path": "20250830/20250830173923_NUS Buffet Response Team_40308.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-08-30T05:47:49.000Z",
     "ts_tz": "2025-08-30T13:47:49+08:00",
     "chat_id": "1083087143",
