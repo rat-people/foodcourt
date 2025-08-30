@@ -124,7 +124,7 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon"
+          "bee hoon"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -135,7 +135,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -158,7 +158,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -206,14 +206,15 @@
       },
       "content": {
         "main_dishes": [
-          "bentos",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
           "spring roll"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "2 extra bentos"
+        ]
       },
       "organizer_approved": true,
       "time": {
