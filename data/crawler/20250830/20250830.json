@@ -1,5 +1,45 @@
 [
   {
+    "ts_utc": "2025-08-30T12:25:49.000Z",
+    "ts_tz": "2025-08-30T20:25:49+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40314,
+    "from": {
+      "id": "5441075037",
+      "username": "Otis_Lamb",
+      "first_name": "Basil",
+      "last_name": "Croft"
+    },
+    "text": "😭",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-30T12:25:33.000Z",
+    "ts_tz": "2025-08-30T20:25:33+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40313,
+    "from": {
+      "id": "1208177471",
+      "username": "clarineteater",
+      "first_name": "Eugene",
+      "last_name": "Yeo"
+    },
+    "text": "They have started to clear (in case if you are otw dont make a wasted trip)",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-30T12:25:55.000Z",
+    "edit_ts_tz": "2025-08-30T20:25:55+08:00",
+    "media": []
+  },
+  {
     "ts_utc": "2025-08-30T12:09:43.000Z",
     "ts_tz": "2025-08-30T20:09:43+08:00",
     "chat_id": "1083087143",

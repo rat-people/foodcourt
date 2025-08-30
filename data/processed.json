@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -39,7 +39,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -212,7 +212,8 @@
         "drinks": [],
         "other_items": [
           "spring roll",
-          "2 extra bentos"
+          "bentos",
+          "extra bentos"
         ]
       },
       "organizer_approved": true,
@@ -281,5 +282,42 @@
     "createdAt": "2025-08-30T12:07:27.000Z",
     "lastUpdated": "2025-08-30T12:08:21.000Z",
     "prompts": "Med faculty MD6-01-01B lots of leftovers w lots of stuff eg prawns and duck meat etc\n\nOrganizer approved\nNew Message: close what time?"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "in case if you are otw dont make a wasted trip",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": "ASAP",
+        "clearing_time_exact": "20:20"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "high",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-08-30T12:09:43.000Z",
+    "lastUpdated": "2025-08-30T12:25:33.000Z",
+    "prompts": "Approx 8.20pm\nNew Message: They have started to clear (in case if you are otw dont make a wasted trip)"
   }
 ]
