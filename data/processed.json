@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -78,7 +78,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
+        "raw": "University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
         "building": "University Hall",
         "room_or_lt": null,
@@ -196,7 +196,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
