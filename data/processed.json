@@ -116,7 +116,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -135,7 +135,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -206,8 +206,8 @@
       },
       "content": {
         "main_dishes": [
-          "bentos",
-          "chicken chop with spaghetti"
+          "chicken chop with spaghetti",
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
