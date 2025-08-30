@@ -1,5 +1,75 @@
 [
   {
+    "ts_utc": "2025-08-30T12:09:43.000Z",
+    "ts_tz": "2025-08-30T20:09:43+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40312,
+    "from": {
+      "id": "1208177471",
+      "username": "clarineteater",
+      "first_name": "Eugene",
+      "last_name": "Yeo"
+    },
+    "text": "Approx 8.20pm",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-30T12:08:21.000Z",
+    "ts_tz": "2025-08-30T20:08:21+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40311,
+    "from": {
+      "id": "1421206347",
+      "username": "ito_ccs",
+      "first_name": "Christopher C",
+      "last_name": "Sukardi (ito)"
+    },
+    "text": "close what time?",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40310,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-08-30T12:07:27.000Z",
+    "ts_tz": "2025-08-30T20:07:27+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40310,
+    "from": {
+      "id": "1208177471",
+      "username": "clarineteater",
+      "first_name": "Eugene",
+      "last_name": "Yeo"
+    },
+    "text": "Med faculty MD6-01-01B lots of leftovers w lots of stuff eg prawns and duck meat etc\n\nOrganizer approved",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-30T12:10:30.000Z",
+    "edit_ts_tz": "2025-08-30T20:10:30+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6165637755313443164",
+        "filename": "20250830200727_NUS Buffet Response Team_40310.jpg",
+        "path": "20250830/20250830200727_NUS Buffet Response Team_40310.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-08-30T09:42:23.000Z",
     "ts_tz": "2025-08-30T17:42:23+08:00",
     "chat_id": "1083087143",

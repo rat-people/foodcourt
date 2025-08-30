@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -39,7 +39,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -202,7 +202,7 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -237,5 +237,49 @@
     "createdAt": "2025-08-30T09:39:23.000Z",
     "lastUpdated": "2025-08-30T09:42:23.000Z",
     "prompts": "left with 2 extra bentos outside science LT27, chicken chop with spaghetti & spring roll \n\nclearing at 5.45pm \n\n(i’m the organizer)\nNew Message: cleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "MD6-01-01B",
+        "campus_zone": "Outram",
+        "building": null,
+        "room_or_lt": "MD6-01-01B",
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [
+          "prawns",
+          "duck meat"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "lots of stuff"
+        ]
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "lots",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250830/20250830200727_NUS Buffet Response Team_40310.jpg"
+    ],
+    "createdAt": "2025-08-30T12:07:27.000Z",
+    "lastUpdated": "2025-08-30T12:08:21.000Z",
+    "prompts": "Med faculty MD6-01-01B lots of leftovers w lots of stuff eg prawns and duck meat etc\n\nOrganizer approved\nNew Message: close what time?"
   }
 ]
