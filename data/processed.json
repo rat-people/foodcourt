@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -78,9 +78,9 @@
   {
     "entity": {
       "location": {
-        "raw": "University Hall, level 2, linkbridge",
+        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "unknown",
+        "building": "YIH",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
@@ -262,7 +262,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
