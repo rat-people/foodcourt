@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -41,7 +41,7 @@
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -80,7 +80,7 @@
       "location": {
         "raw": "Pulut Hitam University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
-        "building": "YIH",
+        "building": "UTown ERC",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "linkbridge"
@@ -215,7 +215,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -232,5 +232,46 @@
     "createdAt": "2025-08-29T12:24:28.000Z",
     "lastUpdated": "2025-08-29T12:24:28.000Z",
     "prompts": "beehoon left at clb level 4 multipurpose room. Organiser approved. Clearing at 0835"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "MD1 level 3",
+        "campus_zone": "Outram",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:00"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250830/20250830131459_NUS Buffet Response Team_40305.jpg"
+    ],
+    "createdAt": "2025-08-30T05:14:59.000Z",
+    "lastUpdated": "2025-08-30T05:14:59.000Z",
+    "prompts": "MD1 level 3 org approved halal clearing 2pm"
   }
 ]
