@@ -39,7 +39,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
