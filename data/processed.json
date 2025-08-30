@@ -2,25 +2,23 @@
   {
     "entity": {
       "location": {
-        "raw": "outside engineering E Cube",
-        "campus_zone": "Kent Ridge",
-        "building": "E Cube",
+        "raw": "cleared!",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
-        "desserts_snacks": [
-          "finger food"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "11:30"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -33,19 +31,17 @@
         "risk_notice": null
       }
     },
-    "media": [
-      "20250826/20250826224332_NUS Buffet Response Team_40286.jpg"
-    ],
-    "createdAt": "2025-08-26T14:43:32.000Z",
-    "lastUpdated": "2025-08-26T15:27:01.000Z",
-    "prompts": "Leftover finger food outside engineering E Cube, clear by 11:30\nNew Message: Thanks everyone, the food has been cleared"
+    "media": [],
+    "createdAt": "2025-08-03T09:26:06.000Z",
+    "lastUpdated": "2025-08-03T09:26:06.000Z",
+    "prompts": "cleared!"
   },
   {
     "entity": {
       "location": {
         "raw": "LT27 foyer",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -91,7 +87,7 @@
       },
       "content": {
         "main_dishes": [
-          "Pulut Hitam"
+          "pulut hitam"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -123,7 +119,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
