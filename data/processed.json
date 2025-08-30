@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -202,13 +202,12 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
           "bentos",
-          "chicken chop",
-          "spaghetti"
+          "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
           "spring roll"
