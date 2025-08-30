@@ -23,53 +23,6 @@
     "media": []
   },
   {
-    "ts_utc": "2025-08-27T06:48:44.000Z",
-    "ts_tz": "2025-08-27T14:48:44+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40292,
-    "from": {
-      "id": "8087758899",
-      "username": null,
-      "first_name": "LI",
-      "last_name": "Minghao"
-    },
-    "text": "pulut hitam😄",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-27T06:58:57.000Z",
-    "edit_ts_tz": "2025-08-27T14:58:57+08:00",
-    "media": []
-  },
-  {
-    "ts_utc": "2025-08-27T06:15:26.000Z",
-    "ts_tz": "2025-08-27T14:15:26+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40290,
-    "from": {
-      "id": "268057547",
-      "username": "Linggone",
-      "first_name": "Linggone",
-      "last_name": null
-    },
-    "text": "Pulut Hitam University Hall, level 2, linkbridge",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-27T06:56:11.000Z",
-    "edit_ts_tz": "2025-08-27T14:56:11+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6158731293282649381",
-        "filename": "20250827141526_NUS Buffet Response Team_40290.jpg",
-        "path": "20250827/20250827141526_NUS Buffet Response Team_40290.jpg"
-      }
-    ]
-  },
-  {
     "ts_utc": "2025-08-27T06:13:24.000Z",
     "ts_tz": "2025-08-27T14:13:24+08:00",
     "chat_id": "1083087143",
