@@ -199,8 +199,8 @@
       "location": {
         "raw": "outside science LT27",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
-        "room_or_lt": null,
+        "building": "Science Canteen (non-aircon)",
+        "room_or_lt": "LT27",
         "floor": null,
         "landmark": "outside"
       },
@@ -212,8 +212,7 @@
         "drinks": [],
         "other_items": [
           "spring roll",
-          "bentos",
-          "extra bentos"
+          "2 extra bentos"
         ]
       },
       "organizer_approved": true,
@@ -244,7 +243,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -286,7 +285,7 @@
   {
     "entity": {
       "location": {
-        "raw": "in case if you are otw dont make a wasted trip",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -304,7 +303,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
