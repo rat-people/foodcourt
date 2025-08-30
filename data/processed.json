@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -78,7 +78,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Pulut Hitam University Hall, level 2, linkbridge",
+        "raw": "University Hall, level 2, linkbridge",
         "campus_zone": "Utown",
         "building": "UTown ERC",
         "room_or_lt": null,
@@ -196,7 +196,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -204,7 +204,7 @@
       },
       "content": {
         "main_dishes": [
-          "bee hoon"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -215,7 +215,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
