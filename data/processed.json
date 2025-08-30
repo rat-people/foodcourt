@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -135,7 +135,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -159,7 +159,7 @@
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD1",
+        "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
       },
