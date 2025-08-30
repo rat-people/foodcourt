@@ -80,7 +80,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -202,7 +202,7 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon"
+          "bee hoon"
         ],
         "desserts_snacks": [],
         "drinks": [],
