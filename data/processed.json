@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -199,21 +199,21 @@
       "location": {
         "raw": "outside science LT27",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
-        "room_or_lt": "LT27",
+        "building": "LT27",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
+          "bentos",
           "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [],
+        "desserts_snacks": [
+          "spring roll"
+        ],
         "drinks": [],
-        "other_items": [
-          "spring roll",
-          "2 extra bentos"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -285,7 +285,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "N/A",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -300,7 +300,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -309,7 +309,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
