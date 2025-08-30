@@ -116,8 +116,8 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
-        "building": "MPSH",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -158,8 +158,8 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
-        "room_or_lt": null,
+        "building": null,
+        "room_or_lt": "MD1",
         "floor": "level 3",
         "landmark": null
       },
