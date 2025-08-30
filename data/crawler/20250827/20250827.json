@@ -115,32 +115,5 @@
         "path": "20250827/20250827141324_NUS Buffet Response Team_40289.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-08-27T06:11:07.000Z",
-    "ts_tz": "2025-08-27T14:11:07+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40288,
-    "from": {
-      "id": "6275989090",
-      "username": "JessicaRaj94",
-      "first_name": "Jessica",
-      "last_name": null
-    },
-    "text": "food leftover at LT27 foyer. will be cleared by 3pm. I am the organizer",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-27T06:15:45.000Z",
-    "edit_ts_tz": "2025-08-27T14:15:45+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6158731293282649376",
-        "filename": "20250827141107_NUS Buffet Response Team_40288.jpg",
-        "path": "20250827/20250827141107_NUS Buffet Response Team_40288.jpg"
-      }
-    ]
   }
 ]

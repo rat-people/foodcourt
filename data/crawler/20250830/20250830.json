@@ -14,9 +14,9 @@
     "text": "Some carbs and seafood in the soup",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-30T06:14:26.000Z",
+    "edit_ts_tz": "2025-08-30T14:14:26+08:00",
     "media": []
   },
   {
@@ -34,9 +34,9 @@
     "text": "still have？",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-08-30T06:14:32.000Z",
+    "edit_ts_tz": "2025-08-30T14:14:32+08:00",
     "media": []
   },
   {
