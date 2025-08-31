@@ -145,7 +145,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -169,14 +169,15 @@
       },
       "content": {
         "main_dishes": [
-          "bentos",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
           "spring roll"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "2 extra bentos"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -263,7 +264,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -272,9 +273,9 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "in case if you are otw dont make a wasted trip"
+        "risk_notice": null
       }
     },
     "media": [],
@@ -305,8 +306,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "few",
       "policies": {
@@ -316,7 +317,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
