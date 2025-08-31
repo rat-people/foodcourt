@@ -81,9 +81,9 @@
         "raw": "clb level 4 multipurpose room",
         "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "multipurpose room",
+        "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [
@@ -98,7 +98,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -121,7 +121,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -165,7 +165,7 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -272,9 +272,9 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "in case if you are otw dont make a wasted trip"
       }
     },
     "media": [],
@@ -305,8 +305,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": null,
+        "clearing_time_exact": "13:45"
       },
       "availability": "few",
       "policies": {
@@ -316,7 +316,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
