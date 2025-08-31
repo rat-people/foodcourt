@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -130,7 +130,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
+          "bentos",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -224,7 +224,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -233,7 +233,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -266,8 +266,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 30 mins",
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "few",
       "policies": {
