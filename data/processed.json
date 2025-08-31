@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -41,10 +41,10 @@
       "location": {
         "raw": "clb level 4 multipurpose room",
         "campus_zone": "unknown",
-        "building": "unknown",
-        "room_or_lt": "multipurpose room",
+        "building": null,
+        "room_or_lt": null,
         "floor": "level 4",
-        "landmark": null
+        "landmark": "multipurpose room"
       },
       "content": {
         "main_dishes": [
@@ -65,7 +65,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -126,15 +126,16 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
           "bentos",
-          "chicken chop with spaghetti",
+          "chicken chop with spaghetti"
+        ],
+        "desserts_snacks": [
           "spring roll"
         ],
-        "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
@@ -208,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -223,7 +224,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -232,7 +233,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -254,21 +255,20 @@
       },
       "content": {
         "main_dishes": [
+          "bento boxes",
+          "bento boxes",
           "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "non veg bento boxes",
-          "veg bento boxes"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 15 mins",
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
-      "availability": "few",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -276,7 +276,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -294,7 +294,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
