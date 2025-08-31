@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -106,7 +106,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -130,14 +130,13 @@
       },
       "content": {
         "main_dishes": [
-          "chicken chop with spaghetti"
-        ],
-        "desserts_snacks": [
+          "chicken chop with spaghetti",
           "spring roll"
         ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "bentos"
+          "2 extra bentos"
         ]
       },
       "organizer_approved": true,
@@ -168,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -228,7 +227,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -250,7 +249,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD 6",
         "floor": null,
         "landmark": null
       },
@@ -296,7 +295,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
