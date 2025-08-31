@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -39,45 +39,8 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-08-28T06:14:16.000Z",
-    "lastUpdated": "2025-08-28T06:14:16.000Z",
-    "prompts": "cleared"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -96,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -163,18 +126,17 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
+          "bentos",
           "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "bentos"
+          "spring roll"
         ]
       },
       "organizer_approved": true,
@@ -205,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -315,7 +277,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -327,5 +289,48 @@
     "createdAt": "2025-08-31T05:11:51.000Z",
     "lastUpdated": "2025-08-31T05:11:51.000Z",
     "prompts": "Hi all there are a few extra bento boxes at MD 6 \n\n18 bento boxes (non veg)\n4 bento boxes (veg)\nAll halal \nConsume by 1pm\nCLEARING AT 1.45pm"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "MD1 level 3",
+        "campus_zone": "Outram",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 3",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": "soon",
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": "medium",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250831/20250831142112_NUS Buffet Response Team_40321.jpg",
+      "20250831/20250831142112_NUS Buffet Response Team_40320.jpg",
+      "20250831/20250831142112_NUS Buffet Response Team_40319.jpg"
+    ],
+    "createdAt": "2025-08-31T06:21:12.000Z",
+    "lastUpdated": "2025-08-31T06:21:12.000Z",
+    "prompts": "MD1 level 3 org approved halal clearing soon"
   }
 ]
