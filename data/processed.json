@@ -82,7 +82,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -106,7 +106,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -123,21 +123,22 @@
       "location": {
         "raw": "outside science LT27",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
-        "room_or_lt": "LT27",
+        "building": "LT27",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "bentos",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
           "spring roll"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "bentos"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -209,7 +210,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message: They have started to clear",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -227,7 +228,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -277,7 +278,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -295,7 +296,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
