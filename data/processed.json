@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -39,12 +39,12 @@
   {
     "entity": {
       "location": {
-        "raw": "YIH lv 3 CFG space",
-        "campus_zone": "Kent Ridge",
-        "building": "YIH",
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
-        "floor": "level 3",
-        "landmark": "CFG space"
+        "floor": null,
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -52,7 +52,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
@@ -68,12 +68,10 @@
         "risk_notice": null
       }
     },
-    "media": [
-      "20250828/20250828140434_NUS Buffet Response Team_40298.jpg"
-    ],
-    "createdAt": "2025-08-28T06:04:34.000Z",
+    "media": [],
+    "createdAt": "2025-08-28T06:14:16.000Z",
     "lastUpdated": "2025-08-28T06:14:16.000Z",
-    "prompts": "Food at YIH lv 3 CFG space \nam organizer\nNew Message: cleared"
+    "prompts": "cleared"
   },
   {
     "entity": {
@@ -121,7 +119,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -145,7 +143,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -165,7 +163,7 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -176,7 +174,7 @@
         ],
         "drinks": [],
         "other_items": [
-          "2 extra bentos"
+          "bentos"
         ]
       },
       "organizer_approved": true,
@@ -207,7 +205,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
