@@ -39,7 +39,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -116,11 +116,11 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
-        "building": "MPSH",
-        "room_or_lt": null,
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": "multipurpose room",
         "floor": "level 4",
-        "landmark": "multipurpose room"
+        "landmark": null
       },
       "content": {
         "main_dishes": [
@@ -135,7 +135,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -158,7 +158,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -199,15 +199,16 @@
       "location": {
         "raw": "outside science LT27",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
-        "room_or_lt": null,
+        "building": "Science Canteen (non-aircon)",
+        "room_or_lt": "LT27",
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "bento",
-          "chicken chop with spaghetti"
+          "bentos",
+          "chicken chop",
+          "spaghetti"
         ],
         "desserts_snacks": [
           "spring roll"
@@ -285,7 +286,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -300,16 +301,16 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
