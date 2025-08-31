@@ -40,8 +40,8 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
-        "building": "MPSH",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -106,7 +106,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -126,11 +126,11 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "bentos",
+          "bento",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
@@ -167,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -224,7 +224,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -233,7 +233,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -249,7 +249,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD 6",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -266,8 +266,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "in 30 mins",
+        "clearing_time_exact": "13:45"
       },
       "availability": "few",
       "policies": {
@@ -295,7 +295,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
