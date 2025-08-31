@@ -85,32 +85,5 @@
     "edit_ts_utc": "2025-08-28T05:23:26.000Z",
     "edit_ts_tz": "2025-08-28T13:23:26+08:00",
     "media": []
-  },
-  {
-    "ts_utc": "2025-08-28T05:03:16.000Z",
-    "ts_tz": "2025-08-28T13:03:16+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40295,
-    "from": {
-      "id": "5960885457",
-      "username": "y_ennnnnn",
-      "first_name": "Yenn",
-      "last_name": null
-    },
-    "text": "YIH level 2 Outside pitstop. Organiser approved",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-28T05:08:19.000Z",
-    "edit_ts_tz": "2025-08-28T13:08:19+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6161314780535702718",
-        "filename": "20250828130316_NUS Buffet Response Team_40295.jpg",
-        "path": "20250828/20250828130316_NUS Buffet Response Team_40295.jpg"
-      }
-    ]
   }
 ]

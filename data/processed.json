@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -135,7 +135,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -202,7 +202,7 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -243,7 +243,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -285,7 +285,7 @@
   {
     "entity": {
       "location": {
-        "raw": "in case if you are otw",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -300,16 +300,16 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -318,5 +318,52 @@
     "createdAt": "2025-08-30T12:09:43.000Z",
     "lastUpdated": "2025-08-30T12:25:33.000Z",
     "prompts": "Approx 8.20pm\nNew Message: They have started to clear (in case if you are otw dont make a wasted trip)"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "MD 6",
+        "campus_zone": "Outram",
+        "building": null,
+        "room_or_lt": "MD 6",
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [
+          "bento boxes"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "non veg bento boxes",
+          "veg bento boxes"
+        ]
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "13:00"
+      },
+      "availability": "few",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250831/20250831131151_NUS Buffet Response Team_40317.jpg",
+      "20250831/20250831131151_NUS Buffet Response Team_40316.jpg"
+    ],
+    "createdAt": "2025-08-31T05:11:51.000Z",
+    "lastUpdated": "2025-08-31T05:11:51.000Z",
+    "prompts": "Hi all there are a few extra bento boxes at MD 6 \n\n18 bento boxes (non veg)\n4 bento boxes (veg)\nAll halal \nConsume by 1pm"
   }
 ]
