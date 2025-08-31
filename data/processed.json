@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "bee hoon"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -130,7 +130,7 @@
       },
       "content": {
         "main_dishes": [
-          "bentos",
+          "bento",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message: They have started to clear",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -224,7 +224,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -233,9 +233,9 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "in case if you are otw dont make a wasted trip"
+        "risk_notice": null
       }
     },
     "media": [],
@@ -295,7 +295,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
