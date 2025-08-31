@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -116,7 +116,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -182,7 +182,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -206,14 +206,12 @@
       },
       "content": {
         "main_dishes": [
-          "chicken chop",
-          "spaghetti"
+          "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "spring roll",
           "bentos",
           "extra bentos"
         ]
@@ -288,7 +286,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "New Message: They have started to clear (in case if you are otw dont make a wasted trip)",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -306,13 +304,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
