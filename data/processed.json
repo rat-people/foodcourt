@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "bee hoon"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -83,7 +83,7 @@
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD1",
         "floor": "level 3",
         "landmark": null
       },
@@ -167,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "New Message: They have started to clear",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -277,7 +277,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -319,7 +319,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
