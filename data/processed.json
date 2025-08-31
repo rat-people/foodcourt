@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -126,11 +126,11 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
-          "bento",
+          "bentos",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
@@ -167,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message: They have started to clear (in case if you are otw dont make a wasted trip)",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -233,7 +233,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -295,7 +295,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -311,7 +311,7 @@
         "clearing_time_relative": "soon",
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -319,7 +319,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -330,7 +330,7 @@
       "20250831/20250831142112_NUS Buffet Response Team_40319.jpg"
     ],
     "createdAt": "2025-08-31T06:21:12.000Z",
-    "lastUpdated": "2025-08-31T06:21:12.000Z",
-    "prompts": "MD1 level 3 org approved halal clearing soon"
+    "lastUpdated": "2025-08-31T07:07:04.000Z",
+    "prompts": "MD1 level 3 org approved halal clearing soon\nNew Message: Cleared"
   }
 ]
