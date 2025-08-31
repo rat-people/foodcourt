@@ -39,7 +39,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -116,8 +116,8 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "MPSH",
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -135,7 +135,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -182,7 +182,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -202,18 +202,18 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
+          "bento",
           "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [],
+        "desserts_snacks": [
+          "spring roll"
+        ],
         "drinks": [],
-        "other_items": [
-          "spring roll",
-          "2 extra bentos"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -243,7 +243,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -285,7 +285,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -309,7 +309,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
