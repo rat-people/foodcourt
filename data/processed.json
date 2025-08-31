@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -40,8 +40,8 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "MPSH",
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -82,7 +82,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -151,7 +151,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": null,
+        "food_source": "extras",
         "risk_notice": null
       }
     },
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "in case if you are otw",
+        "raw": "New Message: They have started to clear",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -227,7 +227,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -249,7 +249,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD 6",
         "floor": null,
         "landmark": null
       },
