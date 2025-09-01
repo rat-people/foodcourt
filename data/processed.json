@@ -40,8 +40,8 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
-        "building": "MPSH",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 4",
         "landmark": "multipurpose room"
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -126,7 +126,7 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -167,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "New Message: They have started to clear",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -249,7 +249,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD 6",
         "floor": null,
         "landmark": null
       },
@@ -277,7 +277,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }

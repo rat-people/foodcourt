@@ -25,45 +25,5 @@
         "path": "20250829/20250829202428_NUS Buffet Response Team_40304.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-08-29T12:13:33.000Z",
-    "ts_tz": "2025-08-29T20:13:33+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40303,
-    "from": {
-      "id": "6493966532",
-      "username": "crabby1202",
-      "first_name": "Sean",
-      "last_name": "Tan"
-    },
-    "text": "Thanks :)",
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": []
-  },
-  {
-    "ts_utc": "2025-08-29T12:04:25.000Z",
-    "ts_tz": "2025-08-29T20:04:25+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40301,
-    "from": {
-      "id": "6493966532",
-      "username": "crabby1202",
-      "first_name": "Sean",
-      "last_name": "Tan"
-    },
-    "text": "Other than bee hoon any other stuffs?",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-29T12:04:47.000Z",
-    "edit_ts_tz": "2025-08-29T20:04:47+08:00",
-    "media": []
   }
 ]
