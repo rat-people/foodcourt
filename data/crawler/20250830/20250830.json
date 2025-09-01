@@ -34,9 +34,9 @@
     "text": "Approx 8.20pm",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-01T07:01:58.000Z",
+    "edit_ts_tz": "2025-09-01T15:01:58+08:00",
     "media": []
   },
   {
