@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -168,7 +168,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -210,7 +210,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "in case if you are otw",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -225,10 +225,10 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "in case if you are otw",
         "clearing_time_exact": "20:20"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -267,10 +267,10 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "in 15 mins",
+        "clearing_time_exact": "13:45"
       },
-      "availability": "few",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -296,7 +296,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
