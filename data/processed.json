@@ -131,7 +131,8 @@
       "content": {
         "main_dishes": [
           "bentos",
-          "chicken chop with spaghetti"
+          "chicken chop",
+          "spaghetti"
         ],
         "desserts_snacks": [
           "spring roll"
@@ -209,7 +210,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message: They have started to clear",
+        "raw": "in case if you are otw",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -224,18 +225,18 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "in case if you are otw dont make a wasted trip"
+        "risk_notice": null
       }
     },
     "media": [],
@@ -249,20 +250,18 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD 6",
         "floor": null,
         "landmark": null
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento boxes (non veg)",
+          "bento boxes (veg)"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "non veg bento boxes",
-          "veg bento boxes"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -295,7 +294,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
