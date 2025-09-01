@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared!",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -82,7 +82,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -130,14 +130,14 @@
       },
       "content": {
         "main_dishes": [
-          "bentos",
+          "bento",
           "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "spring roll"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "in case if you are otw dont make a wasted trip",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -227,7 +227,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -266,8 +266,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "in 30 mins",
+        "clearing_time_exact": "13:45"
       },
       "availability": "few",
       "policies": {
@@ -295,7 +295,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -319,7 +319,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -338,9 +338,9 @@
       "location": {
         "raw": "outside bizad club room biz2 level4",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": "biz2",
-        "floor": "level4",
+        "floor": "level 4",
         "landmark": "outside bizad club room"
       },
       "content": {
@@ -356,7 +356,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -371,7 +371,7 @@
       "20250901/20250901151910_NUS Buffet Response Team_40327.jpg"
     ],
     "createdAt": "2025-09-01T07:19:10.000Z",
-    "lastUpdated": "2025-09-01T07:19:10.000Z",
-    "prompts": "free water bottles outside bizad club room biz2 level4"
+    "lastUpdated": "2025-09-01T07:49:35.000Z",
+    "prompts": "free water bottles outside bizad club room biz2 level4\nNew Message: ok nomore thanks"
   }
 ]
