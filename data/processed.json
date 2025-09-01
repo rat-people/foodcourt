@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -130,14 +130,15 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
           "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "spring roll",
+          "bentos",
+          "extra bentos"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -209,7 +210,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -224,7 +225,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -233,7 +234,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -255,17 +256,19 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes (non veg)",
-          "bento boxes (veg)"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "non veg bento boxes",
+          "veg bento boxes"
+        ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "few",
       "policies": {
@@ -275,7 +278,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
