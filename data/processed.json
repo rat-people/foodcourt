@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "bee hoon"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -132,10 +132,11 @@
         "main_dishes": [
           "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [],
+        "desserts_snacks": [
+          "spring roll"
+        ],
         "drinks": [],
         "other_items": [
-          "spring roll",
           "2 extra bentos"
         ]
       },
@@ -233,7 +234,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -249,25 +250,23 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD 6",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento boxes (non veg)",
+          "bento boxes (veg)"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "non veg bento boxes",
-          "veg bento boxes"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "in 45 mins",
+        "clearing_time_exact": "13:45"
       },
       "availability": "few",
       "policies": {
@@ -277,7 +276,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -295,7 +294,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -319,7 +318,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
