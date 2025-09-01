@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "clb level 4 multipurpose room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 4",
@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "beehoon"
+          "bee hoon"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "08:35"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -106,7 +106,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -130,14 +130,13 @@
       },
       "content": {
         "main_dishes": [
-          "chicken chop with spaghetti"
+          "chicken chop with spaghetti",
+          "bento"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "2 extra bentos"
+          "spring roll"
         ]
       },
       "organizer_approved": true,
@@ -168,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -234,7 +233,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -256,8 +255,9 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes (non veg)",
-          "bento boxes (veg)"
+          "bento boxes",
+          "bento boxes",
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -265,8 +265,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 45 mins",
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "few",
       "policies": {
@@ -276,7 +276,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -318,7 +318,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
