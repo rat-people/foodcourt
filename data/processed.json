@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -82,7 +82,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -106,7 +106,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -123,20 +123,21 @@
       "location": {
         "raw": "outside science LT27",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
-        "room_or_lt": null,
+        "building": "Science Canteen (non-aircon)",
+        "room_or_lt": "LT27",
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "bento",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "spring roll"
+          "spring roll",
+          "bentos",
+          "extra bentos"
         ]
       },
       "organizer_approved": true,
@@ -167,7 +168,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -209,7 +210,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -224,7 +225,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -233,7 +234,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -266,8 +267,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 30 mins",
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "few",
       "policies": {
@@ -277,7 +278,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -332,46 +333,5 @@
     "createdAt": "2025-08-31T06:21:12.000Z",
     "lastUpdated": "2025-08-31T07:07:04.000Z",
     "prompts": "MD1 level 3 org approved halal clearing soon\nNew Message: Cleared"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "outside bizad club room biz2 level4",
-        "campus_zone": "Kent Ridge",
-        "building": "unknown",
-        "room_or_lt": "biz2",
-        "floor": "level 4",
-        "landmark": "outside bizad club room"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [
-          "water bottles"
-        ],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250901/20250901151910_NUS Buffet Response Team_40327.jpg"
-    ],
-    "createdAt": "2025-09-01T07:19:10.000Z",
-    "lastUpdated": "2025-09-01T07:49:35.000Z",
-    "prompts": "free water bottles outside bizad club room biz2 level4\nNew Message: ok nomore thanks"
   }
 ]
