@@ -82,7 +82,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -123,21 +123,21 @@
       "location": {
         "raw": "outside science LT27",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
-        "room_or_lt": null,
+        "building": "Science Canteen (non-aircon)",
+        "room_or_lt": "LT27",
         "floor": null,
         "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "bento",
-          "chicken chop with spaghetti"
+          "chicken chop with spaghetti",
+          "bento"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "spring roll"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -167,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "in case if you are otw dont make a wasted trip",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -224,7 +224,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -249,7 +249,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD 6",
         "floor": null,
         "landmark": null
       },
@@ -266,8 +266,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 15 mins",
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "few",
       "policies": {
@@ -277,7 +277,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
