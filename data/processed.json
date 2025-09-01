@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "bee hoon"
+          "beehoon"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -123,10 +123,10 @@
       "location": {
         "raw": "outside science LT27",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
-        "room_or_lt": "LT27",
+        "building": "LT27",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -167,7 +167,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -209,7 +209,7 @@
   {
     "entity": {
       "location": {
-        "raw": "in case if you are otw dont make a wasted trip",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -224,16 +224,16 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -249,7 +249,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD 6",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -277,7 +277,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
