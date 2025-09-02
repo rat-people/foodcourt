@@ -46,7 +46,7 @@
   {
     "entity": {
       "location": {
-        "raw": "in case if you are otw",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -64,7 +64,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -103,8 +103,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "few",
       "policies": {
@@ -132,7 +132,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -156,7 +156,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
