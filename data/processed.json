@@ -11,14 +11,14 @@
       },
       "content": {
         "main_dishes": [
-          "bentos",
           "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "spring roll",
+          "2 extra bentos"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -48,7 +48,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -105,7 +105,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -136,13 +136,14 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes",
-          "bento boxes",
           "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "non veg bento boxes",
+          "veg bento boxes"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -175,7 +176,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -199,7 +200,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
