@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
+          "bentos",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
@@ -158,7 +158,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -200,7 +200,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
