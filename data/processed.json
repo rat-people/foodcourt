@@ -2,50 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "outside science LT27",
-        "campus_zone": "Kent Ridge",
-        "building": "LT27",
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": "outside science"
-      },
-      "content": {
-        "main_dishes": [
-          "bentos",
-          "chicken chop with spaghetti"
-        ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": "5:45pm",
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250830/20250830173923_NUS Buffet Response Team_40308.jpg"
-    ],
-    "createdAt": "2025-08-30T09:39:23.000Z",
-    "lastUpdated": "2025-08-30T09:42:23.000Z",
-    "prompts": "left with 2 extra bentos outside science LT27, chicken chop with spaghetti & spring roll \n\nclearing at 5.45pm \n\n(i’m the organizer)\nNew Message: cleared!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
         "building": "MD",
@@ -90,7 +46,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -108,7 +64,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -130,7 +86,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD 6",
         "floor": null,
         "landmark": null
       },
@@ -176,7 +132,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -219,7 +175,7 @@
       "location": {
         "raw": "com",
         "campus_zone": "Kent Ridge",
-        "building": "COM1",
+        "building": "COM",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
