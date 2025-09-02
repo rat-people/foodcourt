@@ -48,18 +48,18 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
+          "bentos",
           "chicken chop with spaghetti"
         ],
-        "desserts_snacks": [],
+        "desserts_snacks": [
+          "spring roll"
+        ],
         "drinks": [],
-        "other_items": [
-          "spring roll",
-          "2 extra bentos"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -155,7 +155,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -188,8 +188,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 30 mins",
-        "clearing_time_exact": "13:45"
+        "clearing_time_relative": "1:45pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "few",
       "policies": {
@@ -199,7 +199,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -241,7 +241,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
