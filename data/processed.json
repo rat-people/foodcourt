@@ -4,7 +4,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -48,7 +48,7 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -146,16 +146,16 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -171,7 +171,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD 6",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -199,7 +199,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
