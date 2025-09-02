@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
+          "bentos",
           "chicken chop with spaghetti"
         ],
         "desserts_snacks": [
@@ -90,7 +90,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message: They have started to clear",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -116,7 +116,7 @@
       "misc": {
         "urgency_level": "low",
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "in case if you are otw dont make a wasted trip"
       }
     },
     "media": [],
@@ -136,19 +136,21 @@
       },
       "content": {
         "main_dishes": [
+          "bento boxes",
+          "bento boxes",
           "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "non veg bento boxes",
-          "veg bento boxes"
+          "non veg",
+          "veg"
         ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": null,
+        "clearing_time_exact": "13:45"
       },
       "availability": "few",
       "policies": {
