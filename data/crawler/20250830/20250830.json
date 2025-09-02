@@ -138,45 +138,5 @@
         "path": "20250830/20250830173923_NUS Buffet Response Team_40308.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-08-30T05:47:49.000Z",
-    "ts_tz": "2025-08-30T13:47:49+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40307,
-    "from": {
-      "id": "339461099",
-      "username": "blue_bellied_sea_eagle",
-      "first_name": "Blue",
-      "last_name": "Eagle"
-    },
-    "text": "Some carbs and seafood in the soup",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-30T06:14:26.000Z",
-    "edit_ts_tz": "2025-08-30T14:14:26+08:00",
-    "media": []
-  },
-  {
-    "ts_utc": "2025-08-30T05:46:59.000Z",
-    "ts_tz": "2025-08-30T13:46:59+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40306,
-    "from": {
-      "id": "8087758899",
-      "username": null,
-      "first_name": "LI",
-      "last_name": "Minghao"
-    },
-    "text": "still have？",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-08-30T06:14:32.000Z",
-    "edit_ts_tz": "2025-08-30T14:14:32+08:00",
-    "media": []
   }
 ]
