@@ -52,13 +52,14 @@
       },
       "content": {
         "main_dishes": [
-          "chicken chop with spaghetti"
+          "chicken chop",
+          "spaghetti"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
           "spring roll",
-          "2 extra bentos"
+          "bentos"
         ]
       },
       "organizer_approved": true,
@@ -131,7 +132,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "Unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -146,16 +147,16 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -177,19 +178,17 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento boxes (non veg)",
+          "bento boxes (veg)"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "non veg bento boxes",
-          "veg bento boxes"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": null,
+        "clearing_time_exact": "13:45"
       },
       "availability": "few",
       "policies": {
