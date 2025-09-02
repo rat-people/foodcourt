@@ -2,87 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "MD6-01-01B",
-        "campus_zone": "Outram",
-        "building": "MD",
-        "room_or_lt": "MD6-01-01B",
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "prawns",
-          "duck meat"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "lots of stuff"
-        ]
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250830/20250830200727_NUS Buffet Response Team_40310.jpg"
-    ],
-    "createdAt": "2025-08-30T12:07:27.000Z",
-    "lastUpdated": "2025-08-30T12:08:21.000Z",
-    "prompts": "Med faculty MD6-01-01B lots of leftovers w lots of stuff eg prawns and duck meat etc\n\nOrganizer approved\nNew Message: close what time?"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "New Message",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "ASAP",
-        "clearing_time_exact": "20:20"
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "high",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-08-30T12:09:43.000Z",
-    "lastUpdated": "2025-08-30T12:25:33.000Z",
-    "prompts": "Approx 8.20pm\nNew Message: They have started to clear (in case if you are otw dont make a wasted trip)"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
@@ -114,7 +33,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -156,7 +75,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
