@@ -4,7 +4,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -103,10 +103,10 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "in 30 mins",
+        "clearing_time_exact": "13:45"
       },
-      "availability": "few",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -132,7 +132,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
