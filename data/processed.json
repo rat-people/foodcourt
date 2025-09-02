@@ -2,53 +2,12 @@
   {
     "entity": {
       "location": {
-        "raw": "MD1 level 3",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "level 3",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "halal"
-        ]
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250830/20250830131459_NUS Buffet Response Team_40305.jpg"
-    ],
-    "createdAt": "2025-08-30T05:14:59.000Z",
-    "lastUpdated": "2025-08-30T05:14:59.000Z",
-    "prompts": "MD1 level 3 org approved halal clearing 2pm"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "outside science LT27",
         "campus_zone": "Kent Ridge",
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -89,7 +48,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -131,7 +90,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message: They have started to clear (in case if you are otw dont make a wasted trip)",
+        "raw": "New Message: They have started to clear",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -171,24 +130,25 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD 6",
         "floor": null,
         "landmark": null
       },
       "content": {
         "main_dishes": [
-          "bento boxes",
-          "bento boxes",
           "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "non veg bento boxes",
+          "veg bento boxes"
+        ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": null,
+        "clearing_time_exact": "13:45"
       },
       "availability": "few",
       "policies": {
@@ -198,7 +158,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
