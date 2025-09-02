@@ -48,18 +48,17 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
-          "chicken chop",
-          "spaghetti"
+          "chicken chop with spaghetti"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
           "spring roll",
-          "bentos"
+          "2 extra bentos"
         ]
       },
       "organizer_approved": true,
@@ -132,7 +131,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Unknown",
+        "raw": "New Message",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -150,13 +149,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -178,16 +177,18 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes (non veg)",
-          "bento boxes (veg)"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "non veg bento boxes",
+          "veg bento boxes"
+        ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "in 30 mins",
         "clearing_time_exact": "13:45"
       },
       "availability": "few",
