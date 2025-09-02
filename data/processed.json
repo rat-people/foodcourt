@@ -7,18 +7,19 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
-          "bentos",
-          "chicken chop with spaghetti"
+          "chicken chop with spaghetti",
+          "bento"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "spring roll",
+          "extra bentos"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -48,7 +49,7 @@
       "location": {
         "raw": "MD6-01-01B",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": "MD6-01-01B",
         "floor": null,
         "landmark": null
@@ -90,7 +91,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "New Message: They have started to clear",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -130,7 +131,7 @@
         "raw": "MD 6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD 6",
         "floor": null,
         "landmark": null
       },
@@ -158,7 +159,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -176,7 +177,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
