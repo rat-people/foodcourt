@@ -2,43 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-08-03T09:26:06.000Z",
-    "lastUpdated": "2025-08-03T09:26:06.000Z",
-    "prompts": "cleared!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
         "building": null,
@@ -65,7 +28,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -85,18 +48,17 @@
         "building": "LT27",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "chicken chop with spaghetti"
+          "chicken chop with spaghetti",
+          "bento"
         ],
-        "desserts_snacks": [
-          "spring roll"
-        ],
+        "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "2 extra bentos"
+          "spring roll"
         ]
       },
       "organizer_approved": true,
@@ -169,7 +131,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -184,7 +146,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -193,7 +155,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -215,14 +177,12 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento boxes (non veg)",
+          "bento boxes (veg)"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "non veg bento boxes",
-          "veg bento boxes"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -255,7 +215,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -292,5 +252,44 @@
     "createdAt": "2025-08-31T06:21:12.000Z",
     "lastUpdated": "2025-08-31T07:07:04.000Z",
     "prompts": "MD1 level 3 org approved halal clearing soon\nNew Message: Cleared"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "com",
+        "campus_zone": "Kent Ridge",
+        "building": "COM1",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "instachef"
+        ]
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-09-01T16:18:30.000Z",
+    "lastUpdated": "2025-09-01T16:18:30.000Z",
+    "prompts": "Accidentally ordered instachef at com, whoever still at com can take"
   }
 ]

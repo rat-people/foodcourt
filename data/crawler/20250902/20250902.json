@@ -1,0 +1,22 @@
+[
+  {
+    "ts_utc": "2025-09-01T16:18:30.000Z",
+    "ts_tz": "2025-09-02T00:18:30+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40329,
+    "from": {
+      "id": "8046086542",
+      "username": "davidchan71",
+      "first_name": "David",
+      "last_name": null
+    },
+    "text": "Accidentally ordered instachef at com, whoever still at com can take",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-01T16:19:11.000Z",
+    "edit_ts_tz": "2025-09-02T00:19:11+08:00",
+    "media": []
+  }
+]
