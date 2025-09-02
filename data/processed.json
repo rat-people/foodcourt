@@ -92,6 +92,8 @@
       },
       "content": {
         "main_dishes": [
+          "bento boxes",
+          "bento boxes",
           "bento boxes"
         ],
         "desserts_snacks": [],
@@ -132,7 +134,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
