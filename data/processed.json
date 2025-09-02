@@ -46,7 +46,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -61,7 +61,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "20:20"
       },
       "availability": "cleared",
@@ -70,7 +70,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -114,7 +114,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -175,7 +175,7 @@
       "location": {
         "raw": "com",
         "campus_zone": "Kent Ridge",
-        "building": "COM",
+        "building": "COM1",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
