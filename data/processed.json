@@ -94,7 +94,7 @@
       "location": {
         "raw": "com",
         "campus_zone": "Kent Ridge",
-        "building": "COM1",
+        "building": "COM",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -112,7 +112,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
