@@ -24,60 +24,6 @@
     "ts_tz": "2025-08-31T14:21:12+08:00",
     "chat_id": "1083087143",
     "chat_title": "NUS Buffet Response Team",
-    "message_id": 40321,
-    "from": {
-      "id": "339461099",
-      "username": "blue_bellied_sea_eagle",
-      "first_name": "Blue",
-      "last_name": "Eagle"
-    },
-    "text": null,
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6170020739374238333",
-        "filename": "20250831142112_NUS Buffet Response Team_40321.jpg",
-        "path": "20250831/20250831142112_NUS Buffet Response Team_40321.jpg"
-      }
-    ]
-  },
-  {
-    "ts_utc": "2025-08-31T06:21:12.000Z",
-    "ts_tz": "2025-08-31T14:21:12+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40320,
-    "from": {
-      "id": "339461099",
-      "username": "blue_bellied_sea_eagle",
-      "first_name": "Blue",
-      "last_name": "Eagle"
-    },
-    "text": null,
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6170020739374238332",
-        "filename": "20250831142112_NUS Buffet Response Team_40320.jpg",
-        "path": "20250831/20250831142112_NUS Buffet Response Team_40320.jpg"
-      }
-    ]
-  },
-  {
-    "ts_utc": "2025-08-31T06:21:12.000Z",
-    "ts_tz": "2025-08-31T14:21:12+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
     "message_id": 40319,
     "from": {
       "id": "339461099",
