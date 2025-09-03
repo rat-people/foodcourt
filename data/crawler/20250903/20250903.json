@@ -68,9 +68,9 @@
     "text": "Clearing by 5:45",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-03T09:51:17.000Z",
+    "edit_ts_tz": "2025-09-03T17:51:17+08:00",
     "media": []
   },
   {
@@ -88,9 +88,9 @@
     "text": "Leftover tea buffet at SFAH level 1. I am the organiser pls come take!!",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-03T09:51:15.000Z",
+    "edit_ts_tz": "2025-09-03T17:51:15+08:00",
     "media": []
   },
   {
@@ -316,9 +316,9 @@
     "text": "Uhall level 1 to be cleared before 3pm",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-03T09:51:22.000Z",
+    "edit_ts_tz": "2025-09-03T17:51:22+08:00",
     "media": [
       {
         "type": "photo",
