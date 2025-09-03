@@ -2,48 +2,9 @@
   {
     "entity": {
       "location": {
-        "raw": "com",
-        "campus_zone": "Kent Ridge",
-        "building": "COM1",
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "instachef"
-        ]
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-01T16:18:30.000Z",
-    "lastUpdated": "2025-09-01T16:18:30.000Z",
-    "prompts": "Accidentally ordered instachef at com, whoever still at com can take"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": "S11",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -163,7 +124,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": "SFAH",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -187,7 +148,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
