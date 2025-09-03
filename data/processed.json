@@ -43,7 +43,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": "S11",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -163,7 +163,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": "SFAH",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -174,7 +174,9 @@
         "drinks": [
           "tea"
         ],
-        "other_items": []
+        "other_items": [
+          "buffet"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -187,7 +189,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
