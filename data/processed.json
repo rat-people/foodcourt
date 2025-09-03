@@ -22,8 +22,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "ASAP",
+        "clearing_time_exact": "13:45"
       },
       "availability": "few",
       "policies": {
@@ -51,7 +51,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
