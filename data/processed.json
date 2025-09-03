@@ -43,7 +43,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "S11",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -81,7 +81,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared...",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -120,7 +120,7 @@
       "location": {
         "raw": "Uhall level 1",
         "campus_zone": "Utown",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -157,5 +157,47 @@
     "createdAt": "2025-09-03T06:26:19.000Z",
     "lastUpdated": "2025-09-03T06:42:26.000Z",
     "prompts": "Uhall level 1 to be cleared before 3pm\nNew Message: Okay\nNew Message: Cleared"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "SFAH level 1",
+        "campus_zone": "Kent Ridge",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 1",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [
+          "tea"
+        ],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "17:45"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250903/20250903170418_NUS Buffet Response Team_40341.jpg",
+      "20250903/20250903170418_NUS Buffet Response Team_40340.jpg"
+    ],
+    "createdAt": "2025-09-03T09:04:18.000Z",
+    "lastUpdated": "2025-09-03T09:05:59.000Z",
+    "prompts": "Leftover tea buffet at SFAH level 1. I am the organiser pls come take!!\nNew Message: Clearing by 5:45"
   }
 ]
