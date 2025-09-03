@@ -42,7 +42,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared...",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -150,7 +150,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
