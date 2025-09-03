@@ -4,7 +4,7 @@
       "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -88,7 +88,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 2",
+        "floor": "Level 2",
         "landmark": "corridor"
       },
       "content": {
@@ -120,5 +120,42 @@
     "createdAt": "2025-09-03T05:14:42.000Z",
     "lastUpdated": "2025-09-03T05:14:42.000Z",
     "prompts": "Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nWill be cleared by 2pm.\n\nOrganiser has approved."
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-09-03T05:39:50.000Z",
+    "lastUpdated": "2025-09-03T05:39:50.000Z",
+    "prompts": "cleared..."
   }
 ]
