@@ -2,55 +2,9 @@
   {
     "entity": {
       "location": {
-        "raw": "MD 6",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "bento boxes"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "non veg bento boxes",
-          "veg bento boxes"
-        ]
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
-      },
-      "availability": "few",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "halal"
-        ]
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250831/20250831131151_NUS Buffet Response Team_40316.jpg"
-    ],
-    "createdAt": "2025-08-31T05:11:51.000Z",
-    "lastUpdated": "2025-08-31T05:11:51.000Z",
-    "prompts": "Hi all there are a few extra bento boxes at MD 6 \n\n18 bento boxes (non veg)\n4 bento boxes (veg)\nAll halal \nConsume by 1pm\nCLEARING AT 1.45pm"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "MD1 level 3",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -74,7 +28,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -126,5 +80,45 @@
     "createdAt": "2025-09-01T16:18:30.000Z",
     "lastUpdated": "2025-09-01T16:18:30.000Z",
     "prompts": "Accidentally ordered instachef at com, whoever still at com can take"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "S11 Level 2 corridor",
+        "campus_zone": "Kent Ridge",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 2",
+        "landmark": "corridor"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:00"
+      },
+      "availability": "few",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250903/20250903131442_NUS Buffet Response Team_40331.jpg",
+      "20250903/20250903131442_NUS Buffet Response Team_40330.jpg"
+    ],
+    "createdAt": "2025-09-03T05:14:42.000Z",
+    "lastUpdated": "2025-09-03T05:14:42.000Z",
+    "prompts": "Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nWill be cleared by 2pm.\n\nOrganiser has approved."
   }
 ]
