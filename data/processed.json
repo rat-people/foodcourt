@@ -41,11 +41,11 @@
   {
     "entity": {
       "location": {
-        "raw": "S11 Level 2 corridor.",
+        "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "S11",
         "room_or_lt": null,
-        "floor": "level 2",
+        "floor": "Level 2",
         "landmark": "corridor"
       },
       "content": {
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "14:00"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -76,7 +76,7 @@
     ],
     "createdAt": "2025-09-03T05:14:42.000Z",
     "lastUpdated": "2025-09-03T05:14:42.000Z",
-    "prompts": "Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nWill be cleared by 2pm.\n\nOrganiser has approved."
+    "prompts": "Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nWill be cleared by 2pm.\n\nOrganiser has approved.\nNew Message: Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nWill be cleared by 2pm.\nCleared\n\nOrganiser has approved."
   },
   {
     "entity": {
@@ -133,8 +133,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "before 3pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "15:00"
       },
       "availability": "cleared",
       "policies": {
