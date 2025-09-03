@@ -86,7 +86,7 @@
         "campus_zone": "Kent Ridge",
         "building": "S11",
         "room_or_lt": null,
-        "floor": "Level 2",
+        "floor": "level 2",
         "landmark": "corridor"
       },
       "content": {
@@ -122,7 +122,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared...",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -161,7 +161,7 @@
       "location": {
         "raw": "Uhall level 1",
         "campus_zone": "Utown",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
