@@ -22,10 +22,10 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:45pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "in 15 mins",
+        "clearing_time_exact": "13:45"
       },
-      "availability": "few",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -94,7 +94,7 @@
       "location": {
         "raw": "com",
         "campus_zone": "Kent Ridge",
-        "building": "COM",
+        "building": "COM1",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -112,7 +112,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
