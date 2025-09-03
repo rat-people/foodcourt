@@ -2,47 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "MD1 level 3",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "level 3",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": "soon",
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "halal"
-        ]
-      },
-      "misc": {
-        "urgency_level": "medium",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250831/20250831142112_NUS Buffet Response Team_40319.jpg"
-    ],
-    "createdAt": "2025-08-31T06:21:12.000Z",
-    "lastUpdated": "2025-08-31T07:07:04.000Z",
-    "prompts": "MD1 level 3 org approved halal clearing soon\nNew Message: Cleared"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "com",
         "campus_zone": "Kent Ridge",
         "building": "COM1",
@@ -82,9 +41,9 @@
   {
     "entity": {
       "location": {
-        "raw": "S11 Level 2 corridor",
+        "raw": "S11 Level 2 corridor.",
         "campus_zone": "Kent Ridge",
-        "building": "S11",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "corridor"
@@ -122,7 +81,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared...",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -174,8 +133,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "15:00"
+        "clearing_time_relative": "before 3pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
