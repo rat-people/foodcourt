@@ -17,7 +17,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 2pm",
+        "clearing_time_relative": "2pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -80,7 +80,7 @@
     "entity": {
       "location": {
         "raw": "Uhall level 1",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -124,7 +124,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": "SFAH",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -148,7 +148,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
