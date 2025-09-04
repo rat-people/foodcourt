@@ -135,7 +135,9 @@
         "drinks": [
           "tea"
         ],
-        "other_items": []
+        "other_items": [
+          "buffet"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -148,7 +150,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
