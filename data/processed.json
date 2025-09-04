@@ -4,7 +4,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "S11",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -17,8 +17,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
+        "clearing_time_relative": "by 2pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -42,7 +42,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared...",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -135,7 +135,9 @@
         "drinks": [
           "tea"
         ],
-        "other_items": []
+        "other_items": [
+          "buffet"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -148,7 +150,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
