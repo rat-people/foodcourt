@@ -81,7 +81,7 @@
       "location": {
         "raw": "Uhall level 1",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -148,7 +148,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
