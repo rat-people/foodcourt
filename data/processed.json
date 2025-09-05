@@ -17,7 +17,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2pm",
+        "clearing_time_relative": "by 2pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -42,7 +42,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared...",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -124,7 +124,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "Yusof Ishak House",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -142,13 +142,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }

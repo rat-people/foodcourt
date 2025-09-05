@@ -37,9 +37,9 @@
       "reply_to_message_id": 40354,
       "reply_to_top_message_id": 40353
     },
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-05T05:44:24.000Z",
+    "edit_ts_tz": "2025-09-05T13:44:24+08:00",
     "media": []
   },
   {
