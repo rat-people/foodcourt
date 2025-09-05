@@ -80,8 +80,8 @@
     "entity": {
       "location": {
         "raw": "Uhall level 1",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Utown",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -94,8 +94,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "before 3pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "15:00"
       },
       "availability": "cleared",
       "policies": {
@@ -142,7 +142,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -242,7 +242,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -256,7 +256,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
@@ -268,7 +268,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event from NUS-ISS",
+        "food_source": "event",
         "risk_notice": null
       }
     },
@@ -287,7 +287,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "above science canteen"
+        "landmark": "outside MPR above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -339,7 +339,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -382,7 +382,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
