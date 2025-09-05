@@ -4,7 +4,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "S11",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -17,8 +17,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
+        "clearing_time_relative": "by 2pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -42,7 +42,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared...",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -94,8 +94,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "before 3pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "15:00"
       },
       "availability": "cleared",
       "policies": {
@@ -124,7 +124,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -242,7 +242,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -256,7 +256,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": null,
+      "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
@@ -268,7 +268,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event from NUS-ISS",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
@@ -287,7 +287,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR above science canteen"
+        "landmark": "above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -339,7 +339,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -354,5 +354,45 @@
     "createdAt": "2025-09-05T10:44:16.000Z",
     "lastUpdated": "2025-09-05T10:44:16.000Z",
     "prompts": "Not much left liao"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "As2 2nd storey, next to gis lab",
+        "campus_zone": "Kent Ridge",
+        "building": "AS2",
+        "room_or_lt": null,
+        "floor": "2nd storey",
+        "landmark": "next to gis lab"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "20:15"
+      },
+      "availability": "lots",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "medium",
+        "food_source": "NUS Geog Dept",
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250905/20250905185131_NUS Buffet Response Team_40365.jpg",
+      "20250905/20250905185212_NUS Buffet Response Team_40366.jpg"
+    ],
+    "createdAt": "2025-09-05T10:51:31.000Z",
+    "lastUpdated": "2025-09-05T10:52:38.000Z",
+    "prompts": "As2 2nd storey, next to gis lab still alot of food left!! Organised by NUS Geog Dept\nNew Message: let's go guys, it's just beside the Earth Lab in Geog would be cleared by 8.15pm"
   }
 ]

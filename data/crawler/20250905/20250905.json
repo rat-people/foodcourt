@@ -1,5 +1,82 @@
 [
   {
+    "ts_utc": "2025-09-05T10:52:38.000Z",
+    "ts_tz": "2025-09-05T18:52:38+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40367,
+    "from": {
+      "id": "933888887",
+      "username": "Lenticularis",
+      "first_name": "Rubens",
+      "last_name": "Setiawan"
+    },
+    "text": "let's go guys, it's just beside the Earth Lab in Geog would be cleared by 8.15pm",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40365,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-05T10:52:12.000Z",
+    "ts_tz": "2025-09-05T18:52:12+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40366,
+    "from": {
+      "id": "206273007",
+      "username": "cheryl2202",
+      "first_name": "Cheryl",
+      "last_name": "Ng"
+    },
+    "text": null,
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6186253649873848942",
+        "filename": "20250905185212_NUS Buffet Response Team_40366.jpg",
+        "path": "20250905/20250905185212_NUS Buffet Response Team_40366.jpg"
+      }
+    ]
+  },
+  {
+    "ts_utc": "2025-09-05T10:51:31.000Z",
+    "ts_tz": "2025-09-05T18:51:31+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40365,
+    "from": {
+      "id": "206273007",
+      "username": "cheryl2202",
+      "first_name": "Cheryl",
+      "last_name": "Ng"
+    },
+    "text": "As2 2nd storey, next to gis lab still alot of food left!! Organised by NUS Geog Dept",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-05T10:52:30.000Z",
+    "edit_ts_tz": "2025-09-05T18:52:30+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6186253649873848941",
+        "filename": "20250905185131_NUS Buffet Response Team_40365.jpg",
+        "path": "20250905/20250905185131_NUS Buffet Response Team_40365.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-09-05T10:44:16.000Z",
     "ts_tz": "2025-09-05T18:44:16+08:00",
     "chat_id": "1083087143",
