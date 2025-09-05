@@ -17,8 +17,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
+        "clearing_time_relative": "by 2pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -42,7 +42,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared...",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -124,7 +124,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -256,18 +256,18 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": null,
+      "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
-      "availability": "lots",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "event from NUS-ISS",
         "risk_notice": null
       }
