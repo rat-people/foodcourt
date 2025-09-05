@@ -148,7 +148,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -267,7 +267,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": "NUS-ISS",
         "risk_notice": null
       }
@@ -278,5 +278,44 @@
     "createdAt": "2025-09-05T06:14:30.000Z",
     "lastUpdated": "2025-09-05T06:27:32.000Z",
     "prompts": "Event organiser from NUS-ISS. We have around 150 packs of bento leftover from an event. Do come over and collect. It's at level 1 cove of excellence.\nNew Message: We will clear by 3pm"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Outside MPR above science canteen",
+        "campus_zone": "Kent Ridge",
+        "building": "Science Canteen (non-aircon)",
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "outside MPR above science canteen"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "lots",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250905/20250905182440_NUS Buffet Response Team_40362.jpg"
+    ],
+    "createdAt": "2025-09-05T10:24:40.000Z",
+    "lastUpdated": "2025-09-05T10:24:40.000Z",
+    "prompts": "Outside MPR above science canteen! Still a lot of food left need to finish\n\nOrganiser approved 👍🏻"
   }
 ]
