@@ -4,7 +4,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "S11",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -148,7 +148,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -267,8 +267,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": "event",
+        "urgency_level": "low",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
