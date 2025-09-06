@@ -66,7 +66,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": null,
+        "food_source": "event from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -85,7 +85,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR above science canteen"
+        "landmark": "above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -137,7 +137,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -180,7 +180,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "low",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -238,10 +238,10 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "campus_zone": "unknown",
+        "building": "CLB",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": null
       },
       "content": {
@@ -365,7 +365,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -401,10 +401,10 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
+        "building": null,
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -427,14 +427,15 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
@@ -522,7 +523,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
