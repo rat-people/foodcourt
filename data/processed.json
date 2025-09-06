@@ -4,7 +4,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "S11",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -44,7 +44,7 @@
       "location": {
         "raw": "Uhall level 1",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -72,15 +72,11 @@
       }
     },
     "media": [
-      "20250903/20250903142619_NUS Buffet Response Team_40337.jpg",
-      "20250903/20250903142619_NUS Buffet Response Team_40336.jpg",
-      "20250903/20250903142619_NUS Buffet Response Team_40335.jpg",
-      "20250903/20250903142619_NUS Buffet Response Team_40334.jpg",
       "20250903/20250903142619_NUS Buffet Response Team_40333.jpg"
     ],
     "createdAt": "2025-09-03T06:26:19.000Z",
     "lastUpdated": "2025-09-03T06:42:26.000Z",
-    "prompts": "Uhall level 1 to be cleared before 3pm\nNew Message: Okay\nNew Message: Cleared"
+    "prompts": "Uhall level 1 to be cleared before 3pm\nNew Message: Cleared"
   },
   {
     "entity": {
@@ -231,7 +227,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "NUS-ISS",
+        "food_source": "event from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -269,7 +265,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -345,7 +341,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -381,7 +377,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -599,12 +595,11 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -615,5 +610,50 @@
     "createdAt": "2025-09-06T05:48:39.000Z",
     "lastUpdated": "2025-09-06T06:02:57.000Z",
     "prompts": "halal bentos available outside science LT28!! \n\nmenu 1 \nchicken rice \nayam penyet \nlong bean & carrots \ncucumber & tomatoes \nfried tau kwa \n\nmenu 2 \nnasi lemak \nrendang chicken \nszechuan fried rice \nstir fried long bean \nsambal egg \n\nthere r some vegetarian bentos left as well \n\nclearing at 2.30pm! \n\n(i’m the organizer)\nNew Message: update: everything is cleared, thanks!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "SRC level 2 outside flavours",
+        "campus_zone": "Utown",
+        "building": "UTown SRC",
+        "room_or_lt": null,
+        "floor": "level 2",
+        "landmark": "outside flavours"
+      },
+      "content": {
+        "main_dishes": [
+          "bento"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250906/20250906143049_NUS Buffet Response Team_40380.jpg",
+      "20250906/20250906143140_NUS Buffet Response Team_40382.jpg",
+      "20250906/20250906143140_NUS Buffet Response Team_40381.jpg"
+    ],
+    "createdAt": "2025-09-06T06:30:49.000Z",
+    "lastUpdated": "2025-09-06T06:31:40.000Z",
+    "prompts": "Halal bento at SRC level 2 outside  flavours"
   }
 ]
