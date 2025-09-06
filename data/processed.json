@@ -135,20 +135,22 @@
         "drinks": [
           "tea"
         ],
-        "other_items": []
+        "other_items": [
+          "buffet"
+        ]
       },
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -242,7 +244,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -267,8 +269,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": "leftover from an event",
+        "urgency_level": "medium",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
@@ -369,7 +371,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "food"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -382,7 +386,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -394,5 +398,46 @@
     "createdAt": "2025-09-05T10:51:31.000Z",
     "lastUpdated": "2025-09-05T10:52:38.000Z",
     "prompts": "As2 2nd storey, next to gis lab still alot of food left!! Organised by NUS Geog Dept\nNew Message: let's go guys, it's just beside the Earth Lab in Geog would be cleared by 8.15pm"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "lt27 foyer",
+        "campus_zone": "Kent Ridge",
+        "building": "LT27",
+        "room_or_lt": "LT27",
+        "floor": null,
+        "landmark": "foyer"
+      },
+      "content": {
+        "main_dishes": [
+          "hotpot"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250905/20250905220005_NUS Buffet Response Team_40368.jpg"
+    ],
+    "createdAt": "2025-09-05T14:00:05.000Z",
+    "lastUpdated": "2025-09-05T14:00:05.000Z",
+    "prompts": "Hotpot leftovers, feel free to take from lt27 foyer"
   }
 ]
