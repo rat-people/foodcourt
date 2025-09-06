@@ -41,6 +41,45 @@
   {
     "entity": {
       "location": {
+        "raw": "Uhall level 1",
+        "campus_zone": "Utown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 1",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "15:00"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250903/20250903142619_NUS Buffet Response Team_40333.jpg"
+    ],
+    "createdAt": "2025-09-03T06:26:19.000Z",
+    "lastUpdated": "2025-09-03T06:26:19.000Z",
+    "prompts": "Uhall level 1 to be cleared before 3pm"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
         "building": "unknown",
@@ -61,7 +100,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -161,7 +200,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -180,14 +219,14 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
-      "availability": "lots",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
         "urgency_level": "medium",
-        "food_source": "event organiser from NUS-ISS",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
@@ -206,7 +245,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "above science canteen"
+        "landmark": "outside MPR above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -362,7 +401,7 @@
         "campus_zone": "Kent Ridge",
         "building": "COM1",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": null
       },
       "content": {
@@ -548,8 +587,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:30pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:30"
       },
       "availability": "cleared",
       "policies": {
