@@ -42,7 +42,7 @@
     "entity": {
       "location": {
         "raw": "Uhall level 1",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -82,7 +82,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -100,13 +100,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -219,14 +219,14 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
-      "availability": "lots",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
         "urgency_level": null,
-        "food_source": null,
+        "food_source": "event",
         "risk_notice": null
       }
     },
@@ -297,7 +297,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -340,7 +340,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -398,10 +398,10 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
-        "building": "CLB",
+        "campus_zone": "Kent Ridge",
+        "building": "COM3",
         "room_or_lt": null,
-        "floor": "Level 3",
+        "floor": "level 3",
         "landmark": null
       },
       "content": {
@@ -544,7 +544,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -561,10 +561,10 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
+        "building": null,
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -572,7 +572,8 @@
           "ayam penyet",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice"
+          "szechuan fried rice",
+          "stir fried long bean"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -580,15 +581,14 @@
           "long bean & carrots",
           "cucumber & tomatoes",
           "fried tau kwa",
-          "stir fried long bean",
           "sambal egg",
           "vegetarian bentos"
         ]
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -659,7 +659,7 @@
   {
     "entity": {
       "location": {
-        "raw": "New Message",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -674,7 +674,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -683,46 +683,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250906/20250906145824_NUS Buffet Response Team_40387.jpg"
-    ],
-    "createdAt": "2025-09-06T06:48:57.000Z",
-    "lastUpdated": "2025-09-06T06:58:24.000Z",
-    "prompts": "Any left?\nNew Message: there's like 1 left"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "last i check 10mins ago",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "10 minutes ago",
-        "clearing_time_exact": null
-      },
-      "availability": "few",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
