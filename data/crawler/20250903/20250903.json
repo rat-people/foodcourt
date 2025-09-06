@@ -263,32 +263,5 @@
         "path": "20250903/20250903131442_NUS Buffet Response Team_40331.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-09-03T05:14:42.000Z",
-    "ts_tz": "2025-09-03T13:14:42+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40330,
-    "from": {
-      "id": "406438759",
-      "username": "JH93t",
-      "first_name": "Jyh Harng",
-      "last_name": "Tan"
-    },
-    "text": "Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nWill be cleared by 2pm.\nCleared\n\nOrganiser has approved.",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-03T07:20:30.000Z",
-    "edit_ts_tz": "2025-09-03T15:20:30+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6179416538679985632",
-        "filename": "20250903131442_NUS Buffet Response Team_40330.jpg",
-        "path": "20250903/20250903131442_NUS Buffet Response Team_40330.jpg"
-      }
-    ]
   }
 ]

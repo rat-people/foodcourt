@@ -4,7 +4,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": "S11",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -18,7 +18,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -32,51 +32,11 @@
       }
     },
     "media": [
-      "20250903/20250903131442_NUS Buffet Response Team_40331.jpg",
-      "20250903/20250903131442_NUS Buffet Response Team_40330.jpg"
+      "20250903/20250903131442_NUS Buffet Response Team_40331.jpg"
     ],
     "createdAt": "2025-09-03T05:14:42.000Z",
     "lastUpdated": "2025-09-03T05:14:42.000Z",
-    "prompts": "Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nCleared \n\nOrganiser has approved.\nNew Message: Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nWill be cleared by 2pm.\nCleared\n\nOrganiser has approved."
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "Uhall level 1",
-        "campus_zone": "Utown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "level 1",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "15:00"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "low",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250903/20250903142619_NUS Buffet Response Team_40333.jpg"
-    ],
-    "createdAt": "2025-09-03T06:26:19.000Z",
-    "lastUpdated": "2025-09-03T06:26:19.000Z",
-    "prompts": "Uhall level 1 to be cleared before 3pm"
+    "prompts": "Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nCleared \n\nOrganiser has approved."
   },
   {
     "entity": {
@@ -107,7 +67,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -163,7 +123,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -215,7 +175,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
@@ -227,7 +187,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event organiser from NUS-ISS",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
@@ -298,7 +258,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -328,7 +288,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "food"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -377,7 +339,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -400,7 +362,7 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "CLB",
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -441,7 +403,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "Level 1",
         "landmark": null
       },
       "content": {
@@ -563,7 +525,7 @@
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
         "building": "LT28",
-        "room_or_lt": null,
+        "room_or_lt": "LT28",
         "floor": null,
         "landmark": "outside science"
       },
@@ -595,8 +557,7 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -675,7 +636,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
