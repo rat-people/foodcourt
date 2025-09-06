@@ -41,6 +41,45 @@
   {
     "entity": {
       "location": {
+        "raw": "Uhall level 1",
+        "campus_zone": "Utown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 1",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "15:00"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250903/20250903142619_NUS Buffet Response Team_40333.jpg"
+    ],
+    "createdAt": "2025-09-03T06:26:19.000Z",
+    "lastUpdated": "2025-09-03T06:26:19.000Z",
+    "prompts": "Uhall level 1 to be cleared before 3pm"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
         "building": null,
@@ -54,7 +93,9 @@
         "drinks": [
           "tea"
         ],
-        "other_items": []
+        "other_items": [
+          "buffet"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -175,7 +216,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": null,
+      "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
@@ -187,7 +228,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "NUS-ISS",
+        "food_source": "event organiser from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -206,7 +247,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR above science canteen"
+        "landmark": "outside mpr above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -258,7 +299,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -288,9 +329,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "food"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -361,8 +400,8 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
-        "building": "CLB",
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -375,8 +414,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "around 2+",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:00"
       },
       "availability": "unknown",
       "policies": {
@@ -488,7 +527,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -507,7 +546,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -533,18 +572,18 @@
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice",
-          "stir fried long bean",
-          "sambal egg"
+          "szechuan fried rice"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
+          "stir fried long bean",
+          "sambal egg",
           "vegetarian bentos"
         ]
       },
@@ -557,7 +596,8 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
