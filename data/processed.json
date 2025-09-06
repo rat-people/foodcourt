@@ -66,7 +66,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "NUS-ISS",
+        "food_source": "event from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -85,7 +85,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR above science canteen"
+        "landmark": "above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -104,7 +104,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -137,7 +137,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -180,7 +180,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -280,7 +280,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 1",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -343,7 +343,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -404,7 +404,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -522,7 +522,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
