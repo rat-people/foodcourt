@@ -18,7 +18,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": "by 2pm",
-        "clearing_time_exact": null
+        "clearing_time_exact": "14:00"
       },
       "availability": "cleared",
       "policies": {
@@ -124,7 +124,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -144,7 +144,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -269,7 +269,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": "NUS-ISS",
         "risk_notice": null
       }
@@ -289,7 +289,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR above science canteen"
+        "landmark": "outside mpr above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -341,7 +341,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
