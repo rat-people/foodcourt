@@ -17,8 +17,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
+        "clearing_time_relative": "by 2pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -142,7 +142,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -242,7 +242,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -268,7 +268,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event organiser from NUS-ISS",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
@@ -287,7 +287,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "above science canteen"
+        "landmark": "outside mpr above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -321,7 +321,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Not much left liao",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -339,7 +339,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -382,7 +382,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -435,5 +435,44 @@
     "createdAt": "2025-09-05T14:00:05.000Z",
     "lastUpdated": "2025-09-05T14:00:05.000Z",
     "prompts": "Hotpot leftovers, feel free to take from lt27 foyer"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "CLB Level 3",
+        "campus_zone": "Kent Ridge",
+        "building": "COM1",
+        "room_or_lt": null,
+        "floor": "Level 3",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": "around 2+",
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250906/20250906123243_NUS Buffet Response Team_40369.jpg"
+    ],
+    "createdAt": "2025-09-06T04:32:43.000Z",
+    "lastUpdated": "2025-09-06T04:32:43.000Z",
+    "prompts": "Hi leftover catering at CLB Level 3, will be cleared around 2+"
   }
 ]

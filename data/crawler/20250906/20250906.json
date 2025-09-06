@@ -1,0 +1,29 @@
+[
+  {
+    "ts_utc": "2025-09-06T04:32:43.000Z",
+    "ts_tz": "2025-09-06T12:32:43+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40369,
+    "from": {
+      "id": "1181384837",
+      "username": "anchoevy",
+      "first_name": "gab",
+      "last_name": null
+    },
+    "text": "Hi leftover catering at CLB Level 3, will be cleared around 2+",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6188201112599906506",
+        "filename": "20250906123243_NUS Buffet Response Team_40369.jpg",
+        "path": "20250906/20250906123243_NUS Buffet Response Team_40369.jpg"
+      }
+    ]
+  }
+]
