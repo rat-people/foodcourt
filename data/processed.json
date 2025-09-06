@@ -4,7 +4,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "S11",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -17,8 +17,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 2pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:00"
       },
       "availability": "cleared",
       "policies": {
@@ -66,7 +66,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -83,7 +83,7 @@
       "location": {
         "raw": "SFAH level 1",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -101,13 +101,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -163,7 +163,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -226,8 +226,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
-        "food_source": "NUS-ISS",
+        "urgency_level": null,
+        "food_source": "event organiser from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -298,7 +298,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -341,7 +341,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -377,7 +377,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -400,7 +400,7 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "unknown",
-        "building": "CLB",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -441,7 +441,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 1",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -526,7 +526,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -562,10 +562,10 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
-        "room_or_lt": "LT28",
+        "building": "LT28",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -588,8 +588,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -675,7 +675,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
+        "clearing_time_relative": "10 mins ago",
         "clearing_time_exact": null
       },
       "availability": "few",
