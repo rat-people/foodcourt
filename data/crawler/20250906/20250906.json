@@ -1,5 +1,59 @@
 [
   {
+    "ts_utc": "2025-09-06T05:48:39.000Z",
+    "ts_tz": "2025-09-06T13:48:39+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40377,
+    "from": {
+      "id": "367863958",
+      "username": "tinggss",
+      "first_name": "yuanting ✿‧͙⁺˚*✧",
+      "last_name": null
+    },
+    "text": "halal bentos available outside science LT28!! \n\nmenu 1 \nchicken rice \nayam penyet \nlong bean & carrots \ncucumber & tomatoes \nfried tau kwa \n\nmenu 2 \nnasi lemak \nrendang chicken \nszechuan fried rice \nstir fried long bean \nsambal egg \n\nthere r some vegetarian bentos left as well \n\nclearing at 2.30pm! \n\n(i’m the organizer)",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-06T05:49:18.000Z",
+    "edit_ts_tz": "2025-09-06T13:49:18+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6188201112599906594",
+        "filename": "20250906134839_NUS Buffet Response Team_40377.jpg",
+        "path": "20250906/20250906134839_NUS Buffet Response Team_40377.jpg"
+      }
+    ]
+  },
+  {
+    "ts_utc": "2025-09-06T05:46:44.000Z",
+    "ts_tz": "2025-09-06T13:46:44+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40375,
+    "from": {
+      "id": "5631850620",
+      "username": "priyeahhhh",
+      "first_name": "Priya",
+      "last_name": null
+    },
+    "text": "Bento boxes available at Md6. All Halal and to be consumed by 2pm",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6188201112599906593",
+        "filename": "20250906134644_NUS Buffet Response Team_40375.jpg",
+        "path": "20250906/20250906134644_NUS Buffet Response Team_40375.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-09-06T05:41:34.000Z",
     "ts_tz": "2025-09-06T13:41:34+08:00",
     "chat_id": "1083087143",
