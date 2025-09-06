@@ -4,7 +4,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "S11",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -37,84 +37,6 @@
     "createdAt": "2025-09-03T05:14:42.000Z",
     "lastUpdated": "2025-09-03T05:14:42.000Z",
     "prompts": "Leftovers at S11 Level 2 corridor. \nLimited cutleries left.\n\nCleared \n\nOrganiser has approved."
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "Uhall level 1",
-        "campus_zone": "Utown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "level 1",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "15:00"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250903/20250903142619_NUS Buffet Response Team_40333.jpg"
-    ],
-    "createdAt": "2025-09-03T06:26:19.000Z",
-    "lastUpdated": "2025-09-03T06:26:19.000Z",
-    "prompts": "Uhall level 1 to be cleared before 3pm"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "SFAH level 1",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "level 1",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [
-          "tea"
-        ],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "17:45"
-      },
-      "availability": "few",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "medium",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-03T09:04:49.000Z",
-    "lastUpdated": "2025-09-03T09:56:37.000Z",
-    "prompts": "Leftover tea buffet at SFAH level 1. I am the organiser pls come take!!\nNew Message: Clearing by 5:45\nNew Message: still there or not?"
   },
   {
     "entity": {
@@ -157,7 +79,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -182,7 +104,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": "NUS-ISS",
         "risk_notice": null
       }
@@ -202,7 +124,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "above science canteen"
+        "landmark": "outside MPR above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -355,10 +277,10 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
-        "building": "CLB",
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
         "room_or_lt": null,
-        "floor": "Level 3",
+        "floor": "level 3",
         "landmark": null
       },
       "content": {
@@ -397,7 +319,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "Level 1",
         "landmark": null
       },
       "content": {
@@ -434,7 +356,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "still lot of chicken leg",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -460,7 +382,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -519,7 +441,7 @@
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
         "building": "LT28",
-        "room_or_lt": "LT28",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside science"
       },
@@ -527,18 +449,18 @@
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
           "szechuan fried rice",
-          "stir fried long bean"
+          "stir fried long bean",
+          "sambal egg"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
-          "sambal egg",
           "vegetarian bentos"
         ]
       },
@@ -551,8 +473,7 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -640,7 +561,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
