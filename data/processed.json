@@ -17,8 +17,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 2pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:00"
       },
       "availability": "cleared",
       "policies": {
@@ -98,9 +98,7 @@
         "drinks": [
           "tea"
         ],
-        "other_items": [
-          "buffet"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -113,7 +111,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -207,7 +205,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -221,7 +219,7 @@
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": null,
+      "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
@@ -271,7 +269,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -347,7 +345,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -405,8 +403,8 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "Kent Ridge",
-        "building": "COM1",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -447,7 +445,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "Level 1",
         "landmark": null
       },
       "content": {
@@ -551,7 +549,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -594,10 +592,10 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -606,7 +604,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -615,7 +613,7 @@
       "20250906/20250906134839_NUS Buffet Response Team_40377.jpg"
     ],
     "createdAt": "2025-09-06T05:48:39.000Z",
-    "lastUpdated": "2025-09-06T05:48:39.000Z",
-    "prompts": "halal bentos available outside science LT28!! \n\nmenu 1 \nchicken rice \nayam penyet \nlong bean & carrots \ncucumber & tomatoes \nfried tau kwa \n\nmenu 2 \nnasi lemak \nrendang chicken \nszechuan fried rice \nstir fried long bean \nsambal egg \n\nthere r some vegetarian bentos left as well \n\nclearing at 2.30pm! \n\n(i’m the organizer)"
+    "lastUpdated": "2025-09-06T06:02:57.000Z",
+    "prompts": "halal bentos available outside science LT28!! \n\nmenu 1 \nchicken rice \nayam penyet \nlong bean & carrots \ncucumber & tomatoes \nfried tau kwa \n\nmenu 2 \nnasi lemak \nrendang chicken \nszechuan fried rice \nstir fried long bean \nsambal egg \n\nthere r some vegetarian bentos left as well \n\nclearing at 2.30pm! \n\n(i’m the organizer)\nNew Message: update: everything is cleared, thanks!"
   }
 ]
