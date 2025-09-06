@@ -93,9 +93,7 @@
         "drinks": [
           "tea"
         ],
-        "other_items": [
-          "buffet"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -228,7 +226,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event organiser from NUS-ISS",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
@@ -247,7 +245,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside mpr above science canteen"
+        "landmark": "outside MPR above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -329,7 +327,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "food"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -342,7 +342,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -400,10 +400,10 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
-        "floor": "Level 3",
+        "floor": "level 3",
         "landmark": null
       },
       "content": {
@@ -414,8 +414,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
+        "clearing_time_relative": "around 2+",
+        "clearing_time_exact": null
       },
       "availability": "unknown",
       "policies": {
@@ -546,7 +546,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -563,7 +563,7 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "LT28",
+        "building": null,
         "room_or_lt": "LT28",
         "floor": null,
         "landmark": "outside science"
@@ -572,18 +572,18 @@
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice"
+          "szechuan fried rice",
+          "stir fried long bean",
+          "sambal egg"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
-          "stir fried long bean",
-          "sambal egg",
           "vegetarian bentos"
         ]
       },
