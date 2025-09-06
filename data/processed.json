@@ -43,7 +43,7 @@
       "location": {
         "raw": "Uhall level 1",
         "campus_zone": "Utown",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": null
@@ -65,7 +65,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -100,7 +100,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -115,46 +115,6 @@
     "createdAt": "2025-09-03T09:04:49.000Z",
     "lastUpdated": "2025-09-03T09:56:37.000Z",
     "prompts": "Leftover tea buffet at SFAH level 1. I am the organiser pls come take!!\nNew Message: Clearing by 5:45\nNew Message: still there or not?"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "CELC",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "17:30"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250903/20250903171848_NUS Buffet Response Team_40347.jpg",
-      "20250903/20250903171848_NUS Buffet Response Team_40346.jpg"
-    ],
-    "createdAt": "2025-09-03T09:18:48.000Z",
-    "lastUpdated": "2025-09-03T09:18:48.000Z",
-    "prompts": "CELC has buffet food leftovers, feel free to come and take - organiser approved. Buffet will be cleared at 530pm"
   },
   {
     "entity": {
@@ -223,7 +183,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event",
+        "food_source": "leftover from an event",
         "risk_notice": null
       }
     },
@@ -242,7 +202,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "above science canteen"
+        "landmark": "outside mpr above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -396,7 +356,7 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": "COM2",
+        "building": "COM3",
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -474,7 +434,7 @@
   {
     "entity": {
       "location": {
-        "raw": "still lot of chicken leg",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -522,7 +482,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -541,7 +501,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -567,25 +527,25 @@
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice",
-          "stir fried long bean",
-          "sambal egg"
+          "szechuan fried rice"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
+          "stir fried long bean",
+          "sambal egg",
           "vegetarian bentos"
         ]
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -671,7 +631,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
+        "clearing_time_relative": "10 mins ago",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -680,7 +640,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }

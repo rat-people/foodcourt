@@ -63,60 +63,6 @@
     "media": []
   },
   {
-    "ts_utc": "2025-09-03T09:18:48.000Z",
-    "ts_tz": "2025-09-03T17:18:48+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40347,
-    "from": {
-      "id": "146664262",
-      "username": "Tearstuds",
-      "first_name": "Shirlyn",
-      "last_name": null
-    },
-    "text": null,
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6179416538679985846",
-        "filename": "20250903171848_NUS Buffet Response Team_40347.jpg",
-        "path": "20250903/20250903171848_NUS Buffet Response Team_40347.jpg"
-      }
-    ]
-  },
-  {
-    "ts_utc": "2025-09-03T09:18:48.000Z",
-    "ts_tz": "2025-09-03T17:18:48+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40346,
-    "from": {
-      "id": "146664262",
-      "username": "Tearstuds",
-      "first_name": "Shirlyn",
-      "last_name": null
-    },
-    "text": "CELC has buffet food leftovers, feel free to come and take - organiser approved. Buffet will be cleared at 530pm",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-03T09:21:59.000Z",
-    "edit_ts_tz": "2025-09-03T17:21:59+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6179416538679985845",
-        "filename": "20250903171848_NUS Buffet Response Team_40346.jpg",
-        "path": "20250903/20250903171848_NUS Buffet Response Team_40346.jpg"
-      }
-    ]
-  },
-  {
     "ts_utc": "2025-09-03T09:05:59.000Z",
     "ts_tz": "2025-09-03T17:05:59+08:00",
     "chat_id": "1083087143",
