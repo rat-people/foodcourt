@@ -65,8 +65,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": "event organiser from NUS-ISS",
+        "urgency_level": "medium",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
@@ -85,7 +85,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR above science canteen"
+        "landmark": "outside mpr above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -137,7 +137,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -199,7 +199,7 @@
         "raw": "lt27 foyer",
         "campus_zone": "Kent Ridge",
         "building": "LT27",
-        "room_or_lt": null,
+        "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
       },
@@ -238,8 +238,8 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "Kent Ridge",
-        "building": "COM1",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -252,8 +252,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "around 2+",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:00"
       },
       "availability": "unknown",
       "policies": {
@@ -280,7 +280,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "Level 1",
         "landmark": null
       },
       "content": {
@@ -317,7 +317,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "still lot of chicken leg",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -439,7 +439,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -499,7 +499,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago there was 3left",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -514,7 +514,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
+        "clearing_time_relative": "10 mins ago",
         "clearing_time_exact": null
       },
       "availability": "few",
