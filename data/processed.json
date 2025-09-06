@@ -4,7 +4,7 @@
       "location": {
         "raw": "S11 Level 2 corridor",
         "campus_zone": "Kent Ridge",
-        "building": "S11",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "corridor"
@@ -18,7 +18,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": "by 2pm",
-        "clearing_time_exact": "14:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -148,7 +148,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -242,7 +242,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -268,7 +268,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event from NUS-ISS",
+        "food_source": "event organiser from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -287,7 +287,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside mpr above science canteen"
+        "landmark": "outside MPR above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -382,7 +382,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -441,9 +441,9 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": "COM3",
+        "building": null,
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": null
       },
       "content": {
