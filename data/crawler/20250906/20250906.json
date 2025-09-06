@@ -1,5 +1,45 @@
 [
   {
+    "ts_utc": "2025-09-06T05:41:34.000Z",
+    "ts_tz": "2025-09-06T13:41:34+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40374,
+    "from": {
+      "id": "8087758899",
+      "username": null,
+      "first_name": "LI",
+      "last_name": "Minghao"
+    },
+    "text": "still lot of chicken leg i think",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-06T05:40:38.000Z",
+    "ts_tz": "2025-09-06T13:40:38+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40373,
+    "from": {
+      "id": "7305528480",
+      "username": "thestubbornrain247",
+      "first_name": "Rain",
+      "last_name": null
+    },
+    "text": "Still have?",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-09-06T05:16:50.000Z",
     "ts_tz": "2025-09-06T13:16:50+08:00",
     "chat_id": "1083087143",
@@ -68,9 +108,9 @@
     "text": "Food available at S4 Level 1, clearing at 2pm",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-06T05:42:32.000Z",
+    "edit_ts_tz": "2025-09-06T13:42:32+08:00",
     "media": [
       {
         "type": "photo",
@@ -95,9 +135,9 @@
     "text": "Hi leftover catering at CLB Level 3, will be cleared around 2+",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-06T05:42:25.000Z",
+    "edit_ts_tz": "2025-09-06T13:42:25+08:00",
     "media": [
       {
         "type": "photo",
