@@ -66,7 +66,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -101,13 +101,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "17:45"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -226,7 +226,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "NUS-ISS",
         "risk_notice": null
       }
@@ -399,8 +399,8 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "Kent Ridge",
-        "building": null,
+        "campus_zone": "unknown",
+        "building": "CLB",
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -562,10 +562,10 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "LT28",
-        "room_or_lt": null,
+        "building": "Science Canteen (non-aircon)",
+        "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -588,8 +588,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:30pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:30"
       },
       "availability": "cleared",
       "policies": {
@@ -656,5 +656,42 @@
     "createdAt": "2025-09-06T06:30:49.000Z",
     "lastUpdated": "2025-09-06T06:31:40.000Z",
     "prompts": "Halal bento at SRC level 2 outside  flavours"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": "in 10 mins",
+        "clearing_time_exact": null
+      },
+      "availability": "few",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-09-06T06:55:44.000Z",
+    "lastUpdated": "2025-09-06T06:55:44.000Z",
+    "prompts": "should be gone by now last i check 10mins ago there was 3left"
   }
 ]
