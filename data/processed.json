@@ -66,7 +66,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event",
+        "food_source": "event from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -239,7 +239,7 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": "COM3",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -317,10 +317,49 @@
   {
     "entity": {
       "location": {
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [
+          "chicken leg"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "lots",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-09-06T05:41:34.000Z",
+    "lastUpdated": "2025-09-06T05:41:34.000Z",
+    "prompts": "still lot of chicken leg i think"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "Md6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD6",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -371,18 +410,18 @@
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice"
+          "szechuan fried rice",
+          "stir fried long bean",
+          "sambal egg"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
-          "stir fried long bean",
-          "sambal egg",
           "vegetarian bentos"
         ]
       },
@@ -460,7 +499,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
