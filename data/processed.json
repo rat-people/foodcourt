@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -66,7 +66,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event",
+        "food_source": "NUS-ISS",
         "risk_notice": null
       }
     },
@@ -85,7 +85,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR above science canteen"
+        "landmark": "outside mpr above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -241,7 +241,7 @@
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 3",
+        "floor": "level 3",
         "landmark": null
       },
       "content": {
@@ -317,7 +317,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "still lot of chicken leg",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -434,8 +434,7 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
