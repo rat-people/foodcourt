@@ -65,8 +65,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
-        "food_source": "event from NUS-ISS",
+        "urgency_level": "low",
+        "food_source": "event organiser from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -85,7 +85,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside mpr above science canteen"
+        "landmark": "outside MPR above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -137,7 +137,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -238,10 +238,10 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 3",
+        "floor": "level 3",
         "landmark": null
       },
       "content": {
@@ -365,7 +365,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -427,8 +427,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -439,7 +439,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
