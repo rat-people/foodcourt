@@ -59,13 +59,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
-      "availability": "few",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": "NUS-ISS",
         "risk_notice": null
       }
@@ -85,7 +85,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside mpr above science canteen"
+        "landmark": "outside MPR above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -239,9 +239,9 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": "COM2",
+        "building": "unknown",
         "room_or_lt": null,
-        "floor": "Level 3",
+        "floor": "level 3",
         "landmark": null
       },
       "content": {
@@ -278,7 +278,7 @@
       "location": {
         "raw": "S4 Level 1",
         "campus_zone": "Kent Ridge",
-        "building": "S4",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -401,7 +401,7 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT28",
         "room_or_lt": "LT28",
         "floor": null,
         "landmark": "outside science"
@@ -498,6 +498,45 @@
   {
     "entity": {
       "location": {
+        "raw": "New Message",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "few",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250906/20250906145824_NUS Buffet Response Team_40387.jpg"
+    ],
+    "createdAt": "2025-09-06T06:48:57.000Z",
+    "lastUpdated": "2025-09-06T06:58:24.000Z",
+    "prompts": "Any left?\nNew Message: there's like 1 left"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
@@ -513,7 +552,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -522,7 +561,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
