@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "cleared",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -65,8 +65,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
-        "food_source": "event organiser from NUS-ISS",
+        "urgency_level": null,
+        "food_source": "event from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -180,8 +180,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
-        "food_source": "NUS Geog Dept",
+        "urgency_level": null,
+        "food_source": "Organised by NUS Geog Dept",
         "risk_notice": null
       }
     },
@@ -384,7 +384,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -401,10 +401,10 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "LT28",
+        "building": "Science Canteen (non-aircon)",
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -439,7 +439,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -514,7 +514,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
+        "clearing_time_relative": "10 mins ago",
         "clearing_time_exact": null
       },
       "availability": "few",
