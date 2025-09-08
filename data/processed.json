@@ -2,43 +2,39 @@
   {
     "entity": {
       "location": {
-        "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "raw": "unknown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 1",
-        "landmark": "cove of excellence"
+        "floor": null,
+        "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "bento"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "NUS-ISS",
+        "food_source": null,
         "risk_notice": null
       }
     },
-    "media": [
-      "20250905/20250905141430_NUS Buffet Response Team_40357.jpg"
-    ],
-    "createdAt": "2025-09-05T06:14:30.000Z",
+    "media": [],
+    "createdAt": "2025-09-05T06:27:32.000Z",
     "lastUpdated": "2025-09-05T06:27:32.000Z",
-    "prompts": "Event organiser from NUS-ISS. We have around 150 packs of bento leftover from an event. Do come over and collect. It's at level 1 cove of excellence.\nNew Message: We will clear by 3pm"
+    "prompts": "We will clear by 3pm"
   },
   {
     "entity": {
@@ -100,7 +96,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -202,7 +198,7 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": "COM2",
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -215,8 +211,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
+        "clearing_time_relative": "around 2+",
+        "clearing_time_exact": null
       },
       "availability": "unknown",
       "policies": {
@@ -328,7 +324,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -364,10 +360,10 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
+        "building": null,
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -390,8 +386,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:30pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "at 2:30pm",
+        "clearing_time_exact": "14:30"
       },
       "availability": "cleared",
       "policies": {
@@ -402,7 +398,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -486,7 +482,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -508,19 +504,21 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento",
-          "halal vegetarian bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal bentos",
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
