@@ -44,8 +44,8 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "Kent Ridge",
-        "building": "COM1",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -123,6 +123,45 @@
   {
     "entity": {
       "location": {
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [
+          "chicken leg"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "lots",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-09-06T05:41:34.000Z",
+    "lastUpdated": "2025-09-06T05:41:34.000Z",
+    "prompts": "still lot of chicken leg i think"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "Md6",
         "campus_zone": "Outram",
         "building": null,
@@ -151,7 +190,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -168,27 +207,28 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "Science Canteen (non-aircon)",
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice"
+          "szechuan fried rice",
+          "stir fried long bean",
+          "sambal egg"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
-          "stir fried long bean",
-          "sambal egg"
+          "vegetarian bentos"
         ]
       },
       "organizer_approved": true,
@@ -205,8 +245,8 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": "I'm the organizer",
+        "urgency_level": "low",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -311,13 +351,12 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
-          "bentos"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "halal",
+          "halal bentos",
           "halal vegetarian bento"
         ]
       },
@@ -330,8 +369,7 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -359,12 +397,13 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "potato"
+        ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "fresh apples",
-          "potato"
+          "fresh apples"
         ]
       },
       "organizer_approved": null,
