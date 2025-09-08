@@ -7,7 +7,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR above science canteen"
+        "landmark": "above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -161,7 +161,7 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -202,7 +202,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 1",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -239,45 +239,6 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "chicken leg"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "low",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-06T05:41:34.000Z",
-    "lastUpdated": "2025-09-06T05:41:34.000Z",
-    "prompts": "still lot of chicken leg i think"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "Md6",
         "campus_zone": "Outram",
         "building": null,
@@ -287,7 +248,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -323,7 +284,7 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "LT28",
+        "building": null,
         "room_or_lt": "LT28",
         "floor": null,
         "landmark": "outside science"
@@ -332,18 +293,18 @@
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice",
-          "stir fried long bean",
-          "sambal egg"
+          "szechuan fried rice"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
+          "stir fried long bean",
+          "sambal egg",
           "vegetarian bentos"
         ]
       },
@@ -436,7 +397,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -445,7 +406,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -467,7 +428,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -480,7 +441,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -501,5 +462,48 @@
     "createdAt": "2025-09-08T05:52:19.000Z",
     "lastUpdated": "2025-09-08T05:52:19.000Z",
     "prompts": "6 Halal bentos and 1 halal vegetarian bento at SRC level 2 near flavours"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "S15 Level 5",
+        "campus_zone": "Kent Ridge",
+        "building": "S15",
+        "room_or_lt": null,
+        "floor": "Level 5",
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "fresh apples",
+          "2 potato"
+        ]
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250908/20250908174107_NUS Buffet Response Team_40402.jpg",
+      "20250908/20250908174107_NUS Buffet Response Team_40401.jpg"
+    ],
+    "createdAt": "2025-09-08T09:41:07.000Z",
+    "lastUpdated": "2025-09-08T09:41:07.000Z",
+    "prompts": "Free fresh apples and 2 potato\nS15 Level 5"
   }
 ]
