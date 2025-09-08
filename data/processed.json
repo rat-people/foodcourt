@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside MPR above science canteen!",
+        "raw": "Outside MPR above science canteen",
         "campus_zone": "Kent Ridge",
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
@@ -59,7 +59,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -160,10 +160,10 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": null
       },
       "content": {
@@ -287,7 +287,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -323,45 +323,44 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
-        "room_or_lt": "LT28",
+        "building": "LT28",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
           "szechuan fried rice",
-          "stir fried long bean"
+          "stir fried long bean",
+          "sambal egg"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
-          "sambal egg",
           "vegetarian bentos"
         ]
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "cleared",
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "14:30"
       },
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -421,7 +420,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -445,7 +444,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -467,25 +466,23 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento",
+          "halal vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "halal vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {

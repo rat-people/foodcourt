@@ -124,26 +124,6 @@
     "media": []
   },
   {
-    "ts_utc": "2025-09-05T10:31:35.000Z",
-    "ts_tz": "2025-09-05T18:31:35+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40363,
-    "from": {
-      "id": "7716056973",
-      "username": null,
-      "first_name": "leo",
-      "last_name": "micheal"
-    },
-    "text": "is it above Frontier Canteen？",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-05T10:35:05.000Z",
-    "edit_ts_tz": "2025-09-05T18:35:05+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-09-05T10:24:40.000Z",
     "ts_tz": "2025-09-05T18:24:40+08:00",
     "chat_id": "1083087143",
