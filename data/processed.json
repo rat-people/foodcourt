@@ -2,122 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside MPR above science canteen",
-        "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": "above science canteen"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250905/20250905182440_NUS Buffet Response Team_40362.jpg"
-    ],
-    "createdAt": "2025-09-05T10:24:40.000Z",
-    "lastUpdated": "2025-09-05T10:24:40.000Z",
-    "prompts": "Outside MPR above science canteen! Still a lot of food left need to finish\n\nOrganiser approved 👍🏻"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-05T10:44:16.000Z",
-    "lastUpdated": "2025-09-05T10:44:16.000Z",
-    "prompts": "Not much left liao"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "As2 2nd storey, next to gis lab",
-        "campus_zone": "Kent Ridge",
-        "building": "AS2",
-        "room_or_lt": null,
-        "floor": "2nd storey",
-        "landmark": "next to gis lab"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "20:15"
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": "NUS Geog Dept",
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250905/20250905185131_NUS Buffet Response Team_40365.jpg",
-      "20250905/20250905185212_NUS Buffet Response Team_40366.jpg"
-    ],
-    "createdAt": "2025-09-05T10:51:31.000Z",
-    "lastUpdated": "2025-09-05T10:52:38.000Z",
-    "prompts": "As2 2nd storey, next to gis lab still alot of food left!! Organised by NUS Geog Dept\nNew Message: let's go guys, it's just beside the Earth Lab in Geog would be cleared by 8.15pm"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "lt27 foyer",
         "campus_zone": "Kent Ridge",
         "building": "LT27",
@@ -265,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -287,7 +171,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -306,7 +190,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -323,10 +207,10 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "LT28",
-        "room_or_lt": null,
+        "building": "Science Canteen (non-aircon)",
+        "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
@@ -349,18 +233,19 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "ASAP",
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -420,7 +305,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -444,7 +329,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -466,12 +351,13 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento",
-          "halal vegetarian bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -482,7 +368,8 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
@@ -510,14 +397,13 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
-        "desserts_snacks": [
-          "apples"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fresh apples",
+          "potato"
+        ]
       },
       "organizer_approved": null,
       "time": {
