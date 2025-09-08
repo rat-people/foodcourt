@@ -44,7 +44,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside MPR"
+        "landmark": "outside MPR above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -198,7 +198,7 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -239,7 +239,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 1",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -324,7 +324,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -343,7 +343,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -386,8 +386,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:30pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:30"
       },
       "availability": "cleared",
       "policies": {
@@ -517,12 +517,11 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
