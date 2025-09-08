@@ -44,8 +44,8 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
-        "building": "CLB",
+        "campus_zone": "Kent Ridge",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -86,7 +86,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 1",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -240,8 +240,7 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -320,7 +319,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -364,7 +363,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
