@@ -2,45 +2,8 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-05T05:27:33.000Z",
-    "lastUpdated": "2025-09-05T05:27:33.000Z",
-    "prompts": "cleared"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -59,14 +22,14 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "15:00"
       },
-      "availability": "few",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
         "urgency_level": "medium",
-        "food_source": "event organiser from NUS-ISS",
+        "food_source": "event",
         "risk_notice": null
       }
     },
@@ -180,7 +143,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -238,10 +201,10 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "COM1",
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": null
       },
       "content": {
@@ -280,7 +243,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "Level 1",
         "landmark": null
       },
       "content": {
@@ -317,7 +280,7 @@
   {
     "entity": {
       "location": {
-        "raw": "still lot of chicken leg",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -401,10 +364,10 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
+        "building": null,
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
@@ -427,8 +390,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
