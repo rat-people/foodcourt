@@ -44,9 +44,9 @@
       "reply_to_message_id": 40383,
       "reply_to_top_message_id": null
     },
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-07T16:44:44.000Z",
+    "edit_ts_tz": "2025-09-08T00:44:44+08:00",
     "media": []
   },
   {
@@ -64,9 +64,9 @@
     "text": "should be gone by now last i check 10mins ago there was 3left",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-07T16:44:41.000Z",
+    "edit_ts_tz": "2025-09-08T00:44:41+08:00",
     "media": []
   },
   {
@@ -84,9 +84,9 @@
     "text": "Any left?",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-07T16:44:39.000Z",
+    "edit_ts_tz": "2025-09-08T00:44:39+08:00",
     "media": []
   },
   {
@@ -131,9 +131,9 @@
     "text": null,
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-07T16:44:26.000Z",
+    "edit_ts_tz": "2025-09-08T00:44:26+08:00",
     "media": [
       {
         "type": "photo",

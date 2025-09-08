@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -65,7 +65,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": "event organiser from NUS-ISS",
         "risk_notice": null
       }
@@ -85,7 +85,7 @@
         "building": "Science Canteen (non-aircon)",
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside mpr above science canteen"
+        "landmark": "above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -216,7 +216,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -239,9 +239,9 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": null
       },
       "content": {
@@ -252,8 +252,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "around 2+",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:00"
       },
       "availability": "unknown",
       "policies": {
@@ -401,34 +401,34 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
+        "building": null,
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
           "szechuan fried rice",
           "stir fried long bean",
-          "sambal egg"
+          "fried tau kwa"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "sambal egg",
           "vegetarian bentos"
         ]
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -439,7 +439,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -499,7 +499,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -523,7 +523,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
