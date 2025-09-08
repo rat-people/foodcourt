@@ -45,7 +45,7 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "CLB",
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -58,8 +58,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
+        "clearing_time_relative": "around 2+",
+        "clearing_time_exact": null
       },
       "availability": "unknown",
       "policies": {
@@ -190,7 +190,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -233,8 +233,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:30pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:30"
       },
       "availability": "cleared",
       "policies": {
@@ -245,7 +245,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -320,7 +320,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -351,12 +351,11 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "halal bentos",
           "halal vegetarian bento"
         ]
       },
@@ -365,7 +364,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -397,13 +396,12 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "fresh apples"
+          "fresh apples",
+          "potato"
         ]
       },
       "organizer_approved": null,
