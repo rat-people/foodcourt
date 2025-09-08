@@ -40,7 +40,7 @@
     "entity": {
       "location": {
         "raw": "level 1 cove of excellence",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 1",
@@ -66,7 +66,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "event organiser from NUS-ISS",
+        "food_source": "event from NUS-ISS",
         "risk_notice": null
       }
     },
@@ -137,7 +137,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -180,7 +180,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": "NUS Geog Dept",
         "risk_notice": null
       }
@@ -238,8 +238,8 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "COM1",
         "room_or_lt": null,
         "floor": "level 3",
         "landmark": null
@@ -317,8 +317,8 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
+        "raw": "Md6",
+        "campus_zone": "Outram",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -326,46 +326,7 @@
       },
       "content": {
         "main_dishes": [
-          "chicken leg"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-06T05:41:34.000Z",
-    "lastUpdated": "2025-09-06T05:41:34.000Z",
-    "prompts": "still lot of chicken leg i think"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "Md6",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": "MD6",
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "bento"
+          "bento boxes"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -412,7 +373,8 @@
           "ayam penyet",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice"
+          "szechuan fried rice",
+          "stir fried long bean"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -420,7 +382,6 @@
           "long bean & carrots",
           "cucumber & tomatoes",
           "fried tau kwa",
-          "stir fried long bean",
           "sambal egg",
           "vegetarian bentos"
         ]
@@ -439,7 +400,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
