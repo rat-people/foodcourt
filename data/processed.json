@@ -17,46 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "few",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250906/20250906145824_NUS Buffet Response Team_40387.jpg"
-    ],
-    "createdAt": "2025-09-06T06:48:57.000Z",
-    "lastUpdated": "2025-09-06T06:58:24.000Z",
-    "prompts": "Any left?\nNew Message: there's like 1 left"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "in 10 mins",
+        "clearing_time_relative": "10 mins ago",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -87,25 +48,23 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento",
+          "halal vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "halal vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -133,14 +92,13 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
-        "desserts_snacks": [
-          "apples"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fresh apples",
+          "potato"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -169,7 +127,7 @@
   {
     "entity": {
       "location": {
-        "raw": "bukit timah campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -181,7 +139,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "grain catering"
+          "Grain catering"
         ]
       },
       "organizer_approved": null,
@@ -195,7 +153,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
