@@ -17,6 +17,45 @@
       },
       "organizer_approved": null,
       "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "few",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250906/20250906145824_NUS Buffet Response Team_40387.jpg"
+    ],
+    "createdAt": "2025-09-06T06:48:57.000Z",
+    "lastUpdated": "2025-09-06T06:58:24.000Z",
+    "prompts": "Any left?\nNew Message: there's like 1 left"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
         "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
@@ -26,7 +65,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -48,19 +87,20 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento",
-          "halal vegetarian bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -93,14 +133,14 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
+        "main_dishes": [
           "potato"
         ],
+        "desserts_snacks": [
+          "apples"
+        ],
         "drinks": [],
-        "other_items": [
-          "fresh apples"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -155,7 +195,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
