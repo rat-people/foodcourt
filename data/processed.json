@@ -45,43 +45,28 @@
   {
     "entity": {
       "location": {
-        "raw": "outside science LT28",
-        "campus_zone": "Kent Ridge",
-        "building": "Science",
-        "room_or_lt": "LT28",
+        "raw": "unknown",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "chicken rice",
-          "ayam penyet",
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
-          "nasi lemak",
-          "rendang chicken",
-          "szechuan fried rice",
-          "stir fried long bean",
-          "sambal egg"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "vegetarian bentos"
-        ]
+        "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
-        "dietary_flags": [
-          "halal"
-        ]
+        "dietary_flags": []
       },
       "misc": {
         "urgency_level": null,
@@ -89,12 +74,10 @@
         "risk_notice": null
       }
     },
-    "media": [
-      "20250906/20250906134839_NUS Buffet Response Team_40377.jpg"
-    ],
-    "createdAt": "2025-09-06T05:48:39.000Z",
+    "media": [],
+    "createdAt": "2025-09-06T06:02:57.000Z",
     "lastUpdated": "2025-09-06T06:02:57.000Z",
-    "prompts": "halal bentos available outside science LT28!! \n\nmenu 1 \nchicken rice \nayam penyet \nlong bean & carrots \ncucumber & tomatoes \nfried tau kwa \n\nmenu 2 \nnasi lemak \nrendang chicken \nszechuan fried rice \nstir fried long bean \nsambal egg \n\nthere r some vegetarian bentos left as well \n\nclearing at 2.30pm! \n\n(i’m the organizer)\nNew Message: update: everything is cleared, thanks!"
+    "prompts": "update: everything is cleared, thanks!"
   },
   {
     "entity": {
@@ -144,7 +127,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago there was 3left",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -168,7 +151,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -190,7 +173,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -203,11 +186,12 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
@@ -231,18 +215,17 @@
         "campus_zone": "Kent Ridge",
         "building": "S15",
         "room_or_lt": null,
-        "floor": "level 5",
+        "floor": "Level 5",
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
-        "desserts_snacks": [
-          "apples"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fresh apples",
+          "potato"
+        ]
       },
       "organizer_approved": null,
       "time": {
