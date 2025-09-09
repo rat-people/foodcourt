@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago",
+        "raw": "last i check 10mins ago there was 3left",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
+        "clearing_time_relative": "10 mins ago",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -48,14 +48,12 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento",
+          "halal vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "halal bento",
-          "halal vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -129,7 +127,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -141,7 +139,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "grain catering"
+          "Grain catering"
         ]
       },
       "organizer_approved": null,
