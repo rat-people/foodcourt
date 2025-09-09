@@ -4,9 +4,9 @@
       "location": {
         "raw": "CLB Level 3",
         "campus_zone": "Kent Ridge",
-        "building": "COM3",
+        "building": null,
         "room_or_lt": null,
-        "floor": "level 3",
+        "floor": "Level 3",
         "landmark": null
       },
       "content": {
@@ -45,7 +45,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 1",
+        "floor": "Level 1",
         "landmark": null
       },
       "content": {
@@ -71,12 +71,10 @@
       }
     },
     "media": [
-      "20250906/20250906131649_NUS Buffet Response Team_40371.jpg",
-      "20250906/20250906131649_NUS Buffet Response Team_40370.jpg",
-      "20250906/20250906131650_NUS Buffet Response Team_40372.jpg"
+      "20250906/20250906131649_NUS Buffet Response Team_40370.jpg"
     ],
     "createdAt": "2025-09-06T05:16:49.000Z",
-    "lastUpdated": "2025-09-06T05:16:50.000Z",
+    "lastUpdated": "2025-09-06T05:16:49.000Z",
     "prompts": "Food available at S4 Level 1, clearing at 2pm"
   },
   {
@@ -124,7 +122,7 @@
         "raw": "Md6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "Md6",
         "floor": null,
         "landmark": null
       },
@@ -149,7 +147,7 @@
         ]
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -166,27 +164,27 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "LT28",
+        "building": "Science Canteen (non-aircon)",
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside science"
+        "landmark": "outside"
       },
       "content": {
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice"
+          "szechuan fried rice",
+          "stir fried long bean",
+          "sambal egg"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
-          "stir fried long bean",
-          "sambal egg",
           "vegetarian bentos"
         ]
       },
@@ -264,7 +262,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -279,7 +277,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
