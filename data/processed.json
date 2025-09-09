@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -48,12 +48,12 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
-          "halal bentos"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "halal bento",
           "halal vegetarian bento"
         ]
       },
@@ -140,7 +140,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -154,7 +156,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "Grain catering",
+        "food_source": null,
         "risk_notice": null
       }
     },
