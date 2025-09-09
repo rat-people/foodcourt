@@ -2,123 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "CLB Level 3",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "Level 3",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "around 2+",
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250906/20250906123243_NUS Buffet Response Team_40369.jpg"
-    ],
-    "createdAt": "2025-09-06T04:32:43.000Z",
-    "lastUpdated": "2025-09-06T04:32:43.000Z",
-    "prompts": "Hi leftover catering at CLB Level 3, will be cleared around 2+"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "S4 Level 1",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "Level 1",
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250906/20250906131649_NUS Buffet Response Team_40370.jpg"
-    ],
-    "createdAt": "2025-09-06T05:16:49.000Z",
-    "lastUpdated": "2025-09-06T05:16:49.000Z",
-    "prompts": "Food available at S4 Level 1, clearing at 2pm"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "chicken leg"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-06T05:41:34.000Z",
-    "lastUpdated": "2025-09-06T05:41:34.000Z",
-    "prompts": "still lot of chicken leg i think"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "Md6",
         "campus_zone": "Outram",
         "building": null,
@@ -147,7 +30,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -164,7 +47,7 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
+        "building": "Science",
         "room_or_lt": "LT28",
         "floor": null,
         "landmark": "outside"
@@ -197,12 +80,11 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -262,7 +144,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago there was 3left",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -286,7 +168,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -308,7 +190,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -349,17 +231,18 @@
         "campus_zone": "Kent Ridge",
         "building": "S15",
         "room_or_lt": null,
-        "floor": "Level 5",
+        "floor": "level 5",
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "fresh apples",
+        "main_dishes": [
           "potato"
-        ]
+        ],
+        "desserts_snacks": [
+          "apples"
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
