@@ -3,8 +3,8 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "Kent Ridge",
-        "building": "COM1",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 3",
         "landmark": null
@@ -166,41 +166,40 @@
       "location": {
         "raw": "outside science LT28",
         "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
+        "building": "LT28",
         "room_or_lt": "LT28",
         "floor": null,
-        "landmark": "outside"
+        "landmark": "outside science"
       },
       "content": {
         "main_dishes": [
           "chicken rice",
           "ayam penyet",
-          "long bean & carrots",
-          "cucumber & tomatoes",
-          "fried tau kwa",
           "nasi lemak",
           "rendang chicken",
-          "szechuan fried rice",
-          "stir fried long bean",
-          "sambal egg"
+          "szechuan fried rice"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "long bean & carrots",
+          "cucumber & tomatoes",
+          "fried tau kwa",
+          "stir fried long bean",
+          "sambal egg",
           "vegetarian bentos"
         ]
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -264,7 +263,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -315,6 +314,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "halal bentos",
           "halal vegetarian bento"
         ]
       },
@@ -327,8 +327,7 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
