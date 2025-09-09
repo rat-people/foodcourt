@@ -1,0 +1,29 @@
+[
+  {
+    "ts_utc": "2025-09-09T05:59:15.000Z",
+    "ts_tz": "2025-09-09T13:59:15+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40416,
+    "from": {
+      "id": "23391778",
+      "username": "stephanienie",
+      "first_name": "Stephanie",
+      "last_name": "𓁹‿𓁹"
+    },
+    "text": "Grain catering at bukit timah campus, near staff lounge level 2. Kindly take before it gets cleared at 2.15pm!",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6196985488951329997",
+        "filename": "20250909135915_NUS Buffet Response Team_40416.jpg",
+        "path": "20250909/20250909135915_NUS Buffet Response Team_40416.jpg"
+      }
+    ]
+  }
+]

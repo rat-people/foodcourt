@@ -2,86 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "Md6",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "bento"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:00"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "halal"
-        ]
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250906/20250906134644_NUS Buffet Response Team_40375.jpg"
-    ],
-    "createdAt": "2025-09-06T05:46:44.000Z",
-    "lastUpdated": "2025-09-06T05:46:44.000Z",
-    "prompts": "Bento boxes available at Md6. All Halal and to be consumed by 2pm"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-06T06:02:57.000Z",
-    "lastUpdated": "2025-09-06T06:02:57.000Z",
-    "prompts": "update: everything is cleared, thanks!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "SRC level 2 outside flavours",
         "campus_zone": "Utown",
         "building": "UTown SRC",
@@ -151,7 +71,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -173,11 +93,12 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "halal bentos",
           "halal vegetarian bento"
         ]
       },
@@ -186,12 +107,11 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -250,5 +170,46 @@
     "createdAt": "2025-09-08T09:41:07.000Z",
     "lastUpdated": "2025-09-08T09:41:07.000Z",
     "prompts": "Free fresh apples and 2 potato\nS15 Level 5"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Bukit Timah Campus, near staff lounge level 2",
+        "campus_zone": "Bukit Timah",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level 2",
+        "landmark": "near staff lounge"
+      },
+      "content": {
+        "main_dishes": [
+          "grain catering"
+        ],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:15"
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "high",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250909/20250909135915_NUS Buffet Response Team_40416.jpg"
+    ],
+    "createdAt": "2025-09-09T05:59:15.000Z",
+    "lastUpdated": "2025-09-09T05:59:15.000Z",
+    "prompts": "Grain catering at bukit timah campus, near staff lounge level 2. Kindly take before it gets cleared at 2.15pm!"
   }
 ]
