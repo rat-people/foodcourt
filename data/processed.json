@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago there was 3left",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -48,19 +48,20 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento",
-          "halal vegetarian bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -139,7 +140,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "Grain catering"
+          "grain catering"
         ]
       },
       "organizer_approved": null,
@@ -153,7 +154,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
