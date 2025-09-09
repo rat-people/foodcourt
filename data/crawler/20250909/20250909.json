@@ -1,5 +1,188 @@
 [
   {
+    "ts_utc": "2025-09-09T12:44:05.000Z",
+    "ts_tz": "2025-09-09T20:44:05+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40427,
+    "from": {
+      "id": "7297713463",
+      "username": "JessieDu",
+      "first_name": "Yujie",
+      "last_name": "Du"
+    },
+    "text": "Still have?",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-09T12:36:35.000Z",
+    "ts_tz": "2025-09-09T20:36:35+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40426,
+    "from": {
+      "id": "262568947",
+      "username": "shoshin13",
+      "first_name": "z",
+      "last_name": null
+    },
+    "text": "clearing in the next 10 mins",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-09T12:36:09.000Z",
+    "ts_tz": "2025-09-09T20:36:09+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40425,
+    "from": {
+      "id": "180153304",
+      "username": "linkedin_hater",
+      "first_name": "Z",
+      "last_name": "Z"
+    },
+    "text": "Some food not deep fried i think u can take",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-09T12:37:35.000Z",
+    "edit_ts_tz": "2025-09-09T20:37:35+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-09T12:36:05.000Z",
+    "ts_tz": "2025-09-09T20:36:05+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40424,
+    "from": {
+      "id": "855296349",
+      "username": "Neutralears",
+      "first_name": "Neutralears",
+      "last_name": null
+    },
+    "text": "Spring roll is deep fried tho",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40422,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-09T12:36:04.000Z",
+    "ts_tz": "2025-09-09T20:36:04+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40423,
+    "from": {
+      "id": "262568947",
+      "username": "shoshin13",
+      "first_name": "z",
+      "last_name": null
+    },
+    "text": "ok thanks, some are here",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-09T12:56:20.000Z",
+    "edit_ts_tz": "2025-09-09T20:56:20+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-09T12:35:21.000Z",
+    "ts_tz": "2025-09-09T20:35:21+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40422,
+    "from": {
+      "id": "591325145",
+      "username": "pastawayed",
+      "first_name": "Yi Lin",
+      "last_name": "says no to deep fried"
+    },
+    "text": "wat time clear?",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-09T12:35:11.000Z",
+    "ts_tz": "2025-09-09T20:35:11+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40421,
+    "from": {
+      "id": "6493966532",
+      "username": "crabby1202",
+      "first_name": "Sean",
+      "last_name": "Tan"
+    },
+    "text": "Is it a lot?",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-09T12:35:08.000Z",
+    "ts_tz": "2025-09-09T20:35:08+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40420,
+    "from": {
+      "id": "632504311",
+      "username": null,
+      "first_name": "yj",
+      "last_name": "Wang"
+    },
+    "text": "too far",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-09T12:34:53.000Z",
+    "ts_tz": "2025-09-09T20:34:53+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40419,
+    "from": {
+      "id": "262568947",
+      "username": "shoshin13",
+      "first_name": "z",
+      "last_name": null
+    },
+    "text": "anyone coming?",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-09-09T12:29:22.000Z",
     "ts_tz": "2025-09-09T20:29:22+08:00",
     "chat_id": "1083087143",
@@ -14,9 +197,9 @@
     "text": "Soon kueh, veg spring rolls, and matcha croissants at MD11 Symposium Room Level 1; organizer approved",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-09T12:37:49.000Z",
+    "edit_ts_tz": "2025-09-09T20:37:49+08:00",
     "media": [
       {
         "type": "photo",
