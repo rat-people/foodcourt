@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "CLB Level 3",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 3",
@@ -17,8 +17,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "around 2+",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:00"
       },
       "availability": "unknown",
       "policies": {
@@ -45,7 +45,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "Level 1",
+        "floor": "level 1",
         "landmark": null
       },
       "content": {
@@ -82,7 +82,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "still lot of chicken leg",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -108,7 +108,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -124,13 +124,13 @@
         "raw": "Md6",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "Md6",
         "floor": null,
         "landmark": null
       },
       "content": {
         "main_dishes": [
-          "bento boxes"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -192,8 +192,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:30"
+        "clearing_time_relative": "2:30pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -204,7 +204,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -288,7 +288,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -315,6 +315,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "halal bentos",
           "halal vegetarian bento"
         ]
       },
@@ -327,8 +328,7 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -356,14 +356,13 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
-        "desserts_snacks": [
-          "apples"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fresh apples",
+          "potato"
+        ]
       },
       "organizer_approved": null,
       "time": {
