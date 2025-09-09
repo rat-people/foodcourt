@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -48,25 +48,24 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
-          "halal bento"
+          "halal bento",
+          "halal vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "halal vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
@@ -95,11 +94,12 @@
       },
       "content": {
         "main_dishes": [],
-        "desserts_snacks": [],
+        "desserts_snacks": [
+          "potato"
+        ],
         "drinks": [],
         "other_items": [
-          "fresh apples",
-          "potato"
+          "fresh apples"
         ]
       },
       "organizer_approved": null,
@@ -129,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -137,12 +137,12 @@
         "landmark": "near staff lounge"
       },
       "content": {
-        "main_dishes": [
-          "grain catering"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -155,8 +155,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
-        "food_source": "grain catering",
+        "urgency_level": null,
+        "food_source": null,
         "risk_notice": null
       }
     },
