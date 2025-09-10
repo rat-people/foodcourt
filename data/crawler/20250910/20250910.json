@@ -1,0 +1,22 @@
+[
+  {
+    "ts_utc": "2025-09-09T22:18:00.000Z",
+    "ts_tz": "2025-09-10T06:18:00+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40436,
+    "from": {
+      "id": "8437814729",
+      "username": null,
+      "first_name": "M",
+      "last_name": "D"
+    },
+    "text": "Still available ?",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  }
+]

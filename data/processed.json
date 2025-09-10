@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -61,12 +61,11 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -130,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "bukit timah campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -138,12 +137,12 @@
         "landmark": "near staff lounge"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "grain catering"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Grain catering"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -156,7 +155,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -183,7 +182,7 @@
         "desserts_snacks": [
           "kueh",
           "spring rolls",
-          "croissants"
+          "matcha croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -214,7 +213,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
