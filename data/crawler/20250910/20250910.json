@@ -1,25 +1,5 @@
 [
   {
-    "ts_utc": "2025-09-10T10:14:09.000Z",
-    "ts_tz": "2025-09-10T18:14:09+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40440,
-    "from": {
-      "id": "933888887",
-      "username": "Lenticularis",
-      "first_name": "Rubens",
-      "last_name": "Setiawan"
-    },
-    "text": "sial wkwkwk",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-10T10:15:03.000Z",
-    "edit_ts_tz": "2025-09-10T18:15:03+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-09-10T10:13:29.000Z",
     "ts_tz": "2025-09-10T18:13:29+08:00",
     "chat_id": "1083087143",
@@ -57,29 +37,9 @@
     "text": "whats the buffet going on outside lt27 science canteen 👀👀",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": []
-  },
-  {
-    "ts_utc": "2025-09-10T08:47:39.000Z",
-    "ts_tz": "2025-09-10T16:47:39+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40437,
-    "from": {
-      "id": "8144463206",
-      "username": null,
-      "first_name": "Asf",
-      "last_name": null
-    },
-    "text": "Message @Li_lly01",
-    "is_reply": false,
-    "reply": null,
     "edited": true,
-    "edit_ts_utc": "2025-09-10T08:48:00.000Z",
-    "edit_ts_tz": "2025-09-10T16:48:00+08:00",
+    "edit_ts_utc": "2025-09-10T10:43:05.000Z",
+    "edit_ts_tz": "2025-09-10T18:43:05+08:00",
     "media": []
   }
 ]
