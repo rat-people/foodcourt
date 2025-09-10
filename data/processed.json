@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago there was 3left",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -61,7 +61,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -94,13 +94,14 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "fresh apples",
+        "main_dishes": [
           "potato"
-        ]
+        ],
+        "desserts_snacks": [
+          "apples"
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -129,7 +130,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "Bukit Timah Campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -141,7 +142,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "Grain catering"
+          "grain catering"
         ]
       },
       "organizer_approved": null,
@@ -155,7 +156,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -172,8 +173,8 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": "MD11",
+        "building": "MD",
+        "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
       },
@@ -198,7 +199,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -213,7 +214,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -276,7 +277,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
