@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -61,7 +61,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -97,7 +97,7 @@
           "potato"
         ],
         "desserts_snacks": [
-          "apples"
+          "fresh apples"
         ],
         "drinks": [],
         "other_items": []
@@ -129,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -155,8 +155,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
-        "food_source": "Grain catering",
+        "urgency_level": null,
+        "food_source": null,
         "risk_notice": null
       }
     },
