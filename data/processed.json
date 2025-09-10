@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -48,8 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -130,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "bukit timah campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -141,9 +140,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Grain catering"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -157,7 +154,7 @@
       },
       "misc": {
         "urgency_level": "high",
-        "food_source": null,
+        "food_source": "Grain catering",
         "risk_notice": null
       }
     },
@@ -214,7 +211,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -225,7 +222,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "food not deep fried"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -275,7 +274,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -304,7 +303,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": "from 8pm onwards",
-        "clearing_time_exact": "20:00"
+        "clearing_time_exact": null
       },
       "availability": "unknown",
       "policies": {
