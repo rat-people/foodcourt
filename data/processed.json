@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -48,20 +48,19 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento",
+          "halal vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "halal vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -140,11 +139,13 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "before it gets cleared",
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -153,8 +154,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
-        "food_source": "Grain catering",
+        "urgency_level": "medium",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -170,7 +171,7 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -179,8 +180,8 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "veg spring rolls",
-          "matcha croissants"
+          "spring rolls",
+          "croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -222,9 +223,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "food not deep fried"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -274,7 +273,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -303,7 +302,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": "from 8pm onwards",
-        "clearing_time_exact": null
+        "clearing_time_exact": "20:00"
       },
       "availability": "unknown",
       "policies": {
@@ -312,7 +311,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "Science Club event",
+        "food_source": null,
         "risk_notice": null
       }
     },

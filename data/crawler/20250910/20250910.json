@@ -14,9 +14,9 @@
     "text": "Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-10T11:41:55.000Z",
+    "edit_ts_tz": "2025-09-10T19:41:55+08:00",
     "media": [
       {
         "type": "photo",
