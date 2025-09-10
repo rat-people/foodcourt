@@ -117,9 +117,9 @@
     "text": "wat time clear?",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-10T04:42:24.000Z",
+    "edit_ts_tz": "2025-09-10T12:42:24+08:00",
     "media": []
   },
   {
