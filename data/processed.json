@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -48,19 +48,20 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento",
-          "halal vegetarian bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -92,13 +93,14 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "fresh apples",
+        "main_dishes": [
           "potato"
-        ]
+        ],
+        "desserts_snacks": [
+          "apples"
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -135,9 +137,7 @@
         "landmark": "near staff lounge"
       },
       "content": {
-        "main_dishes": [
-          "grain catering"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": []
@@ -153,8 +153,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": null,
+        "urgency_level": "high",
+        "food_source": "Grain catering",
         "risk_notice": null
       }
     },
@@ -170,7 +170,7 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -211,7 +211,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -223,7 +223,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "Some food not deep fried"
+          "food"
         ]
       },
       "organizer_approved": null,
@@ -274,7 +274,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
