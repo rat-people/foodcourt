@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
+        "clearing_time_relative": "10 mins ago",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -48,12 +48,11 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "halal bento",
           "halal vegetarian bento"
         ]
       },
@@ -62,7 +61,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -94,13 +93,14 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "fresh apples",
+        "main_dishes": [
           "potato"
-        ]
+        ],
+        "desserts_snacks": [
+          "apples"
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -129,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Bukit Timah Campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -140,7 +140,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -211,7 +213,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
