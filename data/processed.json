@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -48,7 +48,8 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "bento",
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -61,12 +62,11 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -142,12 +142,12 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "Grain catering"
+          "grain catering"
         ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -156,7 +156,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -173,16 +173,15 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "kueh"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [
+          "kueh",
           "veg spring rolls",
           "matcha croissants"
         ],
@@ -215,7 +214,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
