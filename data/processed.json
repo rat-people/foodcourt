@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
+        "clearing_time_relative": "10 mins ago",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -61,11 +61,12 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
@@ -93,14 +94,13 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
-        "desserts_snacks": [
-          "fresh apples"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fresh apples",
+          "potato"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -137,12 +137,12 @@
         "landmark": "near staff lounge"
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "grain catering"
+        ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Grain catering"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -276,7 +276,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
