@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "last i check 10mins ago",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -61,11 +61,12 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
@@ -155,7 +156,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
