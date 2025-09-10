@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "10 mins ago",
+        "clearing_time_relative": "in 10 mins",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -61,7 +61,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -141,11 +141,13 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -155,7 +157,7 @@
       },
       "misc": {
         "urgency_level": "high",
-        "food_source": "Grain catering",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -171,15 +173,16 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "kueh"
+        ],
         "desserts_snacks": [
-          "kueh",
           "veg spring rolls",
           "matcha croissants"
         ],
@@ -275,7 +278,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -284,45 +287,6 @@
     "createdAt": "2025-09-09T12:36:35.000Z",
     "lastUpdated": "2025-09-09T12:36:35.000Z",
     "prompts": "clearing in the next 10 mins"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "LT27 Foyer",
-        "campus_zone": "Kent Ridge",
-        "building": "LT27",
-        "room_or_lt": "LT27",
-        "floor": null,
-        "landmark": "foyer"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": "from 8pm onwards",
-        "clearing_time_exact": "20:00"
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": "Science Club event",
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
-    ],
-    "createdAt": "2025-09-10T10:09:20.000Z",
-    "lastUpdated": "2025-09-10T12:22:12.000Z",
-    "prompts": "whats the buffet going on outside lt27 science canteen 👀👀\nNew Message: Science Club event, not open to Buffet Response yet. im the organiser\nNew Message: Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards\nNew Message: cleared!"
   },
   {
     "entity": {
@@ -345,7 +309,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -360,7 +324,7 @@
       "20250910/20250910204220_NUS Buffet Response Team_40444.jpg"
     ],
     "createdAt": "2025-09-10T12:42:20.000Z",
-    "lastUpdated": "2025-09-10T12:42:20.000Z",
-    "prompts": "Leftover food at COM3-MPH, need to clear ASAP"
+    "lastUpdated": "2025-09-10T13:03:58.000Z",
+    "prompts": "Leftover food at COM3-MPH, need to clear ASAP\nNew Message: All cleared."
   }
 ]
