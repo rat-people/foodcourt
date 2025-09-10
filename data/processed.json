@@ -48,11 +48,12 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
+          "halal bentos",
           "halal vegetarian bento"
         ]
       },
@@ -65,8 +66,7 @@
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -94,14 +94,13 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
-        "desserts_snacks": [
-          "apples"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fresh apples",
+          "potato"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -130,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Bukit Timah Campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -156,7 +155,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -173,15 +172,16 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "kueh"
+        ],
         "desserts_snacks": [
-          "kueh",
           "veg spring rolls",
           "matcha croissants"
         ],
@@ -199,7 +199,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -226,7 +226,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food not deep fried"
+          "food"
         ]
       },
       "organizer_approved": null,
@@ -277,7 +277,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
