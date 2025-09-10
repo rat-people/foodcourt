@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "last i check 10mins ago there was 3left",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -53,7 +53,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "halal bentos",
+          "halal bento",
           "halal vegetarian bento"
         ]
       },
@@ -62,7 +62,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -129,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "Bukit Timah Campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -140,9 +140,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "grain catering"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -155,8 +153,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": null,
+        "urgency_level": "high",
+        "food_source": "Grain catering",
         "risk_notice": null
       }
     },
@@ -178,10 +176,9 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "kueh"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [
+          "kueh",
           "veg spring rolls",
           "matcha croissants"
         ],
@@ -214,7 +211,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -226,7 +223,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food"
+          "food not deep fried"
         ]
       },
       "organizer_approved": null,
