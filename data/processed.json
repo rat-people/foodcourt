@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -48,17 +48,13 @@
       },
       "content": {
         "main_dishes": [
-          "bento",
-          "bento",
-          "bento",
-          "bento",
-          "bento",
-          "bento",
-          "halal vegetarian bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -132,7 +128,7 @@
   {
     "entity": {
       "location": {
-        "raw": "bukit timah campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -143,7 +139,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -157,7 +155,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "Grain catering",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -174,7 +172,7 @@
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": "Level 1",
         "landmark": null
       },
@@ -199,7 +197,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -214,7 +212,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -226,7 +224,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food not deep fried"
+          "Some food not deep fried"
         ]
       },
       "organizer_approved": null,
