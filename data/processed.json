@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -48,7 +48,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -129,7 +129,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -137,12 +137,12 @@
         "landmark": "near staff lounge"
       },
       "content": {
-        "main_dishes": [
-          "grain catering"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -181,7 +181,7 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "spring rolls",
+          "veg spring rolls",
           "matcha croissants"
         ],
         "drinks": [],
