@@ -1,5 +1,32 @@
 [
   {
+    "ts_utc": "2025-09-10T11:24:12.000Z",
+    "ts_tz": "2025-09-10T19:24:12+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40442,
+    "from": {
+      "id": "481710920",
+      "username": "aozwx",
+      "first_name": "Alvin",
+      "last_name": null
+    },
+    "text": "Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6199237288765017072",
+        "filename": "20250910192412_NUS Buffet Response Team_40442.jpg",
+        "path": "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-09-10T10:13:29.000Z",
     "ts_tz": "2025-09-10T18:13:29+08:00",
     "chat_id": "1083087143",
