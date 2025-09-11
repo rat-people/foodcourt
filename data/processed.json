@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -13,13 +13,11 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "Grain catering"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "before it gets cleared",
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -28,8 +26,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
-        "food_source": null,
+        "urgency_level": null,
+        "food_source": "Grain catering",
         "risk_notice": null
       }
     },
@@ -51,10 +49,11 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
+        "main_dishes": [
+          "soon kueh",
+          "veg spring rolls"
+        ],
         "desserts_snacks": [
-          "kueh",
-          "veg spring rolls",
           "matcha croissants"
         ],
         "drinks": [],
@@ -86,7 +85,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -149,7 +148,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
