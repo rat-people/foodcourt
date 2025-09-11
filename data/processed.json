@@ -92,7 +92,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -104,7 +104,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "grain catering"
+          "Grain catering"
         ]
       },
       "organizer_approved": null,
@@ -135,7 +135,7 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -239,7 +239,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -248,6 +248,45 @@
     "createdAt": "2025-09-09T12:36:35.000Z",
     "lastUpdated": "2025-09-09T12:36:35.000Z",
     "prompts": "clearing in the next 10 mins"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "LT27 Foyer",
+        "campus_zone": "Kent Ridge",
+        "building": "LT27",
+        "room_or_lt": "LT27",
+        "floor": null,
+        "landmark": "foyer"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": "from 8pm onwards",
+        "clearing_time_exact": "20:00"
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": "Science Club event",
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
+    ],
+    "createdAt": "2025-09-10T10:09:20.000Z",
+    "lastUpdated": "2025-09-10T12:22:12.000Z",
+    "prompts": "whats the buffet going on outside lt27 science canteen 👀👀\nNew Message: Science Club event, not open to Buffet Response yet. im the organiser\nNew Message: Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards\nNew Message: cleared!"
   },
   {
     "entity": {
