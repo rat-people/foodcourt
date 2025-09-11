@@ -2,53 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "SRC level 2 near flavours",
-        "campus_zone": "Utown",
-        "building": "UTown SRC",
-        "room_or_lt": null,
-        "floor": "level 2",
-        "landmark": "near flavours"
-      },
-      "content": {
-        "main_dishes": [
-          "halal bento"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "halal vegetarian bento"
-        ]
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": [
-          "halal",
-          "vegetarian"
-        ]
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250908/20250908135219_NUS Buffet Response Team_40400.jpg",
-      "20250908/20250908135219_NUS Buffet Response Team_40399.jpg"
-    ],
-    "createdAt": "2025-09-08T05:52:19.000Z",
-    "lastUpdated": "2025-09-08T05:52:19.000Z",
-    "prompts": "6 Halal bentos and 1 halal vegetarian bento at SRC level 2 near flavours"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "S15 Level 5",
         "campus_zone": "Kent Ridge",
         "building": "S15",
@@ -57,13 +10,14 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "fresh apples",
+        "main_dishes": [
           "potato"
-        ]
+        ],
+        "desserts_snacks": [
+          "apples"
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -92,7 +46,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -100,16 +54,14 @@
         "landmark": "near staff lounge"
       },
       "content": {
-        "main_dishes": [
-          "grain catering"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
         "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -118,8 +70,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
-        "food_source": null,
+        "urgency_level": null,
+        "food_source": "Grain catering",
         "risk_notice": null
       }
     },
@@ -144,7 +96,7 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "spring rolls",
+          "veg spring rolls",
           "matcha croissants"
         ],
         "drinks": [],
@@ -176,7 +128,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -255,7 +207,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
