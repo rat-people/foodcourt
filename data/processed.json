@@ -2,43 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "in 10 mins",
-        "clearing_time_exact": null
-      },
-      "availability": "few",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-06T06:55:44.000Z",
-    "lastUpdated": "2025-09-06T06:55:44.000Z",
-    "prompts": "should be gone by now last i check 10mins ago there was 3left"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "SRC level 2 near flavours",
         "campus_zone": "Utown",
         "building": "UTown SRC",
@@ -48,23 +11,25 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento",
-          "halal vegetarian bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
@@ -92,13 +57,14 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "fresh apples",
+        "main_dishes": [
           "potato"
-        ]
+        ],
+        "desserts_snacks": [
+          "apples"
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -138,9 +104,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "grain catering"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -154,7 +118,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": null,
+        "food_source": "Grain catering",
         "risk_notice": null
       }
     },
@@ -211,7 +175,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -222,9 +186,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "food not deep fried"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
