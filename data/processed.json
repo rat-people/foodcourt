@@ -10,13 +10,14 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "fresh apples",
+        "main_dishes": [
           "potato"
-        ]
+        ],
+        "desserts_snacks": [
+          "apples"
+        ],
+        "drinks": [],
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -45,7 +46,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Bukit Timah Campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -56,9 +57,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "grain catering"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -71,8 +70,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
-        "food_source": null,
+        "urgency_level": null,
+        "food_source": "Grain catering",
         "risk_notice": null
       }
     },
@@ -96,7 +95,7 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "soon kueh",
+          "kueh",
           "veg spring rolls",
           "matcha croissants"
         ],
@@ -129,7 +128,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -141,7 +140,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "Some food not deep fried"
+          "food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -247,7 +246,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "MPH",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -279,5 +278,50 @@
     "createdAt": "2025-09-10T12:42:20.000Z",
     "lastUpdated": "2025-09-10T13:03:58.000Z",
     "prompts": "Leftover food at COM3-MPH, need to clear ASAP\nNew Message: All cleared."
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "outside lt28",
+        "campus_zone": "Kent Ridge",
+        "building": null,
+        "room_or_lt": "LT28",
+        "floor": null,
+        "landmark": "outside"
+      },
+      "content": {
+        "main_dishes": [
+          "egg sandwiches",
+          "tuna sandwiches",
+          "cheese sandwiches"
+        ],
+        "desserts_snacks": [],
+        "drinks": [
+          "ice lemon tea"
+        ],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "lots",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250911/20250911162318_NUS Buffet Response Team_40450.jpg"
+    ],
+    "createdAt": "2025-09-11T08:23:18.000Z",
+    "lastUpdated": "2025-09-11T08:23:18.000Z",
+    "prompts": "free egg, tuna, cheese sandwiches  outside lt28 with a lot of ice lemon tea left. organiser approved."
   }
 ]
