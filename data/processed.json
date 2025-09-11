@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "bukit timah campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -13,7 +13,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -26,8 +28,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": "Grain catering",
+        "urgency_level": "low",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -84,7 +86,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -163,7 +165,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "MPH",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -208,9 +210,9 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
-          "tuna",
-          "cheese sandwiches"
+          "egg sandwich",
+          "tuna sandwich",
+          "cheese sandwich"
         ],
         "desserts_snacks": [],
         "drinks": [
