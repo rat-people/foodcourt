@@ -43,7 +43,7 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -52,8 +52,8 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "veg spring rolls",
-          "matcha croissants"
+          "spring rolls",
+          "croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -96,7 +96,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "some food not deep fried"
+          "food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -147,7 +147,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -209,7 +209,7 @@
       "content": {
         "main_dishes": [
           "egg sandwiches",
-          "tuna",
+          "tuna sandwiches",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
