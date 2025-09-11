@@ -28,7 +28,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -45,7 +45,7 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -86,7 +86,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -165,7 +165,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
@@ -210,9 +210,9 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwich",
-          "tuna sandwich",
-          "cheese sandwich"
+          "egg",
+          "tuna",
+          "cheese sandwiches"
         ],
         "desserts_snacks": [],
         "drinks": [
