@@ -11,14 +11,12 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento",
+          "halal vegetarian bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "halal bentos",
-          "halal vegetarian bento"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
@@ -58,14 +56,13 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
-        "desserts_snacks": [
-          "apples"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fresh apples",
+          "potato"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -109,7 +106,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "before it gets cleared",
+        "clearing_time_relative": null,
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -118,7 +115,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": "Grain catering",
         "risk_notice": null
       }
@@ -136,7 +133,7 @@
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": "Level 1",
         "landmark": null
       },
@@ -144,7 +141,7 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "veg spring rolls",
+          "spring rolls",
           "matcha croissants"
         ],
         "drinks": [],
@@ -248,6 +245,45 @@
     "createdAt": "2025-09-09T12:36:35.000Z",
     "lastUpdated": "2025-09-09T12:36:35.000Z",
     "prompts": "clearing in the next 10 mins"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "LT27 Foyer",
+        "campus_zone": "Kent Ridge",
+        "building": "LT27",
+        "room_or_lt": "LT27",
+        "floor": null,
+        "landmark": "foyer"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": "from 8pm onwards",
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
+    ],
+    "createdAt": "2025-09-10T10:09:20.000Z",
+    "lastUpdated": "2025-09-10T12:22:12.000Z",
+    "prompts": "whats the buffet going on outside lt27 science canteen 👀👀\nNew Message: Science Club event, not open to Buffet Response yet. im the organiser\nNew Message: Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards\nNew Message: cleared!"
   },
   {
     "entity": {
