@@ -1,25 +1,5 @@
 [
   {
-    "ts_utc": "2025-09-11T13:23:04.000Z",
-    "ts_tz": "2025-09-11T21:23:04+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40459,
-    "from": {
-      "id": "484877060",
-      "username": "loser_of_the_year",
-      "first_name": "Yue Lin",
-      "last_name": null
-    },
-    "text": "What’s up?",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-11T13:23:24.000Z",
-    "edit_ts_tz": "2025-09-11T21:23:24+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-09-11T13:22:18.000Z",
     "ts_tz": "2025-09-11T21:22:18+08:00",
     "chat_id": "1083087143",
