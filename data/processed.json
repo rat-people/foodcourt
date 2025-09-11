@@ -11,7 +11,7 @@
       },
       "content": {
         "main_dishes": [
-          "bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
@@ -24,12 +24,11 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "lots",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal",
-          "vegetarian"
+          "halal"
         ]
       },
       "misc": {
@@ -103,7 +102,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -116,8 +117,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": "Grain catering",
+        "urgency_level": "medium",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -133,7 +134,7 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -174,7 +175,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -186,7 +187,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food not deep fried"
+          "food"
         ]
       },
       "organizer_approved": null,
@@ -266,7 +267,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": "from 8pm onwards",
-        "clearing_time_exact": "20:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -275,7 +276,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "Science Club event",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -292,7 +293,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "MPH",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
