@@ -11,19 +11,20 @@
       },
       "content": {
         "main_dishes": [
-          "halal bento",
-          "halal vegetarian bento"
+          "bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -115,7 +116,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": "Grain catering",
         "risk_notice": null
       }
@@ -133,7 +134,7 @@
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
       },
@@ -142,7 +143,7 @@
         "desserts_snacks": [
           "kueh",
           "spring rolls",
-          "matcha croissants"
+          "croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -173,7 +174,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -185,7 +186,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food not deep fried"
+          "some food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -274,7 +275,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": null,
+        "food_source": "Science Club event",
         "risk_notice": null
       }
     },
