@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "bukit timah campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
+        "clearing_time_relative": null,
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -49,11 +49,10 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "kueh"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [
-          "spring rolls",
+          "kueh",
+          "veg spring rolls",
           "matcha croissants"
         ],
         "drinks": [],
@@ -85,7 +84,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -97,7 +96,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food"
+          "some food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -209,7 +208,7 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
+          "egg sandwiches",
           "tuna",
           "cheese sandwiches"
         ],
