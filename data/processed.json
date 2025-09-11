@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "bukit timah campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -13,7 +13,9 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -26,8 +28,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
-        "food_source": "Grain catering",
+        "urgency_level": "medium",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -52,8 +54,8 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "spring rolls",
-          "croissants"
+          "veg spring rolls",
+          "matcha croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -84,7 +86,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -96,7 +98,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food not deep fried"
+          "Some food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -160,6 +162,45 @@
   {
     "entity": {
       "location": {
+        "raw": "LT27 Foyer",
+        "campus_zone": "Kent Ridge",
+        "building": "LT27",
+        "room_or_lt": "LT27",
+        "floor": null,
+        "landmark": "foyer"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": "from 8pm onwards",
+        "clearing_time_exact": "20:00"
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": "Science Club event",
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
+    ],
+    "createdAt": "2025-09-10T10:09:20.000Z",
+    "lastUpdated": "2025-09-10T12:22:12.000Z",
+    "prompts": "whats the buffet going on outside lt27 science canteen 👀👀\nNew Message: Science Club event, not open to Buffet Response yet. im the organiser\nNew Message: Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards\nNew Message: cleared!"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
@@ -208,8 +249,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -247,7 +288,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -340,7 +381,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "21:00"
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -355,7 +396,7 @@
       "20250911/20250911205846_NUS Buffet Response Team_40456.jpg"
     ],
     "createdAt": "2025-09-11T12:58:46.000Z",
-    "lastUpdated": "2025-09-11T12:58:46.000Z",
-    "prompts": "Extra food at MD1-03-01D \nConsumed by 9pm please take at your own risk\n\nOrganiser approve"
+    "lastUpdated": "2025-09-11T13:22:18.000Z",
+    "prompts": "Extra food at MD1-03-01D \nConsumed by 9pm please take at your own risk\n\nOrganiser approve\nNew Message: All cleared!"
   }
 ]

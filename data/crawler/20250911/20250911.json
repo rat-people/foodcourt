@@ -1,5 +1,48 @@
 [
   {
+    "ts_utc": "2025-09-11T13:23:04.000Z",
+    "ts_tz": "2025-09-11T21:23:04+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40459,
+    "from": {
+      "id": "484877060",
+      "username": "loser_of_the_year",
+      "first_name": "Yue Lin",
+      "last_name": null
+    },
+    "text": "What’s up?",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-11T13:23:24.000Z",
+    "edit_ts_tz": "2025-09-11T21:23:24+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-11T13:22:18.000Z",
+    "ts_tz": "2025-09-11T21:22:18+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40457,
+    "from": {
+      "id": "1803963085",
+      "username": "feliciaangg",
+      "first_name": "Felicia",
+      "last_name": "Ng"
+    },
+    "text": "All cleared!",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40456,
+      "reply_to_top_message_id": null
+    },
+    "edited": true,
+    "edit_ts_utc": "2025-09-11T13:22:26.000Z",
+    "edit_ts_tz": "2025-09-11T21:22:26+08:00",
+    "media": []
+  },
+  {
     "ts_utc": "2025-09-11T12:58:46.000Z",
     "ts_tz": "2025-09-11T20:58:46+08:00",
     "chat_id": "1083087143",
@@ -14,9 +57,9 @@
     "text": "Extra food at MD1-03-01D \nConsumed by 9pm please take at your own risk\n\nOrganiser approve",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-11T13:22:42.000Z",
+    "edit_ts_tz": "2025-09-11T21:22:42+08:00",
     "media": [
       {
         "type": "photo",
@@ -68,9 +111,9 @@
     "text": "Still got quite a bit",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-11T13:22:54.000Z",
+    "edit_ts_tz": "2025-09-11T21:22:54+08:00",
     "media": []
   },
   {
