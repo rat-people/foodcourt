@@ -11,23 +11,25 @@
       },
       "content": {
         "main_dishes": [
-          "halal bentos",
-          "halal vegetarian bento"
+          "halal bento"
         ],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "halal vegetarian bento"
+        ]
       },
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "lots",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
-          "halal"
+          "halal",
+          "vegetarian"
         ]
       },
       "misc": {
@@ -55,14 +57,13 @@
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "potato"
-        ],
-        "desserts_snacks": [
-          "apples"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "fresh apples",
+          "potato"
+        ]
       },
       "organizer_approved": null,
       "time": {
@@ -91,7 +92,7 @@
   {
     "entity": {
       "location": {
-        "raw": "bukit timah campus, near staff lounge level 2",
+        "raw": "near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -108,7 +109,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -117,7 +118,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -187,7 +188,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "some food"
+          "food not deep fried"
         ]
       },
       "organizer_approved": null,
