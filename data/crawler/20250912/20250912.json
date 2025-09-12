@@ -1,5 +1,25 @@
 [
   {
+    "ts_utc": "2025-09-12T07:42:11.000Z",
+    "ts_tz": "2025-09-12T15:42:11+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40469,
+    "from": {
+      "id": "339461099",
+      "username": "blue_bellied_sea_eagle",
+      "first_name": "Blue",
+      "last_name": "Eagle"
+    },
+    "text": "Ok food finished, left coffee and tea",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-09-12T07:37:30.000Z",
     "ts_tz": "2025-09-12T15:37:30+08:00",
     "chat_id": "1083087143",
@@ -14,32 +34,9 @@
     "text": "Clearing at 345",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": []
-  },
-  {
-    "ts_utc": "2025-09-12T07:34:43.000Z",
-    "ts_tz": "2025-09-12T15:34:43+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40466,
-    "from": {
-      "id": "1864790284",
-      "username": "LyuLinshen",
-      "first_name": "Linshen L",
-      "last_name": null
-    },
-    "text": "still have?",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40465,
-      "reply_to_top_message_id": 40460
-    },
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T07:39:02.000Z",
+    "edit_ts_tz": "2025-09-12T15:39:02+08:00",
     "media": []
   },
   {
