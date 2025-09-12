@@ -208,25 +208,5 @@
         "path": "20250909/20250909202922_NUS Buffet Response Team_40418.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-09-09T06:37:58.000Z",
-    "ts_tz": "2025-09-09T14:37:58+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40417,
-    "from": {
-      "id": "23391778",
-      "username": "stephanienie",
-      "first_name": "Stephanie",
-      "last_name": "𓁹‿𓁹"
-    },
-    "text": "Buffet has been cleared - thanks all!",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-09T10:18:03.000Z",
-    "edit_ts_tz": "2025-09-09T18:18:03+08:00",
-    "media": []
   }
 ]

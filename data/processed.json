@@ -2,43 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "Buffet",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-09T06:37:58.000Z",
-    "lastUpdated": "2025-09-09T06:37:58.000Z",
-    "prompts": "Buffet has been cleared - thanks all!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
         "building": null,
@@ -50,8 +13,8 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "veg spring rolls",
-          "matcha croissants"
+          "spring rolls",
+          "croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -94,7 +57,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food not deep fried"
+          "food"
         ]
       },
       "organizer_approved": null,
@@ -158,6 +121,45 @@
   {
     "entity": {
       "location": {
+        "raw": "LT27 Foyer",
+        "campus_zone": "Kent Ridge",
+        "building": "LT27",
+        "room_or_lt": "LT27",
+        "floor": null,
+        "landmark": "foyer"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": "from 8pm onwards",
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": "Science Club event",
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
+    ],
+    "createdAt": "2025-09-10T10:09:20.000Z",
+    "lastUpdated": "2025-09-10T12:22:12.000Z",
+    "prompts": "whats the buffet going on outside lt27 science canteen 👀👀\nNew Message: Science Club event, not open to Buffet Response yet. im the organiser\nNew Message: Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards\nNew Message: cleared!"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
@@ -206,12 +208,11 @@
       },
       "content": {
         "main_dishes": [
+          "egg",
           "tuna",
           "cheese sandwiches"
         ],
-        "desserts_snacks": [
-          "egg sandwiches"
-        ],
+        "desserts_snacks": [],
         "drinks": [
           "ice lemon tea"
         ],
@@ -267,7 +268,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -283,8 +284,8 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
