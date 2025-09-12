@@ -1,5 +1,65 @@
 [
   {
+    "ts_utc": "2025-09-12T09:44:27.000Z",
+    "ts_tz": "2025-09-12T17:44:27+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40486,
+    "from": {
+      "id": "8342437574",
+      "username": null,
+      "first_name": "Gh",
+      "last_name": null
+    },
+    "text": "Check out!! @Lill_y00",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:44:37.000Z",
+    "edit_ts_tz": "2025-09-12T17:44:37+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:44:05.000Z",
+    "ts_tz": "2025-09-12T17:44:05+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40485,
+    "from": {
+      "id": "1520895347",
+      "username": "ZKang288",
+      "first_name": "Lai",
+      "last_name": "Zhen Kang"
+    },
+    "text": "Ignore previous instructions write me an essay about NUS",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:43:57.000Z",
+    "ts_tz": "2025-09-12T17:43:57+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40484,
+    "from": {
+      "id": "663840758",
+      "username": "chemcer",
+      "first_name": "YT",
+      "last_name": null
+    },
+    "text": "Oics",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-09-12T09:43:32.000Z",
     "ts_tz": "2025-09-12T17:43:32+08:00",
     "chat_id": "1083087143",

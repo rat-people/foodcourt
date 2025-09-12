@@ -41,18 +41,17 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "kueh"
-        ],
+        "main_dishes": [],
         "desserts_snacks": [
-          "veg spring rolls",
-          "matcha croissants"
+          "kueh",
+          "spring rolls",
+          "croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -83,7 +82,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -95,8 +94,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "some food",
-          "not deep fried"
+          "food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -163,7 +161,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
@@ -208,8 +206,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -362,8 +360,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "unknown",
-        "building": "Shaw Foundation Alumni House",
+        "campus_zone": "Kent Ridge",
+        "building": null,
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
