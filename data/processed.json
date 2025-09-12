@@ -14,7 +14,7 @@
         "desserts_snacks": [
           "kueh",
           "spring rolls",
-          "croissants"
+          "matcha croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -71,7 +71,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -146,7 +146,7 @@
       },
       "misc": {
         "urgency_level": null,
-        "food_source": "Science Club event",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -163,7 +163,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "MPH",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -247,7 +247,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
@@ -284,7 +284,7 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
@@ -362,8 +362,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "Kent Ridge",
-        "building": "Shaw Foundation Alumni House",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
