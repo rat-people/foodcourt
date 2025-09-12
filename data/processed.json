@@ -4,7 +4,7 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": null,
+        "building": "MD",
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -13,7 +13,7 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "spring rolls",
+          "veg spring rolls",
           "matcha croissants"
         ],
         "drinks": [],
@@ -57,7 +57,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food"
+          "food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -71,7 +71,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -137,7 +137,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": "from 8pm onwards",
-        "clearing_time_exact": null
+        "clearing_time_exact": "20:00"
       },
       "availability": "cleared",
       "policies": {
@@ -163,7 +163,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
@@ -247,7 +247,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -284,7 +284,7 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
