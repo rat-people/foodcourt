@@ -13,13 +13,11 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": [
-          "grain catering"
-        ]
+        "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "before it gets cleared",
+        "clearing_time_relative": null,
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -28,8 +26,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
-        "food_source": null,
+        "urgency_level": "high",
+        "food_source": "Grain catering",
         "risk_notice": null
       }
     },
@@ -149,7 +147,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -210,8 +208,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -249,7 +247,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -286,8 +284,8 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "Kent Ridge",
-        "building": null,
+        "campus_zone": "unknown",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -364,8 +362,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
