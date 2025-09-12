@@ -14,7 +14,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "Grain catering"
+          "grain catering"
         ]
       },
       "organizer_approved": null,
@@ -45,7 +45,7 @@
       "location": {
         "raw": "MD11 Symposium Room Level 1",
         "campus_zone": "Outram",
-        "building": "MD",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 1",
         "landmark": null
@@ -86,7 +86,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Some food not deep fried",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -162,6 +162,45 @@
   {
     "entity": {
       "location": {
+        "raw": "LT27 Foyer",
+        "campus_zone": "Kent Ridge",
+        "building": "LT27",
+        "room_or_lt": "LT27",
+        "floor": null,
+        "landmark": "foyer"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": "from 8pm onwards",
+        "clearing_time_exact": "20:00"
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": "Science Club event",
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
+    ],
+    "createdAt": "2025-09-10T10:09:20.000Z",
+    "lastUpdated": "2025-09-10T12:22:12.000Z",
+    "prompts": "whats the buffet going on outside lt27 science canteen 👀👀\nNew Message: Science Club event, not open to Buffet Response yet. im the organiser\nNew Message: Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards\nNew Message: cleared!"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
@@ -210,8 +249,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
-          "tuna",
+          "egg sandwiches",
+          "tuna sandwiches",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -270,7 +309,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -286,8 +325,8 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -359,5 +398,48 @@
     "createdAt": "2025-09-11T12:58:46.000Z",
     "lastUpdated": "2025-09-11T13:22:18.000Z",
     "prompts": "Extra food at MD1-03-01D \nConsumed by 9pm please take at your own risk\n\nOrganiser approve\nNew Message: All cleared!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Shaw Foindation alumni house level one behind the lift lobby",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": "level one",
+        "landmark": "behind the lift lobby"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "lots",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": "low",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250912/20250912124352_NUS Buffet Response Team_40462.jpg",
+      "20250912/20250912124352_NUS Buffet Response Team_40461.jpg",
+      "20250912/20250912124352_NUS Buffet Response Team_40460.jpg"
+    ],
+    "createdAt": "2025-09-12T04:43:52.000Z",
+    "lastUpdated": "2025-09-12T04:43:52.000Z",
+    "prompts": "Shaw Foindation alumni house level one behind the lift lobby org approved halal quite a lot but participants are still around so please be respectful"
   }
 ]
