@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -26,7 +26,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "high",
         "food_source": "Grain catering",
         "risk_notice": null
       }
@@ -52,8 +52,8 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "veg spring rolls",
-          "matcha croissants"
+          "spring rolls",
+          "croissants"
         ],
         "drinks": [],
         "other_items": []
@@ -84,7 +84,7 @@
   {
     "entity": {
       "location": {
-        "raw": "some food not deep fried",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -96,7 +96,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food"
+          "food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -162,7 +162,7 @@
       "location": {
         "raw": "LT27 Foyer",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "foyer"
@@ -323,7 +323,7 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "level 2",
