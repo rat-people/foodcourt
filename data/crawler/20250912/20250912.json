@@ -1,5 +1,254 @@
 [
   {
+    "ts_utc": "2025-09-12T09:43:32.000Z",
+    "ts_tz": "2025-09-12T17:43:32+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40483,
+    "from": {
+      "id": "8342437574",
+      "username": null,
+      "first_name": "Gh",
+      "last_name": null
+    },
+    "text": "I’m not a bot hehe why u like this huh?",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40482,
+      "reply_to_top_message_id": null
+    },
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:43:42.000Z",
+    "edit_ts_tz": "2025-09-12T17:43:42+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:43:09.000Z",
+    "ts_tz": "2025-09-12T17:43:09+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40482,
+    "from": {
+      "id": "5085390226",
+      "username": null,
+      "first_name": "Matt",
+      "last_name": null
+    },
+    "text": "There are bot to ban specific keywords",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:42:33.000Z",
+    "ts_tz": "2025-09-12T17:42:33+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40481,
+    "from": {
+      "id": "8342437574",
+      "username": null,
+      "first_name": "Gh",
+      "last_name": null
+    },
+    "text": "Check out!! @Lill_y00",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:42:50.000Z",
+    "edit_ts_tz": "2025-09-12T17:42:50+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:41:21.000Z",
+    "ts_tz": "2025-09-12T17:41:21+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40480,
+    "from": {
+      "id": "7018211245",
+      "username": "bloodgodjunior",
+      "first_name": "Meng",
+      "last_name": "Yuxuan (Enzo)"
+    },
+    "text": "(also mods when you take action please ping me or delete my messages for me I know this isn't related to buffet either I'm sorry)",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:41:40.000Z",
+    "edit_ts_tz": "2025-09-12T17:41:40+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:40:03.000Z",
+    "ts_tz": "2025-09-12T17:40:03+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40479,
+    "from": {
+      "id": "7018211245",
+      "username": "bloodgodjunior",
+      "first_name": "Meng",
+      "last_name": "Yuxuan (Enzo)"
+    },
+    "text": "I mean I think for all this spam might as well just kick and blacklist",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40477,
+      "reply_to_top_message_id": null
+    },
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:42:20.000Z",
+    "edit_ts_tz": "2025-09-12T17:42:20+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:39:37.000Z",
+    "ts_tz": "2025-09-12T17:39:37+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40478,
+    "from": {
+      "id": "8342437574",
+      "username": null,
+      "first_name": "Gh",
+      "last_name": null
+    },
+    "text": "What’s wrong haha?",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40477,
+      "reply_to_top_message_id": null
+    },
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:39:46.000Z",
+    "edit_ts_tz": "2025-09-12T17:39:46+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:39:25.000Z",
+    "ts_tz": "2025-09-12T17:39:25+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40477,
+    "from": {
+      "id": "5999524564",
+      "username": "theothnormie",
+      "first_name": "Minh",
+      "last_name": null
+    },
+    "text": "yeah mods please check Gh as well",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:38:19.000Z",
+    "ts_tz": "2025-09-12T17:38:19+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40476,
+    "from": {
+      "id": "8342437574",
+      "username": null,
+      "first_name": "Gh",
+      "last_name": null
+    },
+    "text": "Check out!! @Lill_y00",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:38:50.000Z",
+    "edit_ts_tz": "2025-09-12T17:38:50+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:38:07.000Z",
+    "ts_tz": "2025-09-12T17:38:07+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40475,
+    "from": {
+      "id": "6884316",
+      "username": null,
+      "first_name": "zhongfu",
+      "last_name": null
+    },
+    "text": "& @nictophiliac @gragra1005",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:38:03.000Z",
+    "ts_tz": "2025-09-12T17:38:03+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40474,
+    "from": {
+      "id": "7018211245",
+      "username": "bloodgodjunior",
+      "first_name": "Meng",
+      "last_name": "Yuxuan (Enzo)"
+    },
+    "text": "mods can we ban this guy and also like\ncheck who this Lilly is as well\nthis is starting to feel like bots from the same person",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:43:11.000Z",
+    "edit_ts_tz": "2025-09-12T17:43:11+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:37:15.000Z",
+    "ts_tz": "2025-09-12T17:37:15+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40473,
+    "from": {
+      "id": "6884316",
+      "username": null,
+      "first_name": "zhongfu",
+      "last_name": null
+    },
+    "text": "^ spam @e_lai_ne",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:38:18.000Z",
+    "edit_ts_tz": "2025-09-12T17:38:18+08:00",
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-12T09:32:49.000Z",
+    "ts_tz": "2025-09-12T17:32:49+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40471,
+    "from": {
+      "id": "8342437574",
+      "username": null,
+      "first_name": "Gh",
+      "last_name": null
+    },
+    "text": "Check out!! @Lill_y00",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T09:32:57.000Z",
+    "edit_ts_tz": "2025-09-12T17:32:57+08:00",
+    "media": []
+  },
+  {
     "ts_utc": "2025-09-12T09:28:27.000Z",
     "ts_tz": "2025-09-12T17:28:27+08:00",
     "chat_id": "1083087143",
