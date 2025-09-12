@@ -2,12 +2,12 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
-        "campus_zone": "Bukit Timah",
+        "raw": "Buffet",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
-        "floor": "level 2",
-        "landmark": "near staff lounge"
+        "floor": null,
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -18,7 +18,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "14:15"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -26,17 +26,15 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
-        "food_source": "Grain catering",
+        "urgency_level": null,
+        "food_source": null,
         "risk_notice": null
       }
     },
-    "media": [
-      "20250909/20250909135915_NUS Buffet Response Team_40416.jpg"
-    ],
-    "createdAt": "2025-09-09T05:59:15.000Z",
+    "media": [],
+    "createdAt": "2025-09-09T06:37:58.000Z",
     "lastUpdated": "2025-09-09T06:37:58.000Z",
-    "prompts": "Grain catering at bukit timah campus, near staff lounge level 2. Kindly take before it gets cleared at 2.15pm!\nNew Message: Buffet has been cleared - thanks all!"
+    "prompts": "Buffet has been cleared - thanks all!"
   },
   {
     "entity": {
@@ -52,7 +50,7 @@
         "main_dishes": [],
         "desserts_snacks": [
           "kueh",
-          "veg spring rolls",
+          "spring rolls",
           "matcha croissants"
         ],
         "drinks": [],
@@ -84,7 +82,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Some food not deep fried",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -96,7 +94,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "food not deep fried"
+          "some food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -163,7 +161,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
@@ -285,7 +283,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "unknown",
+        "building": "Alumni House",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -387,7 +385,7 @@
         ]
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
