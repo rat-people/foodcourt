@@ -5,7 +5,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "MPH",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -50,9 +50,9 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
-          "tuna",
-          "cheese sandwiches"
+          "egg sandwich",
+          "tuna sandwich",
+          "cheese sandwich"
         ],
         "desserts_snacks": [],
         "drinks": [
@@ -89,7 +89,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -127,8 +127,8 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "shawn foundation alumni house",
-        "room_or_lt": null,
+        "building": "null",
+        "room_or_lt": "null",
         "floor": "level 2",
         "landmark": "outside coriander room"
       },
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -205,7 +205,7 @@
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
