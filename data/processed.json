@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "near staff lounge level 2",
+        "raw": "bukit timah campus, near staff lounge level 2",
         "campus_zone": "Bukit Timah",
         "building": null,
         "room_or_lt": null,
@@ -13,11 +13,13 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "Grain catering"
+        ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -26,8 +28,8 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
-        "food_source": "Grain catering",
+        "urgency_level": "high",
+        "food_source": null,
         "risk_notice": null
       }
     },
@@ -96,7 +98,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "some food not deep fried"
+          "food not deep fried"
         ]
       },
       "organizer_approved": null,
@@ -163,7 +165,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "MPH",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -244,48 +246,9 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside MD11",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": "outside"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250911/20250911202046_NUS Buffet Response Team_40453.jpg"
-    ],
-    "createdAt": "2025-09-11T12:20:46.000Z",
-    "lastUpdated": "2025-09-11T12:31:25.000Z",
-    "prompts": "Outside MD11 org approved, participants are still around please be respectful and don't disturb them\nNew Message: Still got quite a bit"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "Shawn Foundation Alumni House",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
