@@ -14,9 +14,9 @@
     "text": "Ok food finished, left coffee and tea",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T08:00:33.000Z",
+    "edit_ts_tz": "2025-09-12T16:00:33+08:00",
     "media": []
   },
   {
@@ -57,9 +57,9 @@
       "reply_to_message_id": 40462,
       "reply_to_top_message_id": 40460
     },
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-12T08:00:26.000Z",
+    "edit_ts_tz": "2025-09-12T16:00:26+08:00",
     "media": []
   },
   {
