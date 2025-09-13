@@ -2,7 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "cleared!",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -126,7 +126,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -162,9 +162,9 @@
   {
     "entity": {
       "location": {
-        "raw": "Shawn Foundation Alumni House level 2 outside coriander room",
+        "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -227,7 +227,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "eat at your own risk"
+        "risk_notice": "take at your own risk"
       }
     },
     "media": [
@@ -240,9 +240,9 @@
   {
     "entity": {
       "location": {
-        "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "unknown",
-        "building": null,
+        "raw": "Shaw Foundation alumni house level one behind the lift lobby",
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -263,7 +263,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -273,7 +273,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update as the participants are still around"
+        "risk_notice": null
       }
     },
     "media": [
@@ -301,11 +301,12 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
+          "macs breakfast stuff"
+        ],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -324,7 +325,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -354,8 +355,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "ASAP",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "1pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -392,7 +393,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic bread"
+          "garlic breads"
         ]
       },
       "organizer_approved": true,
