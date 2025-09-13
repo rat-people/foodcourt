@@ -2,43 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-10T13:03:58.000Z",
-    "lastUpdated": "2025-09-10T13:03:58.000Z",
-    "prompts": "All cleared."
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "outside lt28",
         "campus_zone": "Kent Ridge",
         "building": null,
@@ -48,9 +11,9 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwich",
-          "tuna sandwich",
-          "cheese sandwich"
+          "egg sandwiches",
+          "tuna sandwiches",
+          "cheese sandwiches"
         ],
         "desserts_snacks": [],
         "drinks": [
@@ -188,7 +151,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "take at your own risk"
+        "risk_notice": "eat at own risk"
       }
     },
     "media": [
@@ -202,8 +165,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "unknown",
-        "building": "Shaw Foundation Alumni House",
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -224,7 +187,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -255,14 +218,14 @@
       "location": {
         "raw": "outside LT27",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "breakfast stuff",
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -285,7 +248,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -302,7 +265,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -315,8 +278,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "1pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
