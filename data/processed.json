@@ -89,7 +89,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -317,7 +317,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
