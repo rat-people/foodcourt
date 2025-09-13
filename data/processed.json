@@ -166,7 +166,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -229,7 +229,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "eat at own risk"
+        "risk_notice": "take at your own risk"
       }
     },
     "media": [
@@ -243,8 +243,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "Kent Ridge",
-        "building": "Shaw Foundation Alumni House",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -303,12 +303,11 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff"
-        ],
-        "desserts_snacks": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -319,7 +318,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": null
+        "clearing_time_exact": "07:45"
       },
       "availability": "cleared",
       "policies": {
@@ -344,7 +343,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -395,7 +394,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic breads"
+          "garlic bread"
         ]
       },
       "organizer_approved": true,
