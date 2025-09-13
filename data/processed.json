@@ -44,7 +44,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
@@ -89,9 +89,9 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
-          "tuna",
-          "cheese sandwiches"
+          "egg sandwich",
+          "tuna sandwich",
+          "cheese sandwich"
         ],
         "desserts_snacks": [],
         "drinks": [
@@ -128,7 +128,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
@@ -165,8 +165,8 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "campus_zone": "unknown",
+        "building": "Shawn Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -265,7 +265,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -303,11 +303,12 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
+          "macs breakfast stuff"
+        ],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -343,7 +344,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -356,7 +357,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
+        "clearing_time_relative": null,
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
