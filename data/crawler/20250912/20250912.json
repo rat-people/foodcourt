@@ -1,28 +1,5 @@
 [
   {
-    "ts_utc": "2025-09-12T12:22:19.000Z",
-    "ts_tz": "2025-09-12T20:22:19+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40495,
-    "from": {
-      "id": "940440561",
-      "username": "writtenbynino",
-      "first_name": "Niles/NiNO",
-      "last_name": null
-    },
-    "text": "Tak halal bro",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40494,
-      "reply_to_top_message_id": 40491
-    },
-    "edited": true,
-    "edit_ts_utc": "2025-09-12T12:31:09.000Z",
-    "edit_ts_tz": "2025-09-12T20:31:09+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-09-12T07:42:11.000Z",
     "ts_tz": "2025-09-12T15:42:11+08:00",
     "chat_id": "1083087143",

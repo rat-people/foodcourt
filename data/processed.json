@@ -44,7 +44,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
@@ -89,8 +89,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
-          "tuna",
+          "egg sandwiches",
+          "tuna sandwiches",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -166,7 +166,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
