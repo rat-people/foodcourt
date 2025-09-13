@@ -98,25 +98,5 @@
         "path": "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-09-10T10:09:20.000Z",
-    "ts_tz": "2025-09-10T18:09:20+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40438,
-    "from": {
-      "id": "7716056973",
-      "username": null,
-      "first_name": "leo",
-      "last_name": "micheal"
-    },
-    "text": "whats the buffet going on outside lt27 science canteen 👀👀",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-10T10:43:05.000Z",
-    "edit_ts_tz": "2025-09-10T18:43:05+08:00",
-    "media": []
   }
 ]

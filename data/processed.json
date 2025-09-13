@@ -166,7 +166,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -188,7 +188,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -229,7 +229,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "take at your own risk"
+        "risk_notice": "eat at own risk"
       }
     },
     "media": [
@@ -303,11 +303,12 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
+          "macs breakfast stuff"
+        ],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -326,7 +327,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -356,7 +357,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
+        "clearing_time_relative": "1pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
@@ -394,7 +395,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic bread"
+          "garlic breads"
         ]
       },
       "organizer_approved": true,
