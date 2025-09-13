@@ -5,7 +5,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
@@ -190,7 +190,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "eat at own risk"
+        "risk_notice": "take at your own risk"
       }
     },
     "media": [
@@ -224,7 +224,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -262,7 +262,6 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -272,7 +271,9 @@
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -285,7 +286,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -353,7 +354,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic bread"
+          "garlic breads"
         ]
       },
       "organizer_approved": true,
