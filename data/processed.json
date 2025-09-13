@@ -50,8 +50,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -89,7 +89,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -127,7 +127,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
