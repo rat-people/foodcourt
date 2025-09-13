@@ -50,8 +50,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
-          "tuna",
+          "egg sandwiches",
+          "tuna sandwiches",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -89,7 +89,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -224,7 +224,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -234,7 +234,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "please do not come before my update as the participants are still around"
       }
     },
     "media": [
@@ -255,13 +255,14 @@
       "location": {
         "raw": "outside LT27",
         "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": "LT27",
+        "building": "LT27",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
       "content": {
         "main_dishes": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -271,9 +272,7 @@
           "tea",
           "milo"
         ],
-        "other_items": [
-          "assorted macs breakfast stuff"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -303,7 +302,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
