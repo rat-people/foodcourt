@@ -86,6 +86,45 @@
   {
     "entity": {
       "location": {
+        "raw": "Outside MD11",
+        "campus_zone": "Outram",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "outside"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "lots",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250911/20250911202046_NUS Buffet Response Team_40453.jpg"
+    ],
+    "createdAt": "2025-09-11T12:20:46.000Z",
+    "lastUpdated": "2025-09-11T12:31:25.000Z",
+    "prompts": "Outside MD11 org approved, participants are still around please be respectful and don't disturb them\nNew Message: Still got quite a bit"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
         "building": null,
@@ -166,7 +205,7 @@
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -219,12 +258,11 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast"
-        ],
-        "desserts_snacks": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -237,7 +275,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -252,7 +290,7 @@
       "20250913/20250913092713_NUS Buffet Response Team_40499.jpg"
     ],
     "createdAt": "2025-09-13T01:27:13.000Z",
-    "lastUpdated": "2025-09-13T01:27:13.000Z",
-    "prompts": "outside LT27\nassorted macs breakfast stuff \nsome mcmuffins and hashbrowns \nmostly drinks (coffee/tea/milo) left\ni am the organizer\n\nbeen here since 7:45am, take at your own risk"
+    "lastUpdated": "2025-09-13T03:06:24.000Z",
+    "prompts": "outside LT27\nassorted macs breakfast stuff \nsome mcmuffins and hashbrowns \nmostly drinks (coffee/tea/milo) left\ni am the organizer\n\nbeen here since 7:45am, take at your own risk\nNew Message: Cleared!"
   }
 ]
