@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwich",
+          "egg",
           "tuna",
           "cheese sandwiches"
         ],
@@ -126,8 +126,8 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "Kent Ridge",
-        "building": null,
+        "campus_zone": "unknown",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -226,7 +226,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -236,7 +236,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "participants are still around, please be respectful"
       }
     },
     "media": [
@@ -264,6 +264,7 @@
       },
       "content": {
         "main_dishes": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -273,9 +274,7 @@
           "tea",
           "milo"
         ],
-        "other_items": [
-          "assorted macs breakfast stuff"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -318,7 +317,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
