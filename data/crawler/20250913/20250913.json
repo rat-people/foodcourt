@@ -1,5 +1,125 @@
 [
   {
+    "ts_utc": "2025-09-13T04:57:18.000Z",
+    "ts_tz": "2025-09-13T12:57:18+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40506,
+    "from": {
+      "id": "339461099",
+      "username": "blue_bellied_sea_eagle",
+      "first_name": "Blue",
+      "last_name": "Eagle"
+    },
+    "text": null,
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40501,
+      "reply_to_top_message_id": 40460
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6208496366376830498",
+        "filename": "20250913125718_NUS Buffet Response Team_40506.jpg",
+        "path": "20250913/20250913125718_NUS Buffet Response Team_40506.jpg"
+      }
+    ]
+  },
+  {
+    "ts_utc": "2025-09-13T04:57:18.000Z",
+    "ts_tz": "2025-09-13T12:57:18+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40505,
+    "from": {
+      "id": "339461099",
+      "username": "blue_bellied_sea_eagle",
+      "first_name": "Blue",
+      "last_name": "Eagle"
+    },
+    "text": null,
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40501,
+      "reply_to_top_message_id": 40460
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6208496366376830497",
+        "filename": "20250913125718_NUS Buffet Response Team_40505.jpg",
+        "path": "20250913/20250913125718_NUS Buffet Response Team_40505.jpg"
+      }
+    ]
+  },
+  {
+    "ts_utc": "2025-09-13T04:57:18.000Z",
+    "ts_tz": "2025-09-13T12:57:18+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40504,
+    "from": {
+      "id": "339461099",
+      "username": "blue_bellied_sea_eagle",
+      "first_name": "Blue",
+      "last_name": "Eagle"
+    },
+    "text": null,
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40501,
+      "reply_to_top_message_id": 40460
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6208496366376830496",
+        "filename": "20250913125718_NUS Buffet Response Team_40504.jpg",
+        "path": "20250913/20250913125718_NUS Buffet Response Team_40504.jpg"
+      }
+    ]
+  },
+  {
+    "ts_utc": "2025-09-13T04:57:18.000Z",
+    "ts_tz": "2025-09-13T12:57:18+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40503,
+    "from": {
+      "id": "339461099",
+      "username": "blue_bellied_sea_eagle",
+      "first_name": "Blue",
+      "last_name": "Eagle"
+    },
+    "text": "Ok ready, clearing 130-145",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40501,
+      "reply_to_top_message_id": 40460
+    },
+    "edited": true,
+    "edit_ts_utc": "2025-09-13T05:01:22.000Z",
+    "edit_ts_tz": "2025-09-13T13:01:22+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6208496366376830495",
+        "filename": "20250913125718_NUS Buffet Response Team_40503.jpg",
+        "path": "20250913/20250913125718_NUS Buffet Response Team_40503.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-09-13T04:08:50.000Z",
     "ts_tz": "2025-09-13T12:08:50+08:00",
     "chat_id": "1083087143",
@@ -11,12 +131,12 @@
       "first_name": "taha",
       "last_name": null
     },
-    "text": "Lunch to clear at Tembusu MPH by 1pm. Bring your own cutlery and lunchbox as disposables may not be enough\n\nUpdate as of 1230: Just carbs and drinks left",
+    "text": "Lunch to clear at Tembusu MPH by 1pm. Bring your own cutlery and lunchbox as disposables may not be enough\n\nUpdate as of 1250: cleared",
     "is_reply": false,
     "reply": null,
     "edited": true,
-    "edit_ts_utc": "2025-09-13T04:31:41.000Z",
-    "edit_ts_tz": "2025-09-13T12:31:41+08:00",
+    "edit_ts_utc": "2025-09-13T04:54:38.000Z",
+    "edit_ts_tz": "2025-09-13T12:54:38+08:00",
     "media": [
       {
         "type": "photo",
