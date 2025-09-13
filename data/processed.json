@@ -32,48 +32,9 @@
       }
     },
     "media": [],
-    "createdAt": "2025-09-10T12:22:12.000Z",
-    "lastUpdated": "2025-09-10T12:22:12.000Z",
-    "prompts": "cleared!"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "COM3-MPH",
-        "campus_zone": "Kent Ridge",
-        "building": "COM3",
-        "room_or_lt": "MPH",
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "ASAP",
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "high",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250910/20250910204220_NUS Buffet Response Team_40444.jpg"
-    ],
-    "createdAt": "2025-09-10T12:42:20.000Z",
+    "createdAt": "2025-09-10T13:03:58.000Z",
     "lastUpdated": "2025-09-10T13:03:58.000Z",
-    "prompts": "Leftover food at COM3-MPH, need to clear ASAP\nNew Message: All cleared."
+    "prompts": "All cleared."
   },
   {
     "entity": {
@@ -87,9 +48,9 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
-          "cheese sandwiches"
+          "egg sandwich",
+          "tuna sandwich",
+          "cheese sandwich"
         ],
         "desserts_snacks": [],
         "drinks": [
@@ -240,9 +201,9 @@
   {
     "entity": {
       "location": {
-        "raw": "Shaw Foundation alumni house level one behind the lift lobby",
-        "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "raw": "Shaw Foindation alumni house level one behind the lift lobby",
+        "campus_zone": "unknown",
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -301,12 +262,11 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff"
-        ],
-        "desserts_snacks": [
+          "breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -355,8 +315,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
       "policies": {
@@ -393,7 +353,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic breads"
+          "garlic bread"
         ]
       },
       "organizer_approved": true,
