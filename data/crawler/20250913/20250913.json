@@ -1,0 +1,29 @@
+[
+  {
+    "ts_utc": "2025-09-13T01:27:13.000Z",
+    "ts_tz": "2025-09-13T09:27:13+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40499,
+    "from": {
+      "id": "923240031",
+      "username": "kangzhe",
+      "first_name": "kang zhe",
+      "last_name": null
+    },
+    "text": "outside LT27\nassorted macs breakfast stuff \nsome mcmuffins and hashbrowns \nmostly drinks (coffee/tea/milo) left\ni am the organizer\n\nbeen here since 7:45am, take at your own risk",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-13T01:28:36.000Z",
+    "edit_ts_tz": "2025-09-13T09:28:36+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6208496366376830434",
+        "filename": "20250913092713_NUS Buffet Response Team_40499.jpg",
+        "path": "20250913/20250913092713_NUS Buffet Response Team_40499.jpg"
+      }
+    ]
+  }
+]
