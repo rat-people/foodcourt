@@ -50,7 +50,7 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
+          "egg sandwich",
           "tuna",
           "cheese sandwiches"
         ],
@@ -89,7 +89,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
@@ -126,7 +126,7 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
         "floor": "level 2",
@@ -204,7 +204,7 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
@@ -264,7 +264,6 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -274,7 +273,9 @@
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -304,7 +305,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
