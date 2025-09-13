@@ -2,45 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "LT27 Foyer",
-        "campus_zone": "Kent Ridge",
-        "building": "LT27",
-        "room_or_lt": "LT27",
-        "floor": null,
-        "landmark": "foyer"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": "from 8pm onwards",
-        "clearing_time_exact": "20:00"
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
-    ],
-    "createdAt": "2025-09-10T10:09:20.000Z",
-    "lastUpdated": "2025-09-10T12:22:12.000Z",
-    "prompts": "whats the buffet going on outside lt27 science canteen 👀👀\nNew Message: Science Club event, not open to Buffet Response yet. im the organiser\nNew Message: Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards\nNew Message: cleared!"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
@@ -90,7 +51,7 @@
       "content": {
         "main_dishes": [
           "egg sandwiches",
-          "tuna",
+          "tuna sandwiches",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -166,7 +127,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -251,7 +212,9 @@
       },
       "content": {
         "main_dishes": [],
-        "desserts_snacks": [],
+        "desserts_snacks": [
+          "tea break snacks"
+        ],
         "drinks": [
           "coffee",
           "tea"
@@ -273,7 +236,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "participants are still around, please be respectful"
       }
     },
     "media": [
@@ -286,8 +249,8 @@
       "20250913/20250913125718_NUS Buffet Response Team_40503.jpg"
     ],
     "createdAt": "2025-09-12T04:43:52.000Z",
-    "lastUpdated": "2025-09-13T05:15:28.000Z",
-    "prompts": "Shaw Foindation alumni house level one behind the lift lobby org approved halal quite a lot but participants are still around so please be respectful\nNew Message: They have just cleared\nNew Message: Same location, unsure where will clear so come asap\nNew Message: Clearing at 345\nNew Message: Ok food finished, left coffee and tea\nNew Message: For those at school, may consider stand by, the leftovers may be available for taking at around 1pm (I'll update when it's ready). That said, please do not come before my update as the participants are still around. Thank you.\nNew Message: Ok ready, clearing 130-145\nNew Message: Not food much left , still got some drinks"
+    "lastUpdated": "2025-09-13T07:29:35.000Z",
+    "prompts": "Shaw Foindation alumni house level one behind the lift lobby org approved halal quite a lot but participants are still around so please be respectful\nNew Message: They have just cleared\nNew Message: Same location, unsure where will clear so come asap\nNew Message: Clearing at 345\nNew Message: Ok food finished, left coffee and tea\nNew Message: For those at school, may consider stand by, the leftovers may be available for taking at around 1pm (I'll update when it's ready). That said, please do not come before my update as the participants are still around. Thank you.\nNew Message: Ok ready, clearing 130-145\nNew Message: Not food much left , still got some drinks\nNew Message: Same location, some tea break snacks and drinks, clearing soon"
   },
   {
     "entity": {
@@ -356,7 +319,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": "by 1pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -393,7 +356,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic bread"
+          "garlic breads"
         ]
       },
       "organizer_approved": true,
@@ -416,7 +379,7 @@
       "20250913/20250913143644_NUS Buffet Response Team_40508.jpg"
     ],
     "createdAt": "2025-09-13T06:36:44.000Z",
-    "lastUpdated": "2025-09-13T06:41:44.000Z",
-    "prompts": "Hi, I'm the organiser. Giving away a box of 10 slices of different flavours pizza and 2 garlic breads at Arise and Shine\nNew Message: Cleared"
+    "lastUpdated": "2025-09-13T07:31:48.000Z",
+    "prompts": "Hi, I'm the organiser. Giving away a box of 10 slices of different flavours pizza and 2 garlic breads at Arise and Shine\nNew Message: Cleared\nNew Message: are the dislikes coz there is pineapple on pizza? HAHA"
   }
 ]
