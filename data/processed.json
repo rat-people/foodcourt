@@ -5,7 +5,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": null,
+        "room_or_lt": "MPH",
         "floor": null,
         "landmark": null
       },
@@ -50,8 +50,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -110,7 +110,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -126,7 +126,7 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -224,7 +224,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -234,7 +234,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update as the participants are still around"
+        "risk_notice": null
       }
     },
     "media": [
@@ -262,6 +262,7 @@
       },
       "content": {
         "main_dishes": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -271,9 +272,7 @@
           "tea",
           "milo"
         ],
-        "other_items": [
-          "assorted macs breakfast stuff"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -286,7 +285,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -316,7 +315,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
+        "clearing_time_relative": null,
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
