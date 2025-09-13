@@ -89,7 +89,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -127,7 +127,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -188,7 +188,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -203,7 +203,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Shaw Foundation alumni house level one behind the lift lobby",
+        "raw": "Shaw Foindation alumni house level one behind the lift lobby",
         "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
@@ -258,11 +258,12 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
+          "macs breakfast stuff"
+        ],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -298,7 +299,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -306,15 +307,19 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
+        "drinks": [
+          "drinks"
+        ],
+        "other_items": [
+          "carbs"
+        ]
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -330,6 +335,6 @@
     ],
     "createdAt": "2025-09-13T04:08:50.000Z",
     "lastUpdated": "2025-09-13T04:08:50.000Z",
-    "prompts": "Lunch to clear at Tembusu MPH by 1pm. Bring your own cutlery and lunchbox as disposables may not be enough"
+    "prompts": "Lunch to clear at Tembusu MPH by 1pm. Bring your own cutlery and lunchbox as disposables may not be enough\n\nUpdate as of 1230: Just carbs and drinks left"
   }
 ]
