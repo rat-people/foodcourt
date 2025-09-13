@@ -236,7 +236,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "participants are still around, please be respectful"
+        "risk_notice": null
       }
     },
     "media": [
@@ -257,13 +257,14 @@
       "location": {
         "raw": "outside LT27",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "LT27",
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "outside"
       },
       "content": {
         "main_dishes": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -273,9 +274,7 @@
           "tea",
           "milo"
         ],
-        "other_items": [
-          "assorted macs breakfast stuff"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -319,7 +318,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": "by 1pm",
-        "clearing_time_exact": null
+        "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
       "policies": {
