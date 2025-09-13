@@ -11,8 +11,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -88,7 +88,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -151,7 +151,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "eat at own risk"
+        "risk_notice": "take at your own risk"
       }
     },
     "media": [
@@ -166,7 +166,7 @@
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -197,7 +197,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "please do not come before my update as the participants are still around"
       }
     },
     "media": [
@@ -218,14 +218,13 @@
       "location": {
         "raw": "outside LT27",
         "campus_zone": "Kent Ridge",
-        "building": "LT27",
+        "building": null,
         "room_or_lt": "LT27",
         "floor": null,
         "landmark": "outside"
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -235,7 +234,9 @@
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -248,7 +249,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -278,8 +279,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
       "policies": {
@@ -316,7 +317,8 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic bread"
+          "garlic bread",
+          "slices of different flavours pizza"
         ]
       },
       "organizer_approved": true,
