@@ -5,7 +5,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "MPH",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -50,8 +50,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -89,7 +89,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
@@ -190,7 +190,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "take at your own risk"
+        "risk_notice": "eat at own risk"
       }
     },
     "media": [
@@ -204,8 +204,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -224,7 +224,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -285,7 +285,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -302,7 +302,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -315,7 +315,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
@@ -361,7 +361,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -376,7 +376,7 @@
       "20250913/20250913143644_NUS Buffet Response Team_40508.jpg"
     ],
     "createdAt": "2025-09-13T06:36:44.000Z",
-    "lastUpdated": "2025-09-13T06:36:44.000Z",
-    "prompts": "Hi, I'm the organiser. Giving away a box of 10 slices of different flavours pizza and 2 garlic breads at Arise and Shine"
+    "lastUpdated": "2025-09-13T06:41:44.000Z",
+    "prompts": "Hi, I'm the organiser. Giving away a box of 10 slices of different flavours pizza and 2 garlic breads at Arise and Shine\nNew Message: Cleared"
   }
 ]
