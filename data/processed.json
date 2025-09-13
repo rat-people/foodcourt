@@ -44,7 +44,7 @@
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
-        "room_or_lt": "MPH",
+        "room_or_lt": null,
         "floor": null,
         "landmark": null
       },
@@ -89,8 +89,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -165,8 +165,8 @@
     "entity": {
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -243,8 +243,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "unknown",
-        "building": null,
+        "campus_zone": "Kent Ridge",
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -265,7 +265,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -275,7 +275,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": null
+        "risk_notice": "participants are still around, please be respectful"
       }
     },
     "media": [
@@ -318,7 +318,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "07:45"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -343,7 +343,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -356,8 +356,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
       "policies": {
