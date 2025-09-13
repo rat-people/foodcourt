@@ -18,7 +18,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": "from 8pm onwards",
-        "clearing_time_exact": null
+        "clearing_time_exact": "20:00"
       },
       "availability": "cleared",
       "policies": {
@@ -89,9 +89,9 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwich",
-          "tuna sandwich",
-          "cheese sandwich"
+          "egg sandwiches",
+          "tuna sandwiches",
+          "cheese sandwiches"
         ],
         "desserts_snacks": [],
         "drinks": [
@@ -128,7 +128,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -265,7 +265,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -275,7 +275,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "participants are still around, please be respectful"
+        "risk_notice": null
       }
     },
     "media": [
@@ -303,18 +303,18 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff"
-        ],
-        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -344,7 +344,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -357,7 +357,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
