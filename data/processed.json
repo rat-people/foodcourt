@@ -2,6 +2,45 @@
   {
     "entity": {
       "location": {
+        "raw": "LT27 Foyer",
+        "campus_zone": "Kent Ridge",
+        "building": "LT27",
+        "room_or_lt": "LT27",
+        "floor": null,
+        "landmark": "foyer"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": "from 8pm onwards",
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250910/20250910192412_NUS Buffet Response Team_40442.jpg"
+    ],
+    "createdAt": "2025-09-10T11:24:12.000Z",
+    "lastUpdated": "2025-09-10T12:22:12.000Z",
+    "prompts": "Buffet at LT27 Foyer. Organiser approved. Will be clearing from 8pm onwards\nNew Message: cleared!"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "COM3-MPH",
         "campus_zone": "Kent Ridge",
         "building": "COM3",
@@ -50,9 +89,9 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwich",
-          "tuna sandwich",
-          "cheese sandwich"
+          "egg sandwiches",
+          "tuna sandwiches",
+          "cheese sandwiches"
         ],
         "desserts_snacks": [],
         "drinks": [
@@ -89,7 +128,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -110,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -149,7 +188,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -226,7 +265,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -236,7 +275,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update as the participants are still around"
+        "risk_notice": null
       }
     },
     "media": [
@@ -287,7 +326,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -317,8 +356,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -326,7 +365,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
