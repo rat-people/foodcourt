@@ -11,8 +11,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -166,7 +166,7 @@
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -197,7 +197,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update as the participants are still around"
+        "risk_notice": null
       }
     },
     "media": [
@@ -225,18 +225,18 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff"
-        ],
-        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -279,7 +279,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
