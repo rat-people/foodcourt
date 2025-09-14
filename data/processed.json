@@ -43,8 +43,8 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "null",
-        "room_or_lt": "null",
+        "building": null,
+        "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
       },
@@ -106,7 +106,7 @@
       "misc": {
         "urgency_level": null,
         "food_source": null,
-        "risk_notice": "eat at own risk"
+        "risk_notice": "take at your own risk"
       }
     },
     "media": [
@@ -152,7 +152,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update as the participants are still around"
+        "risk_notice": null
       }
     },
     "media": [
@@ -221,7 +221,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -234,7 +234,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1pm",
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
