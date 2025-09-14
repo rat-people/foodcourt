@@ -2,48 +2,9 @@
   {
     "entity": {
       "location": {
-        "raw": "Outside MD11",
-        "campus_zone": "Outram",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": "outside"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250911/20250911202046_NUS Buffet Response Team_40453.jpg"
-    ],
-    "createdAt": "2025-09-11T12:20:46.000Z",
-    "lastUpdated": "2025-09-11T12:31:25.000Z",
-    "prompts": "Outside MD11 org approved, participants are still around please be respectful and don't disturb them\nNew Message: Still got quite a bit"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": "unknown",
+        "building": "Shawn Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -142,7 +103,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -152,7 +113,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update as the participants are still around"
+        "risk_notice": null
       }
     },
     "media": [
@@ -179,11 +140,11 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
+        "main_dishes": [],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
