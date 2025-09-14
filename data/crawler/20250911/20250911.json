@@ -50,33 +50,6 @@
     ]
   },
   {
-    "ts_utc": "2025-09-11T12:41:52.000Z",
-    "ts_tz": "2025-09-11T20:41:52+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40455,
-    "from": {
-      "id": "7347606238",
-      "username": "mteng04",
-      "first_name": "Monica",
-      "last_name": null
-    },
-    "text": "buffet at shawn foundation alumni house level 2 outside coriander room, clear by 9pm",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-11T12:50:50.000Z",
-    "edit_ts_tz": "2025-09-11T20:50:50+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6204119051672864972",
-        "filename": "20250911204152_NUS Buffet Response Team_40455.jpg",
-        "path": "20250911/20250911204152_NUS Buffet Response Team_40455.jpg"
-      }
-    ]
-  },
-  {
     "ts_utc": "2025-09-11T12:31:25.000Z",
     "ts_tz": "2025-09-11T20:31:25+08:00",
     "chat_id": "1083087143",

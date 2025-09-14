@@ -2,45 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "shawn foundation alumni house level 2 outside coriander room",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": "level 2",
-        "landmark": "outside coriander room"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "21:00"
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250911/20250911204152_NUS Buffet Response Team_40455.jpg"
-    ],
-    "createdAt": "2025-09-11T12:41:52.000Z",
-    "lastUpdated": "2025-09-11T12:41:52.000Z",
-    "prompts": "buffet at shawn foundation alumni house level 2 outside coriander room, clear by 9pm"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "MD1-03-01D",
         "campus_zone": "Outram",
         "building": null,
@@ -80,9 +41,9 @@
   {
     "entity": {
       "location": {
-        "raw": "Shaw Foundation alumni house level one behind the lift lobby",
+        "raw": "Shaw Foindation alumni house level one behind the lift lobby",
         "campus_zone": "Kent Ridge",
-        "building": "Shaw Foundation Alumni House",
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -181,7 +142,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -194,8 +155,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
       "policies": {
