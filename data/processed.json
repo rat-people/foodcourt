@@ -11,8 +11,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg",
-          "tuna",
+          "egg sandwiches",
+          "tuna sandwiches",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -50,7 +50,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -225,7 +225,6 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -235,7 +234,9 @@
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -278,8 +279,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
       "policies": {
@@ -303,7 +304,7 @@
     "entity": {
       "location": {
         "raw": "Arise and Shine",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
