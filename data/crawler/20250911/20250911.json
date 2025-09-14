@@ -122,32 +122,5 @@
         "path": "20250911/20250911202046_NUS Buffet Response Team_40453.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-09-11T08:23:18.000Z",
-    "ts_tz": "2025-09-11T16:23:18+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40450,
-    "from": {
-      "id": "663884802",
-      "username": "pnyc1",
-      "first_name": "Paul.",
-      "last_name": "Ng"
-    },
-    "text": "free egg, tuna, cheese sandwiches  outside lt28 with a lot of ice lemon tea left. organiser approved.",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-11T08:23:34.000Z",
-    "edit_ts_tz": "2025-09-11T16:23:34+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6204119051672864813",
-        "filename": "20250911162318_NUS Buffet Response Team_40450.jpg",
-        "path": "20250911/20250911162318_NUS Buffet Response Team_40450.jpg"
-      }
-    ]
   }
 ]

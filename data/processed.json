@@ -2,55 +2,10 @@
   {
     "entity": {
       "location": {
-        "raw": "outside lt28",
-        "campus_zone": "Kent Ridge",
-        "building": null,
-        "room_or_lt": "LT28",
-        "floor": null,
-        "landmark": "outside"
-      },
-      "content": {
-        "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
-          "cheese sandwiches"
-        ],
-        "desserts_snacks": [],
-        "drinks": [
-          "ice lemon tea"
-        ],
-        "other_items": []
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "lots",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250911/20250911162318_NUS Buffet Response Team_40450.jpg"
-    ],
-    "createdAt": "2025-09-11T08:23:18.000Z",
-    "lastUpdated": "2025-09-11T08:23:18.000Z",
-    "prompts": "free egg, tuna, cheese sandwiches  outside lt28 with a lot of ice lemon tea left. organiser approved."
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -88,7 +43,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -197,7 +152,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "participants are still around, please be respectful"
+        "risk_notice": "please do not come before my update as the participants are still around"
       }
     },
     "media": [
@@ -224,11 +179,11 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
+        "main_dishes": [
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -266,7 +221,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -279,8 +234,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
       "policies": {
@@ -317,7 +272,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic breads"
+          "garlic bread"
         ]
       },
       "organizer_approved": true,
