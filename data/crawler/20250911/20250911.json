@@ -95,32 +95,5 @@
     "edit_ts_utc": "2025-09-11T13:22:54.000Z",
     "edit_ts_tz": "2025-09-11T21:22:54+08:00",
     "media": []
-  },
-  {
-    "ts_utc": "2025-09-11T12:20:46.000Z",
-    "ts_tz": "2025-09-11T20:20:46+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40453,
-    "from": {
-      "id": "339461099",
-      "username": "blue_bellied_sea_eagle",
-      "first_name": "Blue",
-      "last_name": "Eagle"
-    },
-    "text": "Outside MD11 org approved, participants are still around please be respectful and don't disturb them",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-11T12:21:08.000Z",
-    "edit_ts_tz": "2025-09-11T20:21:08+08:00",
-    "media": [
-      {
-        "type": "photo",
-        "key": "p_6204119051672864966",
-        "filename": "20250911202046_NUS Buffet Response Team_40453.jpg",
-        "path": "20250911/20250911202046_NUS Buffet Response Team_40453.jpg"
-      }
-    ]
   }
 ]
