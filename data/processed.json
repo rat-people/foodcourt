@@ -11,8 +11,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -50,7 +50,7 @@
         "raw": "Outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
@@ -71,7 +71,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -165,8 +165,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "campus_zone": "unknown",
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -187,7 +187,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -278,7 +278,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
@@ -316,7 +316,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic bread"
+          "garlic breads"
         ]
       },
       "organizer_approved": true,
