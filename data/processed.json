@@ -120,8 +120,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "Kent Ridge",
-        "building": "Shaw Foundation Alumni House",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -152,7 +152,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update as the participants are still around"
+        "risk_notice": null
       }
     },
     "media": [
@@ -180,12 +180,11 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff"
-        ],
-        "desserts_snacks": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
