@@ -11,8 +11,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -149,7 +149,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -187,7 +187,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -278,8 +278,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 10 mins",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "1pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -287,7 +287,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -303,7 +303,7 @@
     "entity": {
       "location": {
         "raw": "Arise and Shine",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
