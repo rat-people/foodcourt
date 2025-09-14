@@ -14,9 +14,9 @@
     "text": "🌒 END NIGHT MODE\n\n✅ From now on users can send text messages in the group again.",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-14T03:20:42.000Z",
+    "edit_ts_tz": "2025-09-14T11:20:42+08:00",
     "media": []
   }
 ]
