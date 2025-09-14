@@ -11,8 +11,8 @@
       },
       "content": {
         "main_dishes": [
-          "egg sandwiches",
-          "tuna sandwiches",
+          "egg",
+          "tuna",
           "cheese sandwiches"
         ],
         "desserts_snacks": [],
@@ -88,7 +88,7 @@
       "location": {
         "raw": "shawn foundation alumni house level 2 outside coriander room",
         "campus_zone": "unknown",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "level 2",
         "landmark": "outside coriander room"
@@ -110,7 +110,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -165,8 +165,8 @@
     "entity": {
       "location": {
         "raw": "Shaw Foindation alumni house level one behind the lift lobby",
-        "campus_zone": "Kent Ridge",
-        "building": "Shaw Foundation Alumni House",
+        "campus_zone": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level one",
         "landmark": "behind the lift lobby"
@@ -225,7 +225,6 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -235,7 +234,9 @@
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -278,7 +279,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
@@ -287,7 +288,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -339,7 +340,7 @@
       "20250913/20250913143644_NUS Buffet Response Team_40508.jpg"
     ],
     "createdAt": "2025-09-13T06:36:44.000Z",
-    "lastUpdated": "2025-09-13T07:31:48.000Z",
-    "prompts": "Hi, I'm the organiser. Giving away a box of 10 slices of different flavours pizza and 2 garlic breads at Arise and Shine\nNew Message: Cleared\nNew Message: are the dislikes coz there is pineapple on pizza? HAHA"
+    "lastUpdated": "2025-09-13T06:41:44.000Z",
+    "prompts": "Hi, I'm the organiser. Giving away a box of 10 slices of different flavours pizza and 2 garlic breads at Arise and Shine\nNew Message: Cleared"
   }
 ]

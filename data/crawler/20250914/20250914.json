@@ -1,0 +1,22 @@
+[
+  {
+    "ts_utc": "2025-09-14T01:00:25.000Z",
+    "ts_tz": "2025-09-14T09:00:25+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40523,
+    "from": {
+      "id": "162726413",
+      "username": "GroupHelpBot",
+      "first_name": "Group Help",
+      "last_name": null
+    },
+    "text": "🌒 END NIGHT MODE\n\n✅ From now on users can send text messages in the group again.",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  }
+]

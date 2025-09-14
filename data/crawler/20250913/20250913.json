@@ -1,48 +1,5 @@
 [
   {
-    "ts_utc": "2025-09-13T07:33:20.000Z",
-    "ts_tz": "2025-09-13T15:33:20+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40512,
-    "from": {
-      "id": "1815796070",
-      "username": "alexteealwayshappy",
-      "first_name": "Tee",
-      "last_name": "Wei Jun"
-    },
-    "text": "Yes",
-    "is_reply": false,
-    "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
-    "media": []
-  },
-  {
-    "ts_utc": "2025-09-13T07:31:48.000Z",
-    "ts_tz": "2025-09-13T15:31:48+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40511,
-    "from": {
-      "id": "6551396343",
-      "username": "oemangmoh",
-      "first_name": "oem angmo",
-      "last_name": null
-    },
-    "text": "are the dislikes coz there is pineapple on pizza? HAHA",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40508,
-      "reply_to_top_message_id": null
-    },
-    "edited": true,
-    "edit_ts_utc": "2025-09-13T07:53:01.000Z",
-    "edit_ts_tz": "2025-09-13T15:53:01+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-09-13T07:29:35.000Z",
     "ts_tz": "2025-09-13T15:29:35+08:00",
     "chat_id": "1083087143",
