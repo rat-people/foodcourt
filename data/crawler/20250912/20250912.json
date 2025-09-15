@@ -20,26 +20,6 @@
     "media": []
   },
   {
-    "ts_utc": "2025-09-12T07:37:30.000Z",
-    "ts_tz": "2025-09-12T15:37:30+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40467,
-    "from": {
-      "id": "339461099",
-      "username": "blue_bellied_sea_eagle",
-      "first_name": "Blue",
-      "last_name": "Eagle"
-    },
-    "text": "Clearing at 345",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-12T07:39:02.000Z",
-    "edit_ts_tz": "2025-09-12T15:39:02+08:00",
-    "media": []
-  },
-  {
     "ts_utc": "2025-09-12T07:31:47.000Z",
     "ts_tz": "2025-09-12T15:31:47+08:00",
     "chat_id": "1083087143",
