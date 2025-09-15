@@ -11,7 +11,6 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -21,7 +20,9 @@
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -49,7 +50,7 @@
   {
     "entity": {
       "location": {
-        "raw": "school",
+        "raw": "unknown",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -66,8 +67,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "130-145",
-        "clearing_time_exact": null
+        "clearing_time_relative": "in 30 mins",
+        "clearing_time_exact": "13:00-14:45"
       },
       "availability": "few",
       "policies": {
@@ -108,7 +109,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
+        "clearing_time_relative": "1pm",
         "clearing_time_exact": null
       },
       "availability": "cleared",
