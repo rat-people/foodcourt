@@ -49,7 +49,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "school",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -75,7 +75,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -108,8 +108,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
