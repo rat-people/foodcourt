@@ -2,12 +2,12 @@
   {
     "entity": {
       "location": {
-        "raw": "Same location",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
+        "raw": "C4-02-01 (Above Science Canteen)",
+        "campus_zone": "Kent Ridge",
+        "building": "Science Canteen (non-aircon)",
+        "room_or_lt": "C4-02-01",
         "floor": null,
-        "landmark": null
+        "landmark": "above science canteen"
       },
       "content": {
         "main_dishes": [],
@@ -21,7 +21,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": "ASAP",
-        "clearing_time_exact": "3:45"
+        "clearing_time_exact": "03:45"
       },
       "availability": "cleared",
       "policies": {
@@ -35,9 +35,9 @@
       }
     },
     "media": [],
-    "createdAt": "2025-09-12T05:18:35.000Z",
+    "createdAt": "2025-09-12T07:31:47.000Z",
     "lastUpdated": "2025-09-12T07:42:11.000Z",
-    "prompts": "They have just cleared\nNew Message: Same location, unsure where will clear so come asap\nNew Message: Clearing at 345\nNew Message: Ok food finished, left coffee and tea"
+    "prompts": "Same location, unsure where will clear so come asap\nNew Message: Clearing at 345\nNew Message: Ok food finished, left coffee and tea"
   },
   {
     "entity": {
@@ -50,19 +50,18 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
+        "main_dishes": [
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
           "milo"
         ],
         "other_items": [
-          "breakfast stuff",
-          "assorted macs"
+          "assorted macs breakfast stuff"
         ]
       },
       "organizer_approved": true,
@@ -91,7 +90,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Not food much left , still got some drinks",
+        "raw": "around 1pm",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -117,7 +116,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -175,7 +174,7 @@
     "entity": {
       "location": {
         "raw": "Arise and Shine",
-        "campus_zone": "Utown",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
@@ -188,7 +187,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic bread"
+          "garlic breads"
         ]
       },
       "organizer_approved": true,
@@ -227,7 +226,7 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "tea break snacks"
+          "snacks"
         ],
         "drinks": [
           "tea"
