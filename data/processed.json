@@ -51,23 +51,23 @@
       },
       "content": {
         "main_dishes": [
+          "macs breakfast stuff"
+        ],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
           "milo"
         ],
-        "other_items": [
-          "assorted macs breakfast stuff"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": null,
-        "clearing_time_exact": "07:45"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -90,7 +90,7 @@
   {
     "entity": {
       "location": {
-        "raw": "not specified",
+        "raw": "Not food much left",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -101,7 +101,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [
-          "some drinks"
+          "drinks"
         ],
         "other_items": []
       },
@@ -136,7 +136,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -149,7 +149,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
@@ -244,7 +244,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
