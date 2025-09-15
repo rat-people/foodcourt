@@ -11,6 +11,7 @@
       },
       "content": {
         "main_dishes": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
@@ -20,9 +21,7 @@
           "tea",
           "milo"
         ],
-        "other_items": [
-          "assorted macs breakfast stuff"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -50,7 +49,7 @@
   {
     "entity": {
       "location": {
-        "raw": "school",
+        "raw": "Not food much left",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -61,13 +60,13 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [
-          "drinks"
+          "some drinks"
         ],
         "other_items": []
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "between 1:30 and 1:45",
+        "clearing_time_relative": "130-145",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -76,7 +75,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -96,7 +95,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -118,7 +117,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
