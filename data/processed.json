@@ -11,11 +11,12 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
+          "macs breakfast stuff"
+        ],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -34,7 +35,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": "take at your own risk"
       }
@@ -95,10 +96,10 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "MPH"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
