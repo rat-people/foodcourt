@@ -11,11 +11,12 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
+          "macs breakfast stuff"
+        ],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -49,7 +50,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Not specified",
+        "raw": "school",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -66,8 +67,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 30 mins",
-        "clearing_time_exact": "13:30"
+        "clearing_time_relative": null,
+        "clearing_time_exact": "13:30-14:45"
       },
       "availability": "few",
       "policies": {
@@ -108,7 +109,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "By 1pm",
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
