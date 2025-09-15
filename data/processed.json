@@ -35,7 +35,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update"
+        "risk_notice": "participants are still around"
       }
     },
     "media": [
@@ -117,7 +117,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
+        "clearing_time_relative": null,
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
