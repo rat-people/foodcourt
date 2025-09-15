@@ -50,7 +50,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Not food much left",
+        "raw": "around 1pm",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -96,7 +96,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
