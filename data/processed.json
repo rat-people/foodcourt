@@ -11,11 +11,12 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff",
+          "macs breakfast stuff"
+        ],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -49,7 +50,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "school",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -60,7 +61,7 @@
         "main_dishes": [],
         "desserts_snacks": [],
         "drinks": [
-          "drinks"
+          "some drinks"
         ],
         "other_items": []
       },
@@ -75,7 +76,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -108,7 +109,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
+        "clearing_time_relative": null,
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
@@ -146,7 +147,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic breads"
+          "garlic bread"
         ]
       },
       "organizer_approved": true,
