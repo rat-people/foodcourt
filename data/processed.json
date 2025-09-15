@@ -49,7 +49,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Not specified",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -66,8 +66,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "130-145",
-        "clearing_time_exact": null
+        "clearing_time_relative": "in 30 mins",
+        "clearing_time_exact": "13:30"
       },
       "availability": "few",
       "policies": {
@@ -75,7 +75,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -95,7 +95,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": null,
+        "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
         "landmark": null
@@ -108,7 +108,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "By 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
@@ -146,7 +146,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic breads"
+          "garlic bread"
         ]
       },
       "organizer_approved": true,
@@ -185,7 +185,7 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "snacks"
+          "tea break snacks"
         ],
         "drinks": [
           "tea"
