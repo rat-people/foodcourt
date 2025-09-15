@@ -50,18 +50,19 @@
         "landmark": "outside"
       },
       "content": {
-        "main_dishes": [
+        "main_dishes": [],
+        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
-        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
           "milo"
         ],
         "other_items": [
-          "assorted macs breakfast stuff"
+          "breakfast stuff",
+          "assorted macs"
         ]
       },
       "organizer_approved": true,
@@ -90,7 +91,7 @@
   {
     "entity": {
       "location": {
-        "raw": "school",
+        "raw": "Not food much left , still got some drinks",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -116,7 +117,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -149,8 +150,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
       "policies": {
@@ -174,7 +175,7 @@
     "entity": {
       "location": {
         "raw": "Arise and Shine",
-        "campus_zone": "unknown",
+        "campus_zone": "Utown",
         "building": null,
         "room_or_lt": null,
         "floor": null,
