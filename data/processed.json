@@ -25,7 +25,7 @@
         "clearing_time_relative": "ASAP",
         "clearing_time_exact": "13:30-14:45"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": [
@@ -35,7 +35,7 @@
       "misc": {
         "urgency_level": "high",
         "food_source": null,
-        "risk_notice": "please do not come before my update as the participants are still around"
+        "risk_notice": "please do not come before my update"
       }
     },
     "media": [
