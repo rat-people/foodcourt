@@ -67,8 +67,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "130-145",
-        "clearing_time_exact": null
+        "clearing_time_relative": "in 30 mins",
+        "clearing_time_exact": "13:30"
       },
       "availability": "few",
       "policies": {
@@ -76,7 +76,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -109,8 +109,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "by 1pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
