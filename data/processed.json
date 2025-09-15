@@ -21,7 +21,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": "ASAP",
-        "clearing_time_exact": "03:45"
+        "clearing_time_exact": "3:45"
       },
       "availability": "cleared",
       "policies": {
@@ -107,7 +107,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "1:30-1:45",
+        "clearing_time_relative": "130-145",
         "clearing_time_exact": null
       },
       "availability": "few",
@@ -116,7 +116,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -149,8 +149,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_relative": "1pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -226,7 +226,7 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "snacks"
+          "tea break snacks"
         ],
         "drinks": [
           "tea"
