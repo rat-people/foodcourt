@@ -21,7 +21,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": "ASAP",
-        "clearing_time_exact": "03:45"
+        "clearing_time_exact": "3:45"
       },
       "availability": "cleared",
       "policies": {
@@ -51,18 +51,18 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff"
-        ],
-        "desserts_snacks": [
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
           "milo"
         ],
-        "other_items": []
+        "other_items": [
+          "assorted macs breakfast stuff"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -90,7 +90,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Not food much left",
+        "raw": "around 1pm",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -136,7 +136,7 @@
       "location": {
         "raw": "Tembusu MPH",
         "campus_zone": "Utown",
-        "building": "Tembusu",
+        "building": null,
         "room_or_lt": null,
         "floor": null,
         "landmark": null
