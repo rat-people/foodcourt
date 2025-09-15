@@ -11,12 +11,11 @@
       },
       "content": {
         "main_dishes": [
-          "macs breakfast stuff"
-        ],
-        "desserts_snacks": [
+          "macs breakfast stuff",
           "mcmuffins",
           "hashbrowns"
         ],
+        "desserts_snacks": [],
         "drinks": [
           "coffee",
           "tea",
@@ -67,8 +66,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "13:30-14:45"
+        "clearing_time_relative": "130-145",
+        "clearing_time_exact": null
       },
       "availability": "few",
       "policies": {
@@ -76,7 +75,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -99,7 +98,7 @@
         "building": "Tembusu",
         "room_or_lt": null,
         "floor": null,
-        "landmark": null
+        "landmark": "MPH"
       },
       "content": {
         "main_dishes": [],
@@ -109,7 +108,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "by 1pm",
+        "clearing_time_relative": null,
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
