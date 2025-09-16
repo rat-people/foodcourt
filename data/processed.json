@@ -25,10 +25,10 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "at 2:15pm",
+        "clearing_time_relative": "in 15 mins",
         "clearing_time_exact": "14:15"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
