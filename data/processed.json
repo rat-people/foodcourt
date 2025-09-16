@@ -7,7 +7,7 @@
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Lavender"
+        "landmark": "outside lavender"
       },
       "content": {
         "main_dishes": [
@@ -28,7 +28,7 @@
         "clearing_time_relative": "in 15 mins",
         "clearing_time_exact": "14:15"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -91,7 +91,7 @@
         "raw": "FASS Research Division Seminar Room AS7 06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": "06-42",
+        "room_or_lt": "AS7 06-42",
         "floor": null,
         "landmark": null
       },
