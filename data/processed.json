@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "SFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2",
-        "campus_zone": "unknown",
+        "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "Level 2",
@@ -45,6 +45,45 @@
     "createdAt": "2025-09-16T05:43:59.000Z",
     "lastUpdated": "2025-09-16T06:10:28.000Z",
     "prompts": "update for 1.57pm: all food cleared except aloe vera dessert & apple cordial\n\nSFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2, still have pasta, beancurd & aloe vera dessert -- clearing at 2.15pm\n\ni am the organiser, please clear the food thanks!\nNew Message: cleared thank you!"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "Still have beancurd?",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "beancurd"
+        ]
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-09-16T05:56:55.000Z",
+    "lastUpdated": "2025-09-16T05:58:04.000Z",
+    "prompts": "Still have beancurd?\nNew Message: nope gone already"
   },
   {
     "entity": {
