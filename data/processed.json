@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
-        "floor": "level 2",
+        "floor": "Level 2",
         "landmark": "outside lavender"
       },
       "content": {
@@ -25,16 +25,16 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "in 15 mins",
-        "clearing_time_exact": "14:15"
+        "clearing_time_relative": "2:15pm",
+        "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -49,7 +49,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "Still have beancurd?",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
