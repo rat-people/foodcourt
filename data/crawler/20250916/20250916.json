@@ -1,5 +1,28 @@
 [
   {
+    "ts_utc": "2025-09-16T06:52:05.000Z",
+    "ts_tz": "2025-09-16T14:52:05+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40570,
+    "from": {
+      "id": "259040718",
+      "username": "zachyyc",
+      "first_name": "Zach",
+      "last_name": null
+    },
+    "text": "Cleared, thank you",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40565,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-09-16T06:10:28.000Z",
     "ts_tz": "2025-09-16T14:10:28+08:00",
     "chat_id": "1083087143",
@@ -115,12 +138,12 @@
       "first_name": "Zach",
       "last_name": null
     },
-    "text": "FASS Research Division Seminar Room AS7 06-42\nClearing by 2.40pm\nItems remaining: Ee Fu noodle, curry chicken, mixed vegetables, honey baked tofu, bo bo cha cha\nI’m the organiser",
+    "text": "*cleared*\nFASS Research Division Seminar Room AS7 06-42\nClearing by 2.40pm\nItems remaining: Ee Fu noodle, curry chicken, mixed vegetables, honey baked tofu, bo bo cha cha\nI’m the organiser",
     "is_reply": false,
     "reply": null,
     "edited": true,
-    "edit_ts_utc": "2025-09-16T06:10:01.000Z",
-    "edit_ts_tz": "2025-09-16T14:10:01+08:00",
+    "edit_ts_utc": "2025-09-16T06:52:25.000Z",
+    "edit_ts_tz": "2025-09-16T14:52:25+08:00",
     "media": [
       {
         "type": "photo",
