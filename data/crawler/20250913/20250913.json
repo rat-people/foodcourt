@@ -235,28 +235,5 @@
         "path": "20250913/20250913120850_NUS Buffet Response Team_40502.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-09-13T03:56:43.000Z",
-    "ts_tz": "2025-09-13T11:56:43+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40501,
-    "from": {
-      "id": "339461099",
-      "username": "blue_bellied_sea_eagle",
-      "first_name": "Blue",
-      "last_name": "Eagle"
-    },
-    "text": "For those at school, may consider stand by, the leftovers may be available for taking at around 1pm (I'll update when it's ready). That said, please do not come before my update as the participants are still around. Thank you.",
-    "is_reply": true,
-    "reply": {
-      "reply_to_message_id": 40462,
-      "reply_to_top_message_id": 40460
-    },
-    "edited": true,
-    "edit_ts_utc": "2025-09-13T03:58:06.000Z",
-    "edit_ts_tz": "2025-09-13T11:58:06+08:00",
-    "media": []
   }
 ]
