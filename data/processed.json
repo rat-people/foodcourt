@@ -2,49 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "Arise and Shine",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [
-          "pizza"
-        ],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "garlic bread"
-        ]
-      },
-      "organizer_approved": true,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250913/20250913143644_NUS Buffet Response Team_40508.jpg"
-    ],
-    "createdAt": "2025-09-13T06:36:44.000Z",
-    "lastUpdated": "2025-09-13T06:41:44.000Z",
-    "prompts": "Hi, I'm the organiser. Giving away a box of 10 slices of different flavours pizza and 2 garlic breads at Arise and Shine\nNew Message: Cleared"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "C4-02-01 (Above Science Canteen)",
         "campus_zone": "Kent Ridge",
         "building": "Science Canteen (non-aircon)",
@@ -87,11 +44,11 @@
     "entity": {
       "location": {
         "raw": "SFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside lavender"
+        "landmark": "outside Lavender"
       },
       "content": {
         "main_dishes": [
@@ -109,10 +66,10 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "in 15 mins",
-        "clearing_time_exact": "14:15"
+        "clearing_time_relative": "at 2:15pm",
+        "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -129,45 +86,6 @@
     "createdAt": "2025-09-16T05:43:59.000Z",
     "lastUpdated": "2025-09-16T06:10:28.000Z",
     "prompts": "update for 1.57pm: all food cleared except aloe vera dessert & apple cordial\n\nSFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2, still have pasta, beancurd & aloe vera dessert -- clearing at 2.15pm\n\ni am the organiser, please clear the food thanks!\nNew Message: cleared thank you!"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "Still have beancurd?",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "beancurd"
-        ]
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-16T05:56:55.000Z",
-    "lastUpdated": "2025-09-16T05:58:04.000Z",
-    "prompts": "Still have beancurd?\nNew Message: nope gone already"
   },
   {
     "entity": {
