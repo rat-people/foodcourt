@@ -25,8 +25,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:15pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "at 2:15pm",
+        "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
       "policies": {
@@ -34,7 +34,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
