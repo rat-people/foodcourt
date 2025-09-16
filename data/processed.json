@@ -2,29 +2,20 @@
   {
     "entity": {
       "location": {
-        "raw": "outside LT27",
-        "campus_zone": "Kent Ridge",
+        "raw": "unknown",
+        "campus_zone": "unknown",
         "building": null,
-        "room_or_lt": "LT27",
+        "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": null
       },
       "content": {
-        "main_dishes": [
-          "macs breakfast stuff"
-        ],
-        "desserts_snacks": [
-          "mcmuffins",
-          "hashbrowns"
-        ],
-        "drinks": [
-          "coffee",
-          "tea",
-          "milo"
-        ],
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
         "other_items": []
       },
-      "organizer_approved": true,
+      "organizer_approved": null,
       "time": {
         "clearing_time_relative": null,
         "clearing_time_exact": null
@@ -35,22 +26,20 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
-        "risk_notice": "take at your own risk"
+        "risk_notice": null
       }
     },
-    "media": [
-      "20250913/20250913092713_NUS Buffet Response Team_40499.jpg"
-    ],
-    "createdAt": "2025-09-13T01:27:13.000Z",
+    "media": [],
+    "createdAt": "2025-09-13T03:06:24.000Z",
     "lastUpdated": "2025-09-13T03:06:24.000Z",
-    "prompts": "outside LT27\nassorted macs breakfast stuff \nsome mcmuffins and hashbrowns \nmostly drinks (coffee/tea/milo) left\ni am the organizer\n\nbeen here since 7:45am, take at your own risk\nNew Message: Cleared!"
+    "prompts": "Cleared!"
   },
   {
     "entity": {
       "location": {
-        "raw": "unknown",
+        "raw": "around 1pm",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -67,8 +56,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "around 1pm",
-        "clearing_time_exact": "13:00-14:45"
+        "clearing_time_relative": "between 1:30 and 1:45",
+        "clearing_time_exact": "13:30-14:45"
       },
       "availability": "few",
       "policies": {
@@ -76,7 +65,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "low",
         "food_source": null,
         "risk_notice": null
       }
@@ -109,7 +98,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
