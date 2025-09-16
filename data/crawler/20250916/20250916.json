@@ -1,0 +1,29 @@
+[
+  {
+    "ts_utc": "2025-09-16T05:43:59.000Z",
+    "ts_tz": "2025-09-16T13:43:59+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40558,
+    "from": {
+      "id": "214214938",
+      "username": "junfengandre",
+      "first_name": "andre",
+      "last_name": null
+    },
+    "text": "SFAH outside Lavender @ Level 2, still have pasta, beancurd & aloe vera dessert -- clearing at 2.15pm\n\ni am the organiser",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6217456329581250577",
+        "filename": "20250916134359_NUS Buffet Response Team_40558.jpg",
+        "path": "20250916/20250916134359_NUS Buffet Response Team_40558.jpg"
+      }
+    ]
+  }
+]
