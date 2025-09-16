@@ -17,7 +17,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "by 1pm",
         "clearing_time_exact": "13:00"
       },
       "availability": "cleared",
@@ -41,7 +41,7 @@
   {
     "entity": {
       "location": {
-        "raw": "Not food much left",
+        "raw": "130-145",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -51,9 +51,7 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [],
-        "drinks": [
-          "drinks"
-        ],
+        "drinks": [],
         "other_items": []
       },
       "organizer_approved": null,
@@ -67,7 +65,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
