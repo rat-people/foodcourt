@@ -2,89 +2,6 @@
   {
     "entity": {
       "location": {
-        "raw": "Tembusu MPH",
-        "campus_zone": "Utown",
-        "building": "Tembusu",
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "by 1pm",
-        "clearing_time_exact": "13:00"
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250913/20250913120850_NUS Buffet Response Team_40502.jpg"
-    ],
-    "createdAt": "2025-09-13T04:08:50.000Z",
-    "lastUpdated": "2025-09-13T04:08:50.000Z",
-    "prompts": "Lunch to clear at Tembusu MPH by 1pm. Bring your own cutlery and lunchbox as disposables may not be enough\n\nUpdate as of 1250: cleared"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "130-145",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [
-          "drinks"
-        ],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "few",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [
-      "20250913/20250913125718_NUS Buffet Response Team_40506.jpg",
-      "20250913/20250913125718_NUS Buffet Response Team_40505.jpg",
-      "20250913/20250913125718_NUS Buffet Response Team_40504.jpg",
-      "20250913/20250913125718_NUS Buffet Response Team_40503.jpg"
-    ],
-    "createdAt": "2025-09-13T04:57:18.000Z",
-    "lastUpdated": "2025-09-13T05:15:28.000Z",
-    "prompts": "Ok ready, clearing 130-145\nNew Message: Not food much left , still got some drinks"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "Arise and Shine",
         "campus_zone": "unknown",
         "building": null,
@@ -99,7 +16,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic breads"
+          "garlic bread"
         ]
       },
       "organizer_approved": true,
@@ -138,7 +55,7 @@
       "content": {
         "main_dishes": [],
         "desserts_snacks": [
-          "tea break snacks"
+          "snacks"
         ],
         "drinks": [
           "tea"
