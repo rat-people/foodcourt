@@ -68,25 +68,5 @@
         "path": "20250913/20250913143644_NUS Buffet Response Team_40508.jpg"
       }
     ]
-  },
-  {
-    "ts_utc": "2025-09-13T05:15:28.000Z",
-    "ts_tz": "2025-09-13T13:15:28+08:00",
-    "chat_id": "1083087143",
-    "chat_title": "NUS Buffet Response Team",
-    "message_id": 40507,
-    "from": {
-      "id": "339461099",
-      "username": "blue_bellied_sea_eagle",
-      "first_name": "Blue",
-      "last_name": "Eagle"
-    },
-    "text": "Not food much left , still got some drinks",
-    "is_reply": false,
-    "reply": null,
-    "edited": true,
-    "edit_ts_utc": "2025-09-13T05:15:48.000Z",
-    "edit_ts_tz": "2025-09-13T13:15:48+08:00",
-    "media": []
   }
 ]
