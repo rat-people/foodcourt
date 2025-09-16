@@ -86,9 +86,9 @@
   {
     "entity": {
       "location": {
-        "raw": "SFAH outside Lavender @ Level 2",
-        "campus_zone": "unknown",
-        "building": null,
+        "raw": "SFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2",
+        "campus_zone": "Utown",
+        "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "outside lavender"
@@ -109,13 +109,13 @@
         "clearing_time_relative": null,
         "clearing_time_exact": "14:15"
       },
-      "availability": "unknown",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -125,6 +125,6 @@
     ],
     "createdAt": "2025-09-16T05:43:59.000Z",
     "lastUpdated": "2025-09-16T05:43:59.000Z",
-    "prompts": "SFAH outside Lavender @ Level 2, still have pasta, beancurd & aloe vera dessert -- clearing at 2.15pm\n\ni am the organiser"
+    "prompts": "SFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2, still have pasta, beancurd & aloe vera dessert -- clearing at 2.15pm\n\ni am the organiser, please clear the food thanks!"
   }
 ]

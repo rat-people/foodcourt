@@ -1,5 +1,65 @@
 [
   {
+    "ts_utc": "2025-09-16T05:45:52.000Z",
+    "ts_tz": "2025-09-16T13:45:52+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40562,
+    "from": {
+      "id": "1520895347",
+      "username": "ZKang288",
+      "first_name": "Lai",
+      "last_name": "Zhen Kang"
+    },
+    "text": "Oh Alumni House",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-16T05:45:24.000Z",
+    "ts_tz": "2025-09-16T13:45:24+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40560,
+    "from": {
+      "id": "2003793309",
+      "username": "najeongji",
+      "first_name": "parul",
+      "last_name": null
+    },
+    "text": "need to walk a bit after AS5 bus stop iirc",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-16T05:45:02.000Z",
+    "ts_tz": "2025-09-16T13:45:02+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40559,
+    "from": {
+      "id": "1520895347",
+      "username": "ZKang288",
+      "first_name": "Lai",
+      "last_name": "Zhen Kang"
+    },
+    "text": "Wheres SFAH",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
     "ts_utc": "2025-09-16T05:43:59.000Z",
     "ts_tz": "2025-09-16T13:43:59+08:00",
     "chat_id": "1083087143",
@@ -11,12 +71,12 @@
       "first_name": "andre",
       "last_name": null
     },
-    "text": "SFAH outside Lavender @ Level 2, still have pasta, beancurd & aloe vera dessert -- clearing at 2.15pm\n\ni am the organiser",
+    "text": "SFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2, still have pasta, beancurd & aloe vera dessert -- clearing at 2.15pm\n\ni am the organiser, please clear the food thanks!",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-16T05:47:26.000Z",
+    "edit_ts_tz": "2025-09-16T13:47:26+08:00",
     "media": [
       {
         "type": "photo",
