@@ -2,44 +2,7 @@
   {
     "entity": {
       "location": {
-        "raw": "unknown",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-13T03:06:24.000Z",
-    "lastUpdated": "2025-09-13T03:06:24.000Z",
-    "prompts": "Cleared!"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "around 1pm",
+        "raw": "school",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -56,8 +19,8 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "between 1:30 and 1:45",
-        "clearing_time_exact": "13:30-14:45"
+        "clearing_time_relative": "130-145",
+        "clearing_time_exact": null
       },
       "availability": "few",
       "policies": {
@@ -65,7 +28,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -99,7 +62,7 @@
       "organizer_approved": null,
       "time": {
         "clearing_time_relative": "by 1pm",
-        "clearing_time_exact": "13:00"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -136,7 +99,7 @@
         "desserts_snacks": [],
         "drinks": [],
         "other_items": [
-          "garlic bread"
+          "garlic breads"
         ]
       },
       "organizer_approved": true,
