@@ -2,49 +2,8 @@
   {
     "entity": {
       "location": {
-        "raw": "C4-02-01 (Above Science Canteen)",
-        "campus_zone": "Kent Ridge",
-        "building": "Science Canteen (non-aircon)",
-        "room_or_lt": "C4-02-01",
-        "floor": null,
-        "landmark": "above science canteen"
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [
-          "tea break snacks"
-        ],
-        "drinks": [
-          "tea"
-        ],
-        "other_items": []
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": "soon",
-        "clearing_time_exact": null
-      },
-      "availability": "unknown",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": "medium",
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-13T07:29:35.000Z",
-    "lastUpdated": "2025-09-13T07:29:35.000Z",
-    "prompts": "Same location, some tea break snacks and drinks, clearing soon"
-  },
-  {
-    "entity": {
-      "location": {
         "raw": "SFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "Level 2",
@@ -55,18 +14,19 @@
           "pasta"
         ],
         "desserts_snacks": [
-          "beancurd",
           "aloe vera dessert"
         ],
         "drinks": [
           "apple cordial"
         ],
-        "other_items": []
+        "other_items": [
+          "beancurd"
+        ]
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:15pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "in 15 mins",
+        "clearing_time_exact": "14:15"
       },
       "availability": "few",
       "policies": {
@@ -74,7 +34,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -194,7 +154,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -209,7 +169,7 @@
       "20250916/20250916140855_NUS Buffet Response Team_40568.jpg"
     ],
     "createdAt": "2025-09-16T06:08:55.000Z",
-    "lastUpdated": "2025-09-16T06:08:55.000Z",
-    "prompts": "Leftover buffet at E7 lvl 3, got permission from the organisers to open the buffet"
+    "lastUpdated": "2025-09-16T07:18:47.000Z",
+    "prompts": "Leftover buffet at E7 lvl 3, got permission from the organisers to open the buffet\nNew Message: Still have?\nNew Message: cleared"
   }
 ]
