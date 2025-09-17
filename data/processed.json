@@ -7,7 +7,7 @@
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Lavender"
+        "landmark": "outside lavender"
       },
       "content": {
         "main_dishes": [
@@ -25,8 +25,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "in 15 mins",
-        "clearing_time_exact": "14:15"
+        "clearing_time_relative": "2:15pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -34,7 +34,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "high",
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -59,15 +59,16 @@
       "content": {
         "main_dishes": [
           "Ee Fu noodle",
-          "curry chicken",
-          "mixed vegetables",
-          "honey baked tofu"
+          "curry chicken"
         ],
         "desserts_snacks": [
           "bo bo cha cha"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "mixed vegetables",
+          "honey baked tofu"
+        ]
       },
       "organizer_approved": true,
       "time": {
