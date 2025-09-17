@@ -28,7 +28,7 @@
         "clearing_time_relative": "in 15 mins",
         "clearing_time_exact": "14:15"
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
