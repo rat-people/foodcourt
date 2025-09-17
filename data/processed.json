@@ -59,16 +59,15 @@
       "content": {
         "main_dishes": [
           "Ee Fu noodle",
-          "curry chicken"
+          "curry chicken",
+          "mixed vegetables",
+          "honey baked tofu"
         ],
         "desserts_snacks": [
           "bo bo cha cha"
         ],
         "drinks": [],
-        "other_items": [
-          "mixed vegetables",
-          "honey baked tofu"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
