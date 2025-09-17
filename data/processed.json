@@ -6,7 +6,7 @@
         "campus_zone": "Kent Ridge",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
-        "floor": "level 2",
+        "floor": "Level 2",
         "landmark": "outside lavender"
       },
       "content": {
@@ -28,7 +28,7 @@
         "clearing_time_relative": "in 15 mins",
         "clearing_time_exact": "14:15"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
