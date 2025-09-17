@@ -25,16 +25,16 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:15pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "in 15 mins",
+        "clearing_time_exact": "14:15"
       },
-      "availability": "cleared",
+      "availability": "few",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": "high",
         "food_source": null,
         "risk_notice": null
       }
@@ -59,16 +59,15 @@
       "content": {
         "main_dishes": [
           "Ee Fu noodle",
-          "curry chicken"
+          "curry chicken",
+          "mixed vegetables",
+          "honey baked tofu"
         ],
         "desserts_snacks": [
           "bo bo cha cha"
         ],
         "drinks": [],
-        "other_items": [
-          "mixed vegetables",
-          "honey baked tofu"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
