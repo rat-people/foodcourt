@@ -3,7 +3,7 @@
     "entity": {
       "location": {
         "raw": "SFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "Level 2",
@@ -25,8 +25,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "in 15 mins",
-        "clearing_time_exact": "14:15"
+        "clearing_time_relative": "2:15pm",
+        "clearing_time_exact": null
       },
       "availability": "few",
       "policies": {
