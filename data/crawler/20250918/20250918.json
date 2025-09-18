@@ -34,9 +34,9 @@
     "text": "No plate",
     "is_reply": false,
     "reply": null,
-    "edited": false,
-    "edit_ts_utc": null,
-    "edit_ts_tz": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-18T06:33:21.000Z",
+    "edit_ts_tz": "2025-09-18T14:33:21+08:00",
     "media": []
   },
   {
