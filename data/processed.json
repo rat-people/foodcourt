@@ -132,7 +132,7 @@
       "location": {
         "raw": "SFAH - Outside Coriander room, Level 2",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "outside coriander room"
@@ -145,7 +145,7 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "in 15mins",
+        "clearing_time_relative": "in 15 mins",
         "clearing_time_exact": null
       },
       "availability": "unknown",
