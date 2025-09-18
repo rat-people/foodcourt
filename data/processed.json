@@ -12,15 +12,16 @@
       "content": {
         "main_dishes": [
           "Ee Fu noodle",
-          "curry chicken",
-          "mixed vegetables",
-          "honey baked tofu"
+          "curry chicken"
         ],
         "desserts_snacks": [
           "bo bo cha cha"
         ],
         "drinks": [],
-        "other_items": []
+        "other_items": [
+          "mixed vegetables",
+          "honey baked tofu"
+        ]
       },
       "organizer_approved": true,
       "time": {
@@ -154,7 +155,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": null,
+        "urgency_level": "medium",
         "food_source": null,
         "risk_notice": null
       }
@@ -172,7 +173,7 @@
         "raw": "outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
@@ -234,7 +235,7 @@
       },
       "availability": "unknown",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
