@@ -172,7 +172,7 @@
         "raw": "outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
@@ -212,7 +212,7 @@
   {
     "entity": {
       "location": {
-        "raw": "No specific location mentioned",
+        "raw": "2 locations",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -234,7 +234,7 @@
       },
       "availability": "unknown",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": []
       },
       "misc": {
