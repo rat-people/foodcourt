@@ -28,7 +28,7 @@
         "clearing_time_relative": "at 2:15pm",
         "clearing_time_exact": null
       },
-      "availability": "few",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -110,8 +110,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": "14:40"
+        "clearing_time_relative": "2:40pm",
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
