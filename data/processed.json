@@ -25,7 +25,7 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "in 15 mins",
+        "clearing_time_relative": "at 2:15pm",
         "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
@@ -45,45 +45,6 @@
     "createdAt": "2025-09-16T05:43:59.000Z",
     "lastUpdated": "2025-09-16T06:10:28.000Z",
     "prompts": "update for 1.57pm: all food cleared except aloe vera dessert & apple cordial\n\nSFAH (Shaw Foundation Alumni House) outside Lavender @ Level 2, still have pasta, beancurd & aloe vera dessert -- clearing at 2.15pm\n\ni am the organiser, please clear the food thanks!\nNew Message: cleared thank you!"
-  },
-  {
-    "entity": {
-      "location": {
-        "raw": "Still have beancurd?",
-        "campus_zone": "unknown",
-        "building": null,
-        "room_or_lt": null,
-        "floor": null,
-        "landmark": null
-      },
-      "content": {
-        "main_dishes": [],
-        "desserts_snacks": [],
-        "drinks": [],
-        "other_items": [
-          "beancurd"
-        ]
-      },
-      "organizer_approved": null,
-      "time": {
-        "clearing_time_relative": null,
-        "clearing_time_exact": null
-      },
-      "availability": "cleared",
-      "policies": {
-        "bring_own_container": null,
-        "dietary_flags": []
-      },
-      "misc": {
-        "urgency_level": null,
-        "food_source": null,
-        "risk_notice": null
-      }
-    },
-    "media": [],
-    "createdAt": "2025-09-16T05:56:55.000Z",
-    "lastUpdated": "2025-09-16T05:58:04.000Z",
-    "prompts": "Still have beancurd?\nNew Message: nope gone already"
   },
   {
     "entity": {
@@ -192,10 +153,10 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": null,
+        "clearing_time_relative": "tomorrow",
         "clearing_time_exact": null
       },
-      "availability": "unknown",
+      "availability": "cleared",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -218,7 +179,7 @@
       "location": {
         "raw": "SFAH - Outside Coriander room, Level 2",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "outside coriander room"
@@ -249,7 +210,50 @@
       "20250918/20250918133309_NUS Buffet Response Team_40589.jpg"
     ],
     "createdAt": "2025-09-18T05:33:09.000Z",
-    "lastUpdated": "2025-09-18T05:33:09.000Z",
-    "prompts": "SFAH - Outside Coriander room, Level 2 - if anyone want to ta pao. Clearing in 15mins"
+    "lastUpdated": "2025-09-18T05:48:23.000Z",
+    "prompts": "SFAH - Outside Coriander room, Level 2 - if anyone want to ta pao. Clearing in 15mins\nNew Message: Still have?"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "outside MD11",
+        "campus_zone": "Outram",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": "outside"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": true,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": [
+          "halal"
+        ]
+      },
+      "misc": {
+        "urgency_level": "low",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250918/20250918134710_NUS Buffet Response Team_40591.jpg",
+      "20250918/20250918134710_NUS Buffet Response Team_40590.jpg",
+      "20250918/20250918134711_NUS Buffet Response Team_40592.jpg"
+    ],
+    "createdAt": "2025-09-18T05:47:10.000Z",
+    "lastUpdated": "2025-09-18T05:47:11.000Z",
+    "prompts": "Some food outside MD11 org approved halal"
   }
 ]

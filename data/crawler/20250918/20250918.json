@@ -1,5 +1,129 @@
 [
   {
+    "ts_utc": "2025-09-18T05:53:17.000Z",
+    "ts_tz": "2025-09-18T13:53:17+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40594,
+    "from": {
+      "id": "784458967",
+      "username": null,
+      "first_name": "Oreo - R.I.P: 6.7.23 - 15.9.25 🚫",
+      "last_name": null
+    },
+    "text": "Think might not have.. got ppl packing",
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-18T05:48:23.000Z",
+    "ts_tz": "2025-09-18T13:48:23+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40593,
+    "from": {
+      "id": "1024208085",
+      "username": "yztangent",
+      "first_name": "Yuan Zheng",
+      "last_name": null
+    },
+    "text": "Still have?",
+    "is_reply": true,
+    "reply": {
+      "reply_to_message_id": 40589,
+      "reply_to_top_message_id": null
+    },
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": []
+  },
+  {
+    "ts_utc": "2025-09-18T05:47:11.000Z",
+    "ts_tz": "2025-09-18T13:47:11+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40592,
+    "from": {
+      "id": "339461099",
+      "username": "blue_bellied_sea_eagle",
+      "first_name": "Blue",
+      "last_name": "Eagle"
+    },
+    "text": null,
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6224096537999428022",
+        "filename": "20250918134711_NUS Buffet Response Team_40592.jpg",
+        "path": "20250918/20250918134711_NUS Buffet Response Team_40592.jpg"
+      }
+    ]
+  },
+  {
+    "ts_utc": "2025-09-18T05:47:10.000Z",
+    "ts_tz": "2025-09-18T13:47:10+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40591,
+    "from": {
+      "id": "339461099",
+      "username": "blue_bellied_sea_eagle",
+      "first_name": "Blue",
+      "last_name": "Eagle"
+    },
+    "text": null,
+    "is_reply": false,
+    "reply": null,
+    "edited": false,
+    "edit_ts_utc": null,
+    "edit_ts_tz": null,
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6224096537999428021",
+        "filename": "20250918134710_NUS Buffet Response Team_40591.jpg",
+        "path": "20250918/20250918134710_NUS Buffet Response Team_40591.jpg"
+      }
+    ]
+  },
+  {
+    "ts_utc": "2025-09-18T05:47:10.000Z",
+    "ts_tz": "2025-09-18T13:47:10+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40590,
+    "from": {
+      "id": "339461099",
+      "username": "blue_bellied_sea_eagle",
+      "first_name": "Blue",
+      "last_name": "Eagle"
+    },
+    "text": "Some food outside MD11 org approved halal",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-18T05:48:07.000Z",
+    "edit_ts_tz": "2025-09-18T13:48:07+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6224096537999428020",
+        "filename": "20250918134710_NUS Buffet Response Team_40590.jpg",
+        "path": "20250918/20250918134710_NUS Buffet Response Team_40590.jpg"
+      }
+    ]
+  },
+  {
     "ts_utc": "2025-09-18T05:33:09.000Z",
     "ts_tz": "2025-09-18T13:33:09+08:00",
     "chat_id": "1083087143",
