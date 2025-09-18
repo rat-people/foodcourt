@@ -89,7 +89,7 @@
   {
     "entity": {
       "location": {
-        "raw": "campus",
+        "raw": "in campus",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
