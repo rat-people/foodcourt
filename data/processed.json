@@ -212,7 +212,7 @@
   {
     "entity": {
       "location": {
-        "raw": "2 locations",
+        "raw": "No specific location mentioned",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -234,7 +234,7 @@
       },
       "availability": "unknown",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
