@@ -1,0 +1,29 @@
+[
+  {
+    "ts_utc": "2025-09-18T05:33:09.000Z",
+    "ts_tz": "2025-09-18T13:33:09+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40589,
+    "from": {
+      "id": "784458967",
+      "username": null,
+      "first_name": "Oreo - R.I.P: 6.7.23 - 15.9.25 🚫",
+      "last_name": null
+    },
+    "text": "SFAH - Outside Coriander room, Level 2 - if anyone want to ta pao. Clearing in 15mins",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-18T05:34:02.000Z",
+    "edit_ts_tz": "2025-09-18T13:34:02+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6224096537999427995",
+        "filename": "20250918133309_NUS Buffet Response Team_40589.jpg",
+        "path": "20250918/20250918133309_NUS Buffet Response Team_40589.jpg"
+      }
+    ]
+  }
+]

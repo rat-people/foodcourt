@@ -25,8 +25,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "at 2:15pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": "in 15 mins",
+        "clearing_time_exact": "14:15"
       },
       "availability": "cleared",
       "policies": {
@@ -49,10 +49,49 @@
   {
     "entity": {
       "location": {
+        "raw": "Still have beancurd?",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": [
+          "beancurd"
+        ]
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [],
+    "createdAt": "2025-09-16T05:56:55.000Z",
+    "lastUpdated": "2025-09-16T05:58:04.000Z",
+    "prompts": "Still have beancurd?\nNew Message: nope gone already"
+  },
+  {
+    "entity": {
+      "location": {
         "raw": "FASS Research Division Seminar Room AS7 06-42",
         "campus_zone": "Kent Ridge",
         "building": "AS7",
-        "room_or_lt": "AS7 06-42",
+        "room_or_lt": "06-42",
         "floor": null,
         "landmark": null
       },
@@ -71,8 +110,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "2:40pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:40"
       },
       "availability": "cleared",
       "policies": {
@@ -153,10 +192,10 @@
       },
       "organizer_approved": null,
       "time": {
-        "clearing_time_relative": "tomorrow",
+        "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -173,5 +212,44 @@
     "createdAt": "2025-09-17T15:36:57.000Z",
     "lastUpdated": "2025-09-17T15:36:57.000Z",
     "prompts": "15x ferrero cant finish😔 will be in campus tmr\nupdate: reserved"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "SFAH - Outside Coriander room, Level 2",
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
+        "room_or_lt": null,
+        "floor": "Level 2",
+        "landmark": "outside coriander room"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": "in 15 mins",
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250918/20250918133309_NUS Buffet Response Team_40589.jpg"
+    ],
+    "createdAt": "2025-09-18T05:33:09.000Z",
+    "lastUpdated": "2025-09-18T05:33:09.000Z",
+    "prompts": "SFAH - Outside Coriander room, Level 2 - if anyone want to ta pao. Clearing in 15mins"
   }
 ]
