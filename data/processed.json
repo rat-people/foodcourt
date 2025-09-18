@@ -54,7 +54,7 @@
         "campus_zone": "Kent Ridge",
         "building": null,
         "room_or_lt": null,
-        "floor": "lvl 3",
+        "floor": "level 3",
         "landmark": null
       },
       "content": {
@@ -109,7 +109,7 @@
         "clearing_time_relative": null,
         "clearing_time_exact": null
       },
-      "availability": "cleared",
+      "availability": "unknown",
       "policies": {
         "bring_own_container": null,
         "dietary_flags": []
@@ -172,7 +172,7 @@
         "raw": "outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": "MD11",
+        "room_or_lt": null,
         "floor": null,
         "landmark": "outside"
       },
