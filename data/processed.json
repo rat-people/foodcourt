@@ -7,7 +7,7 @@
         "building": "Shaw Foundation Alumni House",
         "room_or_lt": null,
         "floor": "Level 2",
-        "landmark": "outside Lavender"
+        "landmark": "outside lavender"
       },
       "content": {
         "main_dishes": [
@@ -26,7 +26,7 @@
       "organizer_approved": true,
       "time": {
         "clearing_time_relative": "at 2:15pm",
-        "clearing_time_exact": "14:15"
+        "clearing_time_exact": null
       },
       "availability": "cleared",
       "policies": {
@@ -71,8 +71,8 @@
       },
       "organizer_approved": true,
       "time": {
-        "clearing_time_relative": "by 2:40pm",
-        "clearing_time_exact": null
+        "clearing_time_relative": null,
+        "clearing_time_exact": "14:40"
       },
       "availability": "cleared",
       "policies": {
@@ -132,5 +132,46 @@
     "createdAt": "2025-09-16T06:08:55.000Z",
     "lastUpdated": "2025-09-16T07:18:47.000Z",
     "prompts": "Leftover buffet at E7 lvl 3, got permission from the organisers to open the buffet\nNew Message: Still have?\nNew Message: cleared"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "campus",
+        "campus_zone": "unknown",
+        "building": null,
+        "room_or_lt": null,
+        "floor": null,
+        "landmark": null
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [
+          "ferrero"
+        ],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "cleared",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": null,
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250917/20250917233657_NUS Buffet Response Team_40584.jpg"
+    ],
+    "createdAt": "2025-09-17T15:36:57.000Z",
+    "lastUpdated": "2025-09-17T15:36:57.000Z",
+    "prompts": "15x ferrero cant finish😔 will be in campus tmr\nupdate: reserved"
   }
 ]
