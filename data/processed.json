@@ -12,16 +12,15 @@
       "content": {
         "main_dishes": [
           "Ee Fu noodle",
-          "curry chicken"
+          "curry chicken",
+          "mixed vegetables",
+          "honey baked tofu"
         ],
         "desserts_snacks": [
           "bo bo cha cha"
         ],
         "drinks": [],
-        "other_items": [
-          "mixed vegetables",
-          "honey baked tofu"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -132,7 +131,7 @@
     "entity": {
       "location": {
         "raw": "SFAH - Outside Coriander room, Level 2",
-        "campus_zone": "Kent Ridge",
+        "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
@@ -155,7 +154,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "medium",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
@@ -235,7 +234,7 @@
       },
       "availability": "unknown",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": []
       },
       "misc": {
