@@ -132,7 +132,7 @@
       "location": {
         "raw": "SFAH - Outside Coriander room, Level 2",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "outside coriander room"
@@ -234,7 +234,7 @@
       },
       "availability": "unknown",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
@@ -247,5 +247,46 @@
     "createdAt": "2025-09-18T05:53:17.000Z",
     "lastUpdated": "2025-09-18T05:55:35.000Z",
     "prompts": "Think might not have.. got ppl packing\nNew Message: If u nearby can tried to drop by..cos we have 2 locations\nNew Message: Sorry.. someone just updated that the pineapple rice still have but need to bring g own container\nNew Message: No plate"
+  },
+  {
+    "entity": {
+      "location": {
+        "raw": "block EA lvl1 below curly stairs",
+        "campus_zone": "Kent Ridge",
+        "building": "unknown",
+        "room_or_lt": null,
+        "floor": "level 1",
+        "landmark": "below curly stairs"
+      },
+      "content": {
+        "main_dishes": [],
+        "desserts_snacks": [
+          "candies"
+        ],
+        "drinks": [],
+        "other_items": []
+      },
+      "organizer_approved": null,
+      "time": {
+        "clearing_time_relative": null,
+        "clearing_time_exact": null
+      },
+      "availability": "unknown",
+      "policies": {
+        "bring_own_container": null,
+        "dietary_flags": []
+      },
+      "misc": {
+        "urgency_level": "low",
+        "food_source": null,
+        "risk_notice": null
+      }
+    },
+    "media": [
+      "20250919/20250919130000_NUS Buffet Response Team_40611.jpg"
+    ],
+    "createdAt": "2025-09-19T05:00:00.000Z",
+    "lastUpdated": "2025-09-19T05:00:00.000Z",
+    "prompts": "some candies i don't want to carry home, block EA lvl1 below curly stairs"
   }
 ]

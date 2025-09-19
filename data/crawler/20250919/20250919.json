@@ -1,0 +1,29 @@
+[
+  {
+    "ts_utc": "2025-09-19T05:00:00.000Z",
+    "ts_tz": "2025-09-19T13:00:00+08:00",
+    "chat_id": "1083087143",
+    "chat_title": "NUS Buffet Response Team",
+    "message_id": 40611,
+    "from": {
+      "id": "1864790284",
+      "username": "LyuLinshen",
+      "first_name": "Linshen L",
+      "last_name": null
+    },
+    "text": "some candies i don't want to carry home, block EA lvl1 below curly stairs",
+    "is_reply": false,
+    "reply": null,
+    "edited": true,
+    "edit_ts_utc": "2025-09-19T05:00:10.000Z",
+    "edit_ts_tz": "2025-09-19T13:00:10+08:00",
+    "media": [
+      {
+        "type": "photo",
+        "key": "p_6226348337813111126",
+        "filename": "20250919130000_NUS Buffet Response Team_40611.jpg",
+        "path": "20250919/20250919130000_NUS Buffet Response Team_40611.jpg"
+      }
+    ]
+  }
+]
