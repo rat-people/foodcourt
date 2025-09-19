@@ -89,7 +89,7 @@
   {
     "entity": {
       "location": {
-        "raw": "in campus",
+        "raw": "campus",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -132,7 +132,7 @@
       "location": {
         "raw": "SFAH - Outside Coriander room, Level 2",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "outside coriander room"
@@ -172,7 +172,7 @@
         "raw": "outside MD11",
         "campus_zone": "Outram",
         "building": null,
-        "room_or_lt": null,
+        "room_or_lt": "MD11",
         "floor": null,
         "landmark": "outside"
       },
