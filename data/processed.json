@@ -12,16 +12,15 @@
       "content": {
         "main_dishes": [
           "Ee Fu noodle",
-          "curry chicken"
+          "curry chicken",
+          "mixed vegetables",
+          "honey baked tofu"
         ],
         "desserts_snacks": [
           "bo bo cha cha"
         ],
         "drinks": [],
-        "other_items": [
-          "mixed vegetables",
-          "honey baked tofu"
-        ]
+        "other_items": []
       },
       "organizer_approved": true,
       "time": {
@@ -90,7 +89,7 @@
   {
     "entity": {
       "location": {
-        "raw": "in campus",
+        "raw": "campus",
         "campus_zone": "unknown",
         "building": null,
         "room_or_lt": null,
@@ -170,12 +169,12 @@
   {
     "entity": {
       "location": {
-        "raw": "outside MD11",
+        "raw": "MD11",
         "campus_zone": "Outram",
         "building": null,
         "room_or_lt": null,
         "floor": null,
-        "landmark": "outside"
+        "landmark": null
       },
       "content": {
         "main_dishes": [],
@@ -235,7 +234,7 @@
       },
       "availability": "unknown",
       "policies": {
-        "bring_own_container": true,
+        "bring_own_container": null,
         "dietary_flags": []
       },
       "misc": {
