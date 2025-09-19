@@ -132,7 +132,7 @@
       "location": {
         "raw": "SFAH - Outside Coriander room, Level 2",
         "campus_zone": "Kent Ridge",
-        "building": null,
+        "building": "unknown",
         "room_or_lt": null,
         "floor": "Level 2",
         "landmark": "outside coriander room"
@@ -234,7 +234,7 @@
       },
       "availability": "unknown",
       "policies": {
-        "bring_own_container": null,
+        "bring_own_container": true,
         "dietary_flags": []
       },
       "misc": {
@@ -253,7 +253,7 @@
       "location": {
         "raw": "block EA lvl1 below curly stairs",
         "campus_zone": "Kent Ridge",
-        "building": "unknown",
+        "building": null,
         "room_or_lt": null,
         "floor": "level 1",
         "landmark": "below curly stairs"
@@ -277,7 +277,7 @@
         "dietary_flags": []
       },
       "misc": {
-        "urgency_level": "low",
+        "urgency_level": null,
         "food_source": null,
         "risk_notice": null
       }
